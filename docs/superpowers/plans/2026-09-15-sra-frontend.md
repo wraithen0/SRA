@@ -4149,7 +4149,7 @@ export default defineConfig({
   },
   projects: [{ name: "chromium", use: { ...devices["Desktop Chrome"] } }],
   webServer: {
-    command: "npm run build && npm run preview -- --port 4173 --strictPort",
+    command: "npm run build && npm run preview -- --port 4173 --strictPort --host 127.0.0.1",
     url: "http://127.0.0.1:4173",
     reuseExistingServer: !process.env.CI,
     env: { VITE_SRA_MOCK: "1" },
@@ -4183,7 +4183,7 @@ test("search to school detail, with GET-only traffic", async ({ page }) => {
   await expect(page.getByRole("heading", { name: "Evidence" })).toBeVisible();
   await expect(page.getByRole("heading", { name: "Not verified yet" })).toBeVisible();
   await expect(page.getByRole("heading", { name: "Playbook" })).toBeVisible();
-  await expect(page.getByRole("heading", { name: "Deadlines" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Deadlines" }).first()).toBeVisible();
   await expect(page.getByRole("heading", { name: "Programmes" })).toBeVisible();
 
   expect(methods.filter((method) => method === "POST")).toEqual([]);
