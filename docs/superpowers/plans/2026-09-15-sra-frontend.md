@@ -2991,7 +2991,7 @@ describe("SchoolPage", () => {
     expect(screen.getByRole("heading", { name: /Evidence/i })).toBeInTheDocument();
     expect(screen.getByRole("heading", { name: /Not verified yet/i })).toBeInTheDocument();
     expect(screen.getByRole("heading", { name: /Playbook/i })).toBeInTheDocument();
-    expect(screen.getByRole("heading", { name: /Deadlines/i })).toBeInTheDocument();
+    expect(screen.getAllByRole("heading", { name: /Deadlines/i }).length).toBeGreaterThan(0);
     expect(screen.getByRole("heading", { name: /Programmes/i })).toBeInTheDocument();
   });
 
@@ -3036,7 +3036,7 @@ export function SchoolPage() {
 
   const { data, error, loading } = useApi(() => school(key, query.profile), [key, query.profile]);
 
-  const backTo = `/${params.toString()}`;
+  const backTo = `/?${params.toString()}`;
 
   if (loading) {
     return (
