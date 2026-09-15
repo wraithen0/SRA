@@ -1,12 +1,25 @@
 import { render, screen } from "@testing-library/react";
 import { MemoryRouter } from "react-router-dom";
+import { afterEach, expect, it, vi } from "vitest";
 import App from "./App";
+import { VocabularyProvider } from "./api/VocabularyContext";
+import { resetMockState } from "./api/client";
 
-it("renders the app shell", () => {
+afterEach(() => {
+  vi.unstubAllEnvs();
+  resetMockState();
+});
+
+it("renders the app shell with a header, brand link, footer, and mock banner", () => {
+  vi.stubEnv("VITE_SRA_MOCK", "1");
   render(
-    <MemoryRouter>
-      <App />
-    </MemoryRouter>
+    <VocabularyProvider>
+      <MemoryRouter>
+        <App />
+      </MemoryRouter>
+    </VocabularyProvider>
   );
   expect(screen.getByRole("banner")).toBeInTheDocument();
+  expect(screen.getByRole("link", { name: /SRA/ })).toBeInTheDocument();
+  expect(screen.getByRole("contentinfo")).toBeInTheDocument();
 });
