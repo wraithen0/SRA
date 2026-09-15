@@ -1,0 +1,13 @@
+{
+  "topics": [
+    { "key": "home", "label": "Homepage" },
+    { "key": "financial_aid", "label": "Financial aid office" },
+    { "key": "net_price_calculator", "label": "Net price calculator" },
+    { "key": "institutional_grant", "label": "Institutional grant" },
+    { "key": "first_gen_program", "label": "First-generation program" },
+    { "key": "aid_generosity", "label": "Grants and net-price generosity" },
+    { "key": "need_coverage", "label": "Share of need met" },
+    { "key": "first_gen_support", "label": "First-generation support programs" },
+    { "key": "net_price_affordability", "label": "Affordability after aid" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "institution": {
+    "unitid": 230038,
+    "name": "Example State University",
+    "city": "Burlington",
+    "state_abbr": "VT",
+    "control": "public",
+    "url_homepage": "https://example.edu/",
+    "avg_net_price": null
+  },
+  "score": 61,
+  "signals": { "aid_generosity": 0.71, "need_coverage": 0.66 },
+  "why": [
+    { "signal": "aid_generosity", "label": "Grants and net-price generosity", "value": 0.71, "weight": 22 },
+    { "signal": "need_coverage", "label": "Share of need met", "value": 0.66, "weight": 18 }
+  ],
+  "needs_covered": ["financial_aid_office"],
+  "links": { "home": "https://example.edu/" },
+  "facts": [
+    {
+      "topic": "institutional_grant",
+      "value": "Need-based grant program for in-state students.",
+      "url": "https://example.edu/aid",
+      "extractor": "rule",
+      "confidence": 0.88,
+      "evidence": "Awards range from $2,000 to $12,000 annually.",
+      "observed_at": "2024-01-10T10:00:00Z",
+      "expires_at": "2025-01-10T10:00:00Z",
+      "stale": true
+    }
+  ],
+  "deadlines": [],
+  "programs": [],
+  "playbook": [
+    {
+      "order": 1,
+      "title": "File the FAFSA",
+      "detail": "File as early as possible.",
+      "url": "https://studentaid.gov/h/apply-for-aid/fafsa",
+      "deadline": "2027-02-01",
+      "status": "action"
+    }
+  ],
+  "gaps": [],
+  "last_verified": "2026-09-14T12:00:00Z",
+  "stale": true
+}

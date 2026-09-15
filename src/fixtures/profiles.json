@@ -1,0 +1,7 @@
+{
+  "profiles": [
+    { "key": "first_generation", "label": "First-generation student" },
+    { "key": "student_with_disability", "label": "Student with a disability" },
+    { "key": "international_stem", "label": "International STEM student" }
+  ]
+}

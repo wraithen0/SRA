@@ -1,0 +1,99 @@
+{
+  "institution": {
+    "unitid": 243744,
+    "name": "Stanford University",
+    "city": "Stanford",
+    "state_abbr": "CA",
+    "control": "private_nonprofit",
+    "url_homepage": "https://stanford.edu/",
+    "avg_net_price": 14200
+  },
+  "score": 42,
+  "signals": {
+    "aid_generosity": 0.62,
+    "need_coverage": 0.42,
+    "first_gen_support": 0.55,
+    "net_price_affordability": 0.31
+  },
+  "why": [
+    { "signal": "aid_generosity", "label": "Grants and net-price generosity", "value": 0.62, "weight": 22 },
+    { "signal": "first_gen_support", "label": "First-generation support programs", "value": 0.55, "weight": 20 },
+    { "signal": "need_coverage", "label": "Share of need met", "value": 0.42, "weight": 18 },
+    { "signal": "net_price_affordability", "label": "Affordability after aid", "value": 0.31, "weight": 15 }
+  ],
+  "needs_covered": ["financial_aid_office", "first_gen_program", "net_price_calculator"],
+  "links": {
+    "home": "https://stanford.edu/",
+    "financial_aid": "https://financialaid.stanford.edu/",
+    "net_price_calculator": "https://financialaid.stanford.edu/undergrad/aid/net-price-calculator.html"
+  },
+  "facts": [
+    {
+      "topic": "institutional_grant",
+      "value": "Stanford meets 100% of demonstrated need with no-loan packages.",
+      "url": "https://financialaid.stanford.edu/undergrad/aid/",
+      "extractor": "rule",
+      "confidence": 0.95,
+      "evidence": "Stanford meets the full need of all admitted students who apply for aid.",
+      "observed_at": "2026-08-02T10:00:00Z",
+      "expires_at": "2027-08-02T10:00:00Z",
+      "stale": false
+    },
+    {
+      "topic": "first_gen_program",
+      "value": "Dedicated first-generation support office and pre-orientation program.",
+      "url": "https://firstgen.stanford.edu/",
+      "extractor": "llm",
+      "confidence": 0.61,
+      "evidence": "Our office supports students who are the first in their family to attend college.",
+      "observed_at": "2026-05-11T10:00:00Z",
+      "expires_at": "2027-05-11T10:00:00Z",
+      "stale": false
+    }
+  ],
+  "deadlines": [
+    { "label": "Restrictive Early Action", "date_iso": "2026-11-01", "category": "application", "url": "https://admission.stanford.edu/apply/", "is_past": false, "days_left": 47 },
+    { "label": "Regular Decision", "date_iso": "2027-01-05", "category": "application", "url": "https://admission.stanford.edu/apply/", "is_past": false, "days_left": 112 },
+    { "label": "CSS Profile priority filing", "date_iso": "2026-03-15", "category": "financial_aid", "url": "https://financialaid.stanford.edu/", "is_past": true, "days_left": -137 }
+  ],
+  "programs": [
+    {
+      "program_id": "stanford-knight-hennessy",
+      "name": "Knight-Hennessy Scholars",
+      "official_url": "https://knight-hennessy.stanford.edu/",
+      "amount_text": "Full funding including tuition and stipend",
+      "deadlines": [
+        { "label": "Knight-Hennessy deadline", "date_iso": "2026-10-08", "category": "program", "url": "https://knight-hennessy.stanford.edu/", "is_past": false, "days_left": 23 }
+      ]
+    }
+  ],
+  "playbook": [
+    {
+      "order": 1,
+      "title": "Create your Federal Student Aid (FSA) ID",
+      "detail": "You need an FSA ID before anything else. It takes about 10 minutes and both the student and a parent may need one.",
+      "url": "https://studentaid.gov/fsa-id/",
+      "deadline": "2026-10-01",
+      "status": "action"
+    },
+    {
+      "order": 2,
+      "title": "File the FAFSA",
+      "detail": "Add Stanford with the federal school code. [Look up Stanford's code](https://studentaid.gov/), then file.",
+      "url": "https://studentaid.gov/h/apply-for-aid/fafsa",
+      "deadline": "2027-01-05",
+      "status": "action"
+    },
+    {
+      "order": 3,
+      "title": "Confirm the California state aid deadline",
+      "detail": "State aid rules change yearly and we could not verify this year's date for this school.",
+      "url": null,
+      "deadline": null,
+      "status": "verify"
+    }
+  ],
+  "gaps": ["FAFSA federal school code", "State aid deadline for 2027", "Average debt at graduation"],
+  "last_verified": "2026-09-15T08:30:00Z",
+  "stale": false
+}

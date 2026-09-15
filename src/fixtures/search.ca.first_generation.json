@@ -1,0 +1,60 @@
+{
+  "results": [
+    {
+      "institution": {
+        "unitid": 230038,
+        "name": "Example State University",
+        "city": "Burlington",
+        "state_abbr": "VT",
+        "control": "public",
+        "url_homepage": "https://example.edu/",
+        "avg_net_price": null
+      },
+      "score": 61,
+      "signals": { "aid_generosity": 0.71, "need_coverage": 0.66 },
+      "why": [
+        { "signal": "aid_generosity", "label": "Grants and net-price generosity", "value": 0.71, "weight": 22 }
+      ],
+      "needs_covered": ["financial_aid_office"],
+      "links": { "home": "https://example.edu/" },
+      "facts": [],
+      "deadlines": [],
+      "programs": [],
+      "playbook": [],
+      "gaps": [],
+      "last_verified": "2026-09-14T12:00:00Z",
+      "stale": true
+    },
+    {
+      "institution": {
+        "unitid": 243744,
+        "name": "Stanford University",
+        "city": "Stanford",
+        "state_abbr": "CA",
+        "control": "private_nonprofit",
+        "url_homepage": "https://stanford.edu/",
+        "avg_net_price": 14200
+      },
+      "score": 42,
+      "signals": { "aid_generosity": 0.62, "need_coverage": 0.42 },
+      "why": [
+        { "signal": "aid_generosity", "label": "Grants and net-price generosity", "value": 0.62, "weight": 22 },
+        { "signal": "need_coverage", "label": "Share of need met", "value": 0.42, "weight": 18 }
+      ],
+      "needs_covered": ["financial_aid_office", "first_gen_program"],
+      "links": { "home": "https://stanford.edu/" },
+      "facts": [],
+      "deadlines": [
+        { "label": "Regular Decision", "date_iso": "2027-01-05", "category": "application", "url": "https://admission.stanford.edu/apply/", "is_past": false, "days_left": 112 }
+      ],
+      "programs": [],
+      "playbook": [],
+      "gaps": ["FAFSA federal school code", "State aid deadline for 2027", "Average debt at graduation"],
+      "last_verified": "2026-09-15T08:30:00Z",
+      "stale": false
+    }
+  ],
+  "total": 2,
+  "limit": 10,
+  "offset": 0
+}
