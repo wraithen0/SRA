@@ -2,5 +2,29 @@ node_modules
 dist
 .env
 .env.local
+.env.development
+.env.production
 playwright-report
 test-results
+
+# Local AI assistant config
+opencode.json
+
+# Superpowers scratch workspace
+.superpowers/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Logs & caches
+*.log
+npm-debug.log*
+*.tsbuildinfo
+.eslintcache
+.vite/
+coverage/
