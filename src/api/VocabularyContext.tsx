@@ -25,18 +25,16 @@ export function VocabularyProvider({ children }: { children: ReactNode }) {
   const profilesState = useApi(() => fetchProfiles(), []);
   const topicsState = useApi(() => fetchTopics(), []);
 
-  const profiles = profilesState.data?.profiles ?? [];
-  const topics = topicsState.data?.topics ?? [];
-
-  const value = useMemo<VocabularyValue>(
-    () => ({
+  const value = useMemo<VocabularyValue>(() => {
+    const profiles = profilesState.data?.profiles ?? [];
+    const topics = topicsState.data?.topics ?? [];
+    return {
       profiles,
       topics,
       topicLabel: (key: string) => topicLabelFrom(topics, key),
       loading: profilesState.loading || topicsState.loading
-    }),
-    [profiles, topics, profilesState.loading, topicsState.loading]
-  );
+    };
+  }, [profilesState.data, topicsState.data, profilesState.loading, topicsState.loading]);
 
   return <VocabularyContext.Provider value={value}>{children}</VocabularyContext.Provider>;
 }
