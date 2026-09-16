@@ -1,0 +1,23 @@
+# caches / build artefacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.uv/
+.venv/
+venv/
+
+# local data caches (the committed seed lives in sra_schools/data/seed/)
+/data/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+.sra_cache/
+
+# secrets
+.env
+.env.*
+
+# research scratch that has not been promoted into data/programs yet
+.sra_research/

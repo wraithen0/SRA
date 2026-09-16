@@ -1,0 +1,952 @@
+{
+  "version": "2026-09-15a",
+  "_comment": "Curated source registry. campus_paths are tried against the institution's own domain before any search engine is used. topic_hints classify links found on a page. national are authoritative reference pages per need (verified by HTTP fetch; drop or fix with `sra-schools sources verify`).",
+  "campus_paths": {
+    "financial_aid_office": [
+      "/financial-aid",
+      "/tuition-and-aid",
+      "/financialaid",
+      "/student-financial-aid",
+      "/admissions/tuition-aid",
+      "/cost-aid"
+    ],
+    "fafsa_school_code": [
+      "/financial-aid/fafsa",
+      "/tuition-aid/fafsa",
+      "/financial-aid/applying",
+      "/financialaid/fafsa",
+      "/aid/fafsa"
+    ],
+    "priority_filing_deadline": [
+      "/financial-aid/deadlines",
+      "/financial-aid/timeline",
+      "/tuition-aid/deadlines",
+      "/financial-aid/applying",
+      "/aid/dates"
+    ],
+    "net_price_calculator": [
+      "/net-price-calculator",
+      "/npc",
+      "/cost/net-price-calculator",
+      "/financial-aid/net-price-calculator",
+      "/tuition-aid/net-price"
+    ],
+    "admissions_office": [
+      "/admissions",
+      "/undergraduate-admissions",
+      "/apply",
+      "/future-students",
+      "/admissions/apply"
+    ],
+    "application_deadline_first_year": [
+      "/admissions/deadlines",
+      "/admissions/first-year",
+      "/admissions/apply/deadlines",
+      "/future-students/deadlines",
+      "/admissions/prospective-first-year"
+    ],
+    "application_deadline_transfer": [
+      "/admissions/transfer",
+      "/transfer/deadlines",
+      "/admissions/transfer-students",
+      "/future-students/transfer"
+    ],
+    "application_deadline_graduate": [
+      "/graduate-school/admissions",
+      "/grad/admissions",
+      "/graduate/apply",
+      "/admissions/graduate",
+      "/graduate-school/deadlines"
+    ],
+    "application_portal": [
+      "/apply",
+      "/admissions/apply",
+      "/future-students/apply",
+      "/apply-now"
+    ],
+    "application_fee_waiver": [
+      "/admissions/fee-waiver",
+      "/apply/fee-waiver",
+      "/admissions/application-fee-waiver",
+      "/future-students/fee-waivers",
+      "/admissions/waivers"
+    ],
+    "merit_scholarship": [
+      "/scholarships",
+      "/admissions/scholarships",
+      "/financial-aid/scholarships",
+      "/tuition-aid/scholarships",
+      "/scholarship"
+    ],
+    "trio_student_support_services": [
+      "/trio",
+      "/student-support-services",
+      "/sss",
+      "/trio-sss",
+      "/support-services"
+    ],
+    "first_gen_program": [
+      "/first-generation",
+      "/first-gen",
+      "/center-first-generation",
+      "/programs/first-generation",
+      "/student-life/first-gen"
+    ],
+    "mentorship_program": [
+      "/mentoring",
+      "/mentorship",
+      "/student-engagement/mentoring",
+      "/advising/mentoring"
+    ],
+    "summer_bridge_program": [
+      "/summer-bridge",
+      "/bridge",
+      "/orientation",
+      "/summer-transition",
+      "/summer-institute"
+    ],
+    "disability_services_office": [
+      "/disability-services",
+      "/student-disability-services",
+      "/accessibility-services",
+      "/dss",
+      "/disability-support-services",
+      "/ossd",
+      "/disability-resources"
+    ],
+    "accommodation_request_process": [
+      "/disability-services/request-accommodations",
+      "/dss/accommodations",
+      "/accessibility/request-accommodations",
+      "/disability-services/students",
+      "/dss/new-students"
+    ],
+    "assistive_technology": [
+      "/assistive-technology",
+      "/accessibility/technology",
+      "/disability-services/assistive-technology",
+      "/ats",
+      "/adaptive-technology"
+    ],
+    "deaf_hard_of_hearing_services": [
+      "/accessibility-services",
+      "/deaf",
+      "/interpreting",
+      "/disability-services/services"
+    ],
+    "campus_accessibility": [
+      "/accessibility",
+      "/physical-accessibility",
+      "/facilities/accessibility",
+      "/accessibility-master-plan",
+      "/universal-design"
+    ],
+    "inclusive_program": [
+      "/inclusive-program",
+      "/thinkcollege",
+      "/transition-program",
+      "/students-with-disabilities",
+      "/comprehensive-supports"
+    ],
+    "international_student_office": [
+      "/international-students",
+      "/isss",
+      "/oiss",
+      "/iss",
+      "/global-students",
+      "/international-office",
+      "/international-student-services"
+    ],
+    "i20_and_document_process": [
+      "/international-students/i-20",
+      "/isss/new-students",
+      "/international/admitted-students",
+      "/iss/i20",
+      "/international-students/immigration"
+    ],
+    "financial_certification": [
+      "/international-students/financial-documentation",
+      "/isss/financial-proof",
+      "/international-students/finance",
+      "/graduate-school/financial-documentation"
+    ],
+    "english_proficiency_requirements": [
+      "/international-students/english-proficiency",
+      "/admissions/international",
+      "/graduate-school/english-requirements",
+      "/isss/toefl"
+    ],
+    "aid_for_international_students": [
+      "/financial-aid/international-students",
+      "/tuition-aid/international",
+      "/international-students/financial-aid",
+      "/admissions/international-students"
+    ],
+    "graduate_funding_package": [
+      "/graduate-school/funding",
+      "/graduate/funding",
+      "/grad/assistantships",
+      "/financial-aid/graduate",
+      "/graduate-school/aid"
+    ],
+    "tuition_waiver": [
+      "/graduate/tuition-waiver",
+      "/financial-aid/tuition-waiver",
+      "/hr/tuition-benefit",
+      "/graduate-school/assistantships"
+    ],
+    "undergraduate_research_office": [
+      "/undergraduate-research",
+      "/office-of-undergraduate-research",
+      "/uro",
+      "/research/undergraduate",
+      "/student-research"
+    ],
+    "reu_program": [
+      "/reu",
+      "/research/reu",
+      "/undergraduate-research/reu",
+      "/summery-research"
+    ],
+    "internship_career_office": [
+      "/career-services",
+      "/internships",
+      "/career",
+      "/student-success/career",
+      "/professional-development"
+    ],
+    "stem_programs": [
+      "/engineering",
+      "/sciences",
+      "/college-of-science",
+      "/college-of-engineering",
+      "/computing"
+    ],
+    "work_study": [
+      "/financial-aid/student-employment",
+      "/work-study",
+      "/student-employment",
+      "/financial-aid/employment"
+    ],
+    "standardized_test_policy": [
+      "/admissions/testing",
+      "/admissions/standardized-test",
+      "/admissions/sat-act",
+      "/testing-policy"
+    ]
+  },
+  "topic_hints": {
+    "financial_aid_office": [
+      "financial aid",
+      "student aid",
+      "tuition and aid",
+      "office of financial aid",
+      "scholarships and financial aid",
+      "cost aid",
+      "financial-aid",
+      "financialaid",
+      "financial_aid",
+      "tuition-and-aid",
+      "student-aid",
+      "cost-and-aid",
+      "paying-for-college"
+    ],
+    "fafsa_school_code": [
+      "fafsa",
+      "federal school code",
+      "school code",
+      "opeid",
+      "school-code"
+    ],
+    "priority_filing_deadline": [
+      "priority date",
+      "priority deadline",
+      "filing deadline",
+      "fafsa deadline",
+      "march 2",
+      "february 15",
+      "deadline",
+      "priority",
+      "calendar",
+      "important-dates",
+      "apply-by"
+    ],
+    "net_price_calculator": [
+      "net price calculator",
+      "npc",
+      "price net",
+      "estimating cost",
+      "net-price",
+      "netprice",
+      "price-estimator",
+      "cost-calculator"
+    ],
+    "admissions_office": [
+      "admissions",
+      "apply",
+      "prospective students",
+      "future students",
+      "first-year admission",
+      "admission",
+      "admiss",
+      "join",
+      "prospective",
+      "future-student"
+    ],
+    "application_deadline_first_year": [
+      "deadline",
+      "early action",
+      "early decision",
+      "regular decision",
+      "apply by",
+      "priority application",
+      "first-year",
+      "freshman",
+      "early-action",
+      "early-decision",
+      "apply"
+    ],
+    "application_deadline_transfer": [
+      "transfer admission",
+      "transfer students",
+      "transfer deadline",
+      "transfer",
+      "deadline"
+    ],
+    "application_deadline_graduate": [
+      "graduate admissions",
+      "graduate school",
+      "apply to graduate",
+      "departmental deadline",
+      "graduate",
+      "grad",
+      "masters",
+      "phd"
+    ],
+    "application_portal": [
+      "apply now",
+      "apply online",
+      "application portal",
+      "common app",
+      "coalition",
+      "start your application",
+      "apply",
+      "application",
+      "common-app",
+      "applyweb"
+    ],
+    "application_fee_waiver": [
+      "fee waiver",
+      "waive the application fee",
+      "application fee",
+      "fee exemption",
+      "no fee",
+      "fee-waiver",
+      "feewaiver",
+      "waiver",
+      "fee"
+    ],
+    "merit_scholarship": [
+      "merit scholarship",
+      "scholarships",
+      "president's scholarship",
+      "trustee scholarship",
+      "honors scholarship",
+      "automatic consideration",
+      "scholarship",
+      "awards",
+      "merit"
+    ],
+    "trio_student_support_services": [
+      "trio",
+      "student support services",
+      "sss",
+      "upward bound",
+      "talent search",
+      "mcnair",
+      "support-services",
+      "upward-bound"
+    ],
+    "first_gen_program": [
+      "first generation",
+      "first-gen",
+      "first-generation",
+      "generation college",
+      "firstgen"
+    ],
+    "mentorship_program": [
+      "mentor",
+      "mentoring",
+      "peer advisor",
+      "big brother",
+      "advising community",
+      "peer-led",
+      "advising"
+    ],
+    "summer_bridge_program": [
+      "summer bridge",
+      "bridge program",
+      "summer orientation",
+      "transition program",
+      "summer institute",
+      "mavy",
+      "bridge",
+      "summer",
+      "orientation",
+      "transition"
+    ],
+    "disability_services_office": [
+      "disability services",
+      "disability support",
+      "accessibility services",
+      "student with a disability",
+      "dss",
+      "ossd",
+      "reasonable accommodation",
+      "disabilit",
+      "accessib",
+      "accommodation"
+    ],
+    "accommodation_request_process": [
+      "request accommodation",
+      "accommodation form",
+      "self-identify",
+      "new student intake",
+      "documentation guidelines",
+      "accommodation",
+      "request",
+      "intake",
+      "register"
+    ],
+    "assistive_technology": [
+      "assistive technology",
+      "adaptive technology",
+      "text to speech",
+      "screen reader",
+      "alternative format",
+      "ats lab",
+      "assistive tech",
+      "assistive",
+      "adaptive",
+      "ats",
+      "technology-lab"
+    ],
+    "deaf_hard_of_hearing_services": [
+      "interpreter",
+      "cart",
+      "deaf",
+      "hard of hearing",
+      "captioning",
+      "transcription"
+    ],
+    "campus_accessibility": [
+      "accessibility",
+      "physical access",
+      "ada transition plan",
+      "accessible map",
+      "universal design",
+      "accessib",
+      "ada",
+      "physical-access"
+    ],
+    "inclusive_program": [
+      "inclusive campus",
+      "think college",
+      "transition and employment",
+      "comprehensive supports",
+      "intellectual disability",
+      "inclusive",
+      "transition",
+      "comprehensive-supports"
+    ],
+    "international_student_office": [
+      "international student",
+      "issps",
+      "oiss",
+      "isss",
+      "global student",
+      "international services",
+      "study in the usa",
+      "international",
+      "global",
+      "issp",
+      "study-usa"
+    ],
+    "i20_and_document_process": [
+      "i-20",
+      "ds-2019",
+      "sevis",
+      "immigration advising",
+      "visa",
+      "f-1",
+      "j-1",
+      "i20",
+      "immigration"
+    ],
+    "financial_certification": [
+      "proof of financial support",
+      "certification of funds",
+      "financial statement",
+      "bank statement",
+      "affidavit of support",
+      "financial",
+      "funds",
+      "certification",
+      "affidavit"
+    ],
+    "english_proficiency_requirements": [
+      "toefl",
+      "ielts",
+      "duolingo",
+      "english proficiency",
+      "waiver of english",
+      "english-proficiency"
+    ],
+    "aid_for_international_students": [
+      "international students financial aid",
+      "noncitizen",
+      "need-based aid international",
+      "citizenship requirement",
+      "external funding international",
+      "international",
+      "non-us",
+      "foreign"
+    ],
+    "need_blind_for_international": [
+      "need-blind",
+      "meet full demonstrated need",
+      "need aware",
+      "need aware for international"
+    ],
+    "graduate_funding_package": [
+      "tuition waiver",
+      "assistantship",
+      "fellowship",
+      "stipend",
+      "funding package",
+      "teaching assistant",
+      "research assistant",
+      "guaranteed funding",
+      "funding"
+    ],
+    "tuition_waiver": [
+      "tuition waiver",
+      "tuition reduction",
+      "out-of-state tuition waiver",
+      "tuition-waiver",
+      "waiver",
+      "remission",
+      "assistantship"
+    ],
+    "undergraduate_research_office": [
+      "undergraduate research",
+      "urca",
+      "student research",
+      "postbacc",
+      "research fellowship",
+      "research",
+      "ug-research",
+      "undergraduate-research"
+    ],
+    "reu_program": [
+      "reu",
+      "research experience for undergraduates",
+      "summer research",
+      "summer-research"
+    ],
+    "internship_career_office": [
+      "internship",
+      "career services",
+      "co-op",
+      "professional development",
+      "handshake",
+      "career",
+      "intern",
+      "professional-development",
+      "employer"
+    ],
+    "stem_programs": [
+      "engineering",
+      "computer science",
+      "natural science",
+      "school of medicine",
+      "college of science"
+    ],
+    "work_study": [
+      "work-study",
+      "student employment",
+      "federal work study",
+      "campus job",
+      "workstudy",
+      "employment",
+      "fws"
+    ],
+    "standardized_test_policy": [
+      "test optional",
+      "test blind",
+      "test flexible",
+      "sat",
+      "act",
+      "standardized test",
+      "testing",
+      "test-optional"
+    ],
+    "cpt_opt_support": [
+      "opt",
+      "cpt",
+      "practical training",
+      "stem opt",
+      "on-campus employment",
+      "work authorization",
+      "employment",
+      "training",
+      "work"
+    ]
+  },
+  "search_templates": [
+    "{name} {topic_label} site:{domain}",
+    "{name} {topic_label} official",
+    "{name} {topic_label}"
+  ],
+  "national": [
+    {
+      "id": "studentaid-fafsa",
+      "title": "FAFSA - how to apply",
+      "url": "https://studentaid.gov/h/apply-for-aid/fafsa",
+      "needs": [
+        "financial_aid"
+      ],
+      "profiles": [
+        "first_generation",
+        "student_with_disability",
+        "international_stem"
+      ],
+      "authority": "federal",
+      "ttl_days": 30,
+      "note": "Cycle opening/closing dates and the dependency questions that matter for students with disabilities."
+    },
+    {
+      "id": "studentaid-pell",
+      "title": "Pell Grants",
+      "url": "https://studentaid.gov/understand-aid/types/grants/pell",
+      "needs": [
+        "financial_aid",
+        "undergraduate_scholarship"
+      ],
+      "authority": "federal",
+      "ttl_days": 60
+    },
+    {
+      "id": "studentaid-work-study",
+      "title": "Federal Work-Study",
+      "url": "https://studentaid.gov/understand-aid/types/work-study",
+      "needs": [
+        "financial_aid"
+      ],
+      "authority": "federal",
+      "ttl_days": 60
+    },
+    {
+      "id": "studentaid-loans",
+      "title": "Loans for students",
+      "url": "https://studentaid.gov/understand-aid/types/loans",
+      "needs": [
+        "financial_aid"
+      ],
+      "authority": "federal",
+      "ttl_days": 60
+    },
+    {
+      "id": "fsa-school-codes",
+      "title": "Federal School Code search (FAFSA codes)",
+      "url": "https://ifce.ed.gov/schoolcodes/2026-2027/SearchResults.aspx",
+      "needs": [
+        "financial_aid"
+      ],
+      "authority": "federal",
+      "ttl_days": 90,
+      "note": "Authoritative check for the six-digit school code we extract from campus pages."
+    },
+    {
+      "id": "collegescorecard",
+      "title": "College Scorecard data (US Dept of Education)",
+      "url": "https://collegescorecard.ed.gov/data/",
+      "needs": [
+        "financial_aid",
+        "net_price_estimate"
+      ],
+      "authority": "federal",
+      "ttl_days": 180,
+      "note": "Bulk download used as the institution backbone."
+    },
+    {
+      "id": "ed-trio",
+      "title": "TRIO programs (Student Support Services, Upward Bound, McNair)",
+      "url": "https://www2.ed.gov/about/offices/list/trio/index.html",
+      "needs": [
+        "mentorship",
+        "undergraduate_scholarship"
+      ],
+      "profiles": [
+        "first_generation"
+      ],
+      "authority": "federal",
+      "ttl_days": 120
+    },
+    {
+      "id": "commonapp-fee-waiver",
+      "title": "Common App fee waivers",
+      "url": "https://www.commonapp.org/advice/fee-waivers-for-common-app",
+      "needs": [
+        "application_fee_waiver"
+      ],
+      "profiles": [
+        "first_generation"
+      ],
+      "authority": "nonprofit",
+      "ttl_days": 90
+    },
+    {
+      "id": "css-profile",
+      "title": "CSS Profile (institutional aid form)",
+      "url": "https://cssprofile.collegeboard.org/",
+      "needs": [
+        "financial_aid"
+      ],
+      "authority": "vendor",
+      "ttl_days": 90,
+      "note": "Used by ~250 private colleges; has its own fee-waiver eligibility rules."
+    },
+    {
+      "id": "rsa-state-vr",
+      "title": "State vocational rehabilitation agencies (RSA directory)",
+      "url": "https://www.rsa.gov/website/directories/state-development-disability-agencies-services",
+      "needs": [
+        "accommodation_funding",
+        "assistive_technology_grants"
+      ],
+      "profiles": [
+        "student_with_disability"
+      ],
+      "authority": "federal",
+      "ttl_days": 120,
+      "note": "VR is the largest single payer for assistive technology and accommodations in college."
+    },
+    {
+      "id": "thinkcollege",
+      "title": "Think College - inclusive four-year campus models",
+      "url": "https://www.thinkcollege.net/",
+      "needs": [
+        "accessible_university_programs"
+      ],
+      "profiles": [
+        "student_with_disability"
+      ],
+      "authority": "university",
+      "ttl_days": 120
+    },
+    {
+      "id": "ahead",
+      "title": "AHEAD - postsecondary disability service directory",
+      "url": "https://www.ahead.org/",
+      "needs": [
+        "accessible_university_programs",
+        "accommodation_funding"
+      ],
+      "profiles": [
+        "student_with_disability"
+      ],
+      "authority": "professional",
+      "ttl_days": 120
+    },
+    {
+      "id": "aatap",
+      "title": "Assistive technology act programs by state (device loan + financing)",
+      "url": "https://www.aatap.net/directory/",
+      "needs": [
+        "assistive_technology_grants"
+      ],
+      "profiles": [
+        "student_with_disability"
+      ],
+      "authority": "nonprofit",
+      "ttl_days": 120
+    },
+    {
+      "id": "ada-network",
+      "title": "ADA National Network - rights in postsecondary education",
+      "url": "https://adata.org/",
+      "needs": [
+        "accommodation_funding",
+        "accessible_university_programs"
+      ],
+      "profiles": [
+        "student_with_disability"
+      ],
+      "authority": "federal",
+      "ttl_days": 180
+    },
+    {
+      "id": "ed-ocr",
+      "title": "Office for Civil Rights - file an accommodation complaint",
+      "url": "https://www2.ed.gov/about/offices/list/ocr/index.html",
+      "needs": [
+        "accommodation_funding"
+      ],
+      "profiles": [
+        "student_with_disability"
+      ],
+      "authority": "federal",
+      "ttl_days": 180
+    },
+    {
+      "id": "nsf-grfp",
+      "title": "NSF Graduate Research Fellowship Program",
+      "url": "https://www.nsf.gov/funding/opportunities/grfp",
+      "needs": [
+        "fully_funded_degree",
+        "research_or_internship"
+      ],
+      "profiles": [
+        "international_stem"
+      ],
+      "authority": "federal",
+      "ttl_days": 60,
+      "note": "US citizens, permanent residents and eligible noncitizens only - a hard eligibility filter for international applicants."
+    },
+    {
+      "id": "nsf-reu",
+      "title": "NSF REU site directory (undergraduate summer research)",
+      "url": "https://www.nsf.gov/crssprgm/reu/list_result.jsp",
+      "needs": [
+        "research_or_internship"
+      ],
+      "profiles": [
+        "international_stem"
+      ],
+      "authority": "federal",
+      "ttl_days": 60,
+      "note": "Most REU sites are US-citizen only; the filter must be read per site."
+    },
+    {
+      "id": "nsf-sstem",
+      "title": "NSF S-STEM scholarships",
+      "url": "https://www.nsf.gov/funding/opportunities/s-cholarships-service-stem-education-s-stem",
+      "needs": [
+        "undergraduate_scholarship",
+        "tuition_waiver"
+      ],
+      "authority": "federal",
+      "ttl_days": 90
+    },
+    {
+      "id": "state-dept-f1",
+      "title": "F-1 student visa (Department of State)",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+      "needs": [
+        "visa_and_eligibility_info"
+      ],
+      "profiles": [
+        "international_stem"
+      ],
+      "authority": "federal",
+      "ttl_days": 90
+    },
+    {
+      "id": "study-in-the-states",
+      "title": "Study in the States (DHS: SEVP, CPT/OPT, maintaining status)",
+      "url": "https://www.studyinthestates.edu/",
+      "needs": [
+        "visa_and_eligibility_info",
+        "research_or_internship"
+      ],
+      "profiles": [
+        "international_stem"
+      ],
+      "authority": "federal",
+      "ttl_days": 90
+    },
+    {
+      "id": "uscis-opt",
+      "title": "Optional Practical Training under F-1 status",
+      "url": "https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-under-f-1-student-status",
+      "needs": [
+        "research_or_internship",
+        "visa_and_eligibility_info"
+      ],
+      "profiles": [
+        "international_stem"
+      ],
+      "authority": "federal",
+      "ttl_days": 90
+    },
+    {
+      "id": "sevis",
+      "title": "SEVIS (I-901) fee and school certification",
+      "url": "https://www.ice.gov/sevis",
+      "needs": [
+        "visa_and_eligibility_info"
+      ],
+      "profiles": [
+        "international_stem"
+      ],
+      "authority": "federal",
+      "ttl_days": 120
+    },
+    {
+      "id": "educationusa",
+      "title": "EducationUSA - official advising network for international students",
+      "url": "https://www.educationusa.state.gov/apply/study-us",
+      "needs": [
+        "visa_and_eligibility_info"
+      ],
+      "profiles": [
+        "international_stem"
+      ],
+      "authority": "federal",
+      "ttl_days": 90
+    },
+    {
+      "id": "fulbright-foreign-student",
+      "title": "Fulbright Foreign Student Program (home-country nomination)",
+      "url": "https://education.state.gov/fulbright-foreign-student-program/",
+      "needs": [
+        "fully_funded_degree"
+      ],
+      "profiles": [
+        "international_stem"
+      ],
+      "authority": "federal",
+      "ttl_days": 90
+    },
+    {
+      "id": "humphrey-fellowship",
+      "title": "Hubert H. Humphrey Fellowship Program",
+      "url": "https://www.humphreyfellowship.org/",
+      "needs": [
+        "fully_funded_degree",
+        "research_or_internship"
+      ],
+      "profiles": [
+        "international_stem"
+      ],
+      "authority": "binational",
+      "ttl_days": 90,
+      "note": "Non-degree, mid-career; often mistaken for a master's funding route."
+    },
+    {
+      "id": "iie-scholarship-search",
+      "title": "IIE scholarship search for international students",
+      "url": "https://www.iie.org/en/Programs/IIE-Scholarship-Search",
+      "needs": [
+        "fully_funded_degree",
+        "undergraduate_scholarship"
+      ],
+      "profiles": [
+        "international_stem"
+      ],
+      "authority": "nonprofit",
+      "ttl_days": 90
+    }
+  ]
+}

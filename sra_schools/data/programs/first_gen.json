@@ -1,0 +1,1428 @@
+[
+  {
+    "program_id": "trio-student-support-services",
+    "name": "Federal TRIO Student Support Services (SSS)",
+    "provider": "U.S. Department of Education, Office of Postsecondary Education (Federal TRIO Programs); delivered by campus-based SSS projects",
+    "official_url": "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/student-support-services-program-84042a",
+    "apply_url": null,
+    "kind": "support_program",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "financial_aid",
+      "mentorship"
+    ],
+    "amount_text": "Services (tutoring, counseling, financial-aid help, mentoring) are free to participants. SSS projects may also award SSS grant aid to Pell Grant recipients; the program is federally funded (~$379.6M, 1,156 projects, ~208,343 participants in FY2024). Dollar amount per student varies by campus project.",
+    "renewable": null,
+    "eligibility": [
+      "Must be enrolled or accepted for enrollment in a postsecondary program at an institution with an SSS project",
+      "Low-income first-generation college students, or students with disabilities evidencing academic need (two-thirds of each project's participants must be disabled or first-gen from low-income families)",
+      "SSS grant aid requires being a current Pell Grant recipient in the first two years of postsecondary study (later years only if high dropout risk and first-year needs met)",
+      "Citizenship requirement not stated on the official program page"
+    ],
+    "deadlines": [
+      {
+        "label": "Join the campus SSS project",
+        "date": null,
+        "deadline_text": "Rolling - apply directly to your college's SSS project, typically at or before admission/registration",
+        "recurring_annual": false,
+        "source_url": "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/student-support-services-program-84042a"
+      }
+    ],
+    "apply_steps": [
+      "Check whether your college (or a college you are applying to) hosts a Student Support Services project (search the college's financial aid / student services site; federal grantee data is at ed.gov TRIO)",
+      "Prepare proof of first-generation status and family income documentation (e.g., tax records) plus any disability documentation if applying on that basis",
+      "Contact the campus SSS project director and complete the project's participation application before or as soon as you enroll",
+      "If you receive a Pell Grant, ask the SSS project about SSS grant aid during your first two years"
+    ],
+    "how_to_win": [
+      "Enroll or pre-register with the SSS project early - projects serve a limited number of students and many services fill up",
+      "Use SSS for FAFSA completion help: projects are required to assist with financial aid applications and locating private scholarships",
+      "Ask about the full required service bundle: academic tutoring, course-selection advice, financial literacy counseling, and (permissible) mentoring and emergency housing help for homeless/foster-care students",
+      "If transferring from a two-year college, use SSS assistance for transferring into four-year programs (a required service)"
+    ],
+    "state": null,
+    "notes": "Free academic/financial support at 1,100+ campuses; SSS grant aid is extra money on top of Pell for eligible participants.",
+    "sources": [
+      "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/student-support-services-program-84042a"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "trio-upward-bound",
+    "name": "Federal TRIO Upward Bound",
+    "provider": "U.S. Department of Education, Office of Postsecondary Education (Federal TRIO Programs); delivered by local Upward Bound projects",
+    "official_url": "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/upward-bound-program-84047a",
+    "apply_url": "https://ope.ed.gov/programs/trio/UBUBMSMap/",
+    "kind": "support_program",
+    "levels": [
+      "high_school",
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "financial_aid",
+      "mentorship"
+    ],
+    "amount_text": "Free college-prep services for participants (tutoring, test prep, application and FAFSA help, cultural activities, work-study, mentoring); some projects offer stipends or on-campus residential summer programs. Federal program size FY2024: ~$379M+ across hundreds of projects.",
+    "renewable": null,
+    "eligibility": [
+      "High school students from low-income families, and high school students from families in which neither parent holds a bachelor's degree (first-generation)",
+      "Must be served by a local Upward Bound project (target high schools vary; see the TRIO Map Viewer of grantees and target schools)",
+      "Citizenship requirement not stated on the official program page"
+    ],
+    "deadlines": [
+      {
+        "label": "Join a local Upward Bound project",
+        "date": null,
+        "deadline_text": "Rolling - set by each local project, usually before or at the start of the school year",
+        "recurring_annual": false,
+        "source_url": "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/upward-bound-program-84047a"
+      }
+    ],
+    "apply_steps": [
+      "Find Upward Bound grantees and target schools near you using the official TRIO Map Viewer (ope.ed.gov)",
+      "Prepare school transcripts/grades and basic household information for the project's intake",
+      "Contact the project (housed at a local college, school district, or community organization) and apply to participate during high school",
+      "Stay enrolled through graduation - projects are designed to support students from high school into and through college"
+    ],
+    "how_to_win": [
+      "Take advantage of the required services: college-entrance exam prep and help completing admission applications and the FAFSA",
+      "Ask about permissible extras at your project: on-campus residential programs, mentoring, and work-study exposing you to careers requiring a postsecondary degree",
+      "If you are a veteran, ask about the special services projects can provide for math/science preparation and transition to postsecondary education",
+      "Projects serve homeless youth, foster youth, and English learners with targeted support - disclose your situation to unlock those services"
+    ],
+    "state": null,
+    "notes": "Serves high schoolers as pipeline support for first-gen undergrad entry; Veterans Upward Bound (84.047V) is the separate veteran version.",
+    "sources": [
+      "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/upward-bound-program-84047a",
+      "https://ope.ed.gov/programs/trio/UBUBMSMap/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "trio-talent-search",
+    "name": "Federal TRIO Talent Search",
+    "provider": "U.S. Department of Education, Office of Postsecondary Education (Federal TRIO Programs); delivered by local Talent Search projects",
+    "official_url": "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/talent-search-program-84044",
+    "apply_url": null,
+    "kind": "support_program",
+    "levels": [
+      "high_school",
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "financial_aid",
+      "mentorship"
+    ],
+    "amount_text": "Free academic, career, and financial counseling and college/financial-aid application assistance (FY2024: $196.2M federal funding, 545 projects, 341,744 participants). No direct student awards.",
+    "renewable": null,
+    "eligibility": [
+      "Youth from disadvantaged backgrounds who have potential to succeed in higher education (typically ages 11-27 and enrolled in or out of secondary/postsecondary programs)",
+      "Includes individuals who have not completed secondary or postsecondary programs and are encouraged to enter or re-enter",
+      "Must be served by a local Talent Search project; citizenship requirement not stated on the official program page"
+    ],
+    "deadlines": [
+      {
+        "label": "Join a local Talent Search project",
+        "date": null,
+        "deadline_text": "Rolling - set by each local project",
+        "recurring_annual": false,
+        "source_url": "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/talent-search-program-84044"
+      }
+    ],
+    "apply_steps": [
+      "Search for Talent Search projects in your area (college, school district, or community organization grantees listed on ed.gov TRIO resources)",
+      "Prepare a list of your education history and any barriers (housing, work, family obligations) to discuss at intake",
+      "Register for the project's counseling and workshops - assistance with college admission applications and financial aid applications is a core service"
+    ],
+    "how_to_win": [
+      "Use the required services deliberately: tutoring, aptitude assessment, career exploration, and mentoring programs",
+      "Ask the project for financial literacy counseling and hands-on FAFSA help before you apply for aid",
+      "If you dropped out, use the project's required re-entry guidance (secondary school reentry, GED programs, postsecondary entry)",
+      "Participate in campus-visits activities - 'exposure to college campuses' is a permissible project service"
+    ],
+    "state": null,
+    "notes": "Latest federal grant competition for Talent Search opened in FY2026 (announced jointly with DOL postsecondary partnership), so projects are active and expanding.",
+    "sources": [
+      "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/talent-search-program-84044"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  },
+  {
+    "program_id": "trio-mcnair-scholars",
+    "name": "TRIO Ronald E. McNair Postbaccalaureate Achievement Program (McNair Scholars)",
+    "provider": "U.S. Department of Education, Office of Postsecondary Education; delivered at participating colleges/universities",
+    "official_url": "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/ronald-e-mcnair-postbaccalaureate-achievement-program-84217a",
+    "apply_url": null,
+    "kind": "research_fellowship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "mentorship",
+      "financial_aid"
+    ],
+    "amount_text": "Funded campus projects provide research experiences, summer internships, tutoring, and graduate-school prep (FY2024: $60.2M, 216 projects, 5,935 participants, ~$10,138 average cost per participant; 197 projects funded for 2025-26). Student stipend amounts vary by campus project.",
+    "renewable": null,
+    "eligibility": [
+      "Must be enrolled in a degree-granting program at an eligible institution with a McNair project",
+      "At least two-thirds of participants in each project must be low-income, potential first-generation college students; the remainder may be from groups underrepresented in graduate education",
+      "Students from disadvantaged backgrounds with demonstrated academic potential; citizenship requirement not stated on the official program page"
+    ],
+    "deadlines": [
+      {
+        "label": "Campus McNair project application",
+        "date": null,
+        "deadline_text": "Varies by campus project (typically in the spring for the following academic year)",
+        "recurring_annual": false,
+        "source_url": "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/ronald-e-mcnair-postbaccalaureate-achievement-program-84217a"
+      }
+    ],
+    "apply_steps": [
+      "Identify whether your college hosts a McNair project (check the TRIO page on your campus or ed.gov's list of funded McNair projects)",
+      "Prepare transcripts, a statement of research interests, and documentation of income/first-generation status",
+      "Apply to the campus project (commonly as a sophomore or junior) and ask about the summer research internship funding"
+    ],
+    "how_to_win": [
+      "Emphasize a concrete research interest: required project activities are research/scholarly experiences and seminars preparing students for doctoral study",
+      "Use the project's built-in grad-school pipeline - required services include admission assistance and financial assistance for enrollment in graduate programs",
+      "Ask about mentoring: faculty mentoring is an authorized McNair activity and a core benefit at most projects",
+      "Document eligibility (low-income / first-generation) early - projects must fill a two-thirds quota with these students, so verified status strengthens your application"
+    ],
+    "state": null,
+    "notes": "Best fit for first-gen undergrads aiming at a PhD; combines paid research mentoring with grad-school preparation.",
+    "sources": [
+      "https://www.ed.gov/grants-and-programs/grants-higher-education/federal-trio-programs/ronald-e-mcnair-postbaccalaureate-achievement-program-84217a"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "oregon-promise-grant",
+    "name": "Oregon Promise Grant",
+    "provider": "Oregon Higher Education Coordinating Commission, Office of Student Access and Completion (OSAC)",
+    "official_url": "https://oregonstudentaid.gov/grants/oregon-promise-grant/",
+    "apply_url": "https://app.oregonstudentaid.gov/",
+    "kind": "grant",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident",
+      "daca",
+      "any"
+    ],
+    "needs": [
+      "financial_aid"
+    ],
+    "amount_text": "Award range for full-time, full-year students: $2,202-$4,584 (2025-26) and $2,280-$4,716 (2026-27); covers tuition at any Oregon community college (does not pay for summer courses); amount depends on remaining financial need.",
+    "renewable": "Yes - continues up to 90 attempted college credits (no year/term limit), conditional on maintaining eligibility",
+    "eligibility": [
+      "Recent Oregon high school or GED graduates who begin at an Oregon community college within six months of graduation (limited hardship/military waivers)",
+      "Apply during senior year or immediately after GED completion - students get only one opportunity to apply",
+      "Must submit both the Oregon Promise application and the 2026-27 FAFSA or ORSAA (ORSAA serves students not eligible for FAFSA) by the deadline",
+      "New students for Class of 2026 must have a Student Aid Index (SAI) at or under $27,000 (SAI limit finalized August 2026); renewal students are exempt from the SAI limit for 2026-27"
+    ],
+    "deadlines": [
+      {
+        "label": "2026-27 new-student application window",
+        "date": null,
+        "deadline_text": "Application for graduates July 1, 2026 - June 30, 2027 opens October 2026; the 2025-26 window closed (graduates before June 30, 2026 missed it)",
+        "recurring_annual": false,
+        "source_url": "https://oregonstudentaid.gov/grants/oregon-promise-grant/"
+      },
+      {
+        "label": "Renewal FAFSA/ORSAA for continuing recipients",
+        "date": null,
+        "deadline_text": "Recipients in 2025-26 had to submit the 2026-27 FAFSA or ORSAA by June 1, 2026",
+        "recurring_annual": true,
+        "source_url": "https://oregonstudentaid.gov/oregon-promise-faq.aspx"
+      }
+    ],
+    "apply_steps": [
+      "In senior year (or right after GED), create an account at app.oregonstudentaid.gov and complete the Oregon Promise application",
+      "Submit the FAFSA or ORSAA for the year you will start college, by your deadline",
+      "Keep documentation for your graduation date and Oregon community college enrollment (must start within 6 months)",
+      "After awarding (grants for Fall starters begin awarding in May), confirm your award with the community college financial aid office and refile FAFSA/ORSAA each year"
+    ],
+    "how_to_win": [
+      "Apply in the senior-year window - you only get one chance; students who graduate before each cycle's June 30 cutoff lose eligibility",
+      "Watch the SAI limit ($27,000 for Class of 2026): Oregon Promise is need-capped and awards depend on remaining financial need, so file aid paperwork completely and early",
+      "Renewal students keep the grant up to 90 credits by submitting the FAFSA/ORSAA each year (June 1 for the upcoming year)",
+      "Use the OSAC 'Find your Deadline' chart keyed to your graduation date, and remember the grant can't be banked if you skip directly to a 4-year college"
+    ],
+    "state": "OR",
+    "notes": "Established by 2015 legislation; first awards Fall 2016. Administered by HECC's Office of Student Access and Completion.",
+    "sources": [
+      "https://oregonstudentaid.gov/grants/oregon-promise-grant/",
+      "https://oregonstudentaid.gov/oregon-promise-faq.aspx",
+      "https://app.oregonstudentaid.gov/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.92
+  },
+  {
+    "program_id": "washington-college-bound-scholarship",
+    "name": "Washington College Bound Scholarship",
+    "provider": "Washington Student Achievement Council (WSAC)",
+    "official_url": "https://wsac.wa.gov/college-bound",
+    "apply_url": "https://wsac.wa.gov/college-bound",
+    "kind": "grant",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "financial_aid"
+    ],
+    "amount_text": "Free public-college tuition (or an equivalent award amount for an approved private college or career school) in Washington, delivered through the Washington College Grant for eligible College Bound students.",
+    "renewable": "Yes - usable within six years of college enrollment or until a bachelor's degree is earned, whichever comes first (after meeting the one-year enrollment deadline requirement)",
+    "eligibility": [
+      "Early commitment earned by signing up (or auto-enrolling) in middle school: 7th/8th graders income-eligible for free-and-reduced-price lunch, newly FRPL-eligible 9th graders, or students in state foster care / dependents of the state from 7th grade through HS graduation",
+      "Private-school and homeschooled students meeting the income limits can contact the program directly (e.g., household income limit $61,050 for a family of 4)",
+      "Must graduate high school (or GED), attend a participating Washington college, and apply for financial aid (FAFSA or Washington Dream Act) as required by program rules"
+    ],
+    "deadlines": [
+      {
+        "label": "Sign up as a 7th/8th grader (or 9th-grade newly eligible)",
+        "date": null,
+        "deadline_text": "Early commitment in middle school; auto-enrollment applies for FRPL and foster-care students - see WSAC; 2026-27 materials were being updated through September 2026",
+        "recurring_annual": false,
+        "source_url": "https://wsac.wa.gov/college-bound"
+      }
+    ],
+    "apply_steps": [
+      "Check auto-enrollment: WA public school students income-eligible for FRPL in 7th/8th (or newly in 9th) grade and students in state foster care are enrolled automatically",
+      "If in private school or homeschool, complete the College Bound sign-up with income documentation by contacting WSAC",
+      "In high school, keep grades up, avoid suspension/justice-system involvement (program requirements apply), and graduate",
+      "Senior year: submit the FAFSA or Washington Dream Act Application and enroll in a participating Washington college to convert the commitment into funding"
+    ],
+    "how_to_win": [
+      "Never miss the middle-school sign-up: the promise is an early commitment, so income documents (free/reduced lunch notices, TANF/SNAP/Foster Care letters) should be submitted once, early",
+      "Meet both columns of requirements - maintaining eligibility status AND qualifying to receive funds (FAFSA/WA Dream Act in senior year, enrollment at a participating college)",
+      "Foster youth get automatic qualification pathways and other state supports - coordinate with the Education Director at the Department of Children, Youth and Families",
+      "Attend an eligible Washington institution; check the College Bound student/family FAQ before senior year"
+    ],
+    "state": "WA",
+    "notes": "Not first-generation-specific, but low-income and foster-youth first-gen students are the core served population. College Bound is a promise program - students are recruited in middle school.",
+    "sources": [
+      "https://wsac.wa.gov/college-bound"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  },
+  {
+    "program_id": "new-york-heop",
+    "name": "Arthur O. Eve Higher Education Opportunity Program (HEOP)",
+    "provider": "New York State Education Department, Office of Postsecondary Access, Support, and Success (delivered at ~60 participating colleges)",
+    "official_url": "https://www.nysed.gov/postsecondary-services/higher-education-opportunity-program-heop",
+    "apply_url": "https://www.nysed.gov/postsecondary-services/heop-projects-and-contact-information",
+    "kind": "support_program",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "financial_aid",
+      "mentorship"
+    ],
+    "amount_text": "Provides tuition assistance, supplemental financial assistance, and full need packaging at participating colleges (package value varies by institution); includes a funded pre-entry summer program, counseling, and tutoring.",
+    "renewable": null,
+    "eligibility": [
+      "New York State residents who are both educationally and economically disadvantaged",
+      "Must be admitted (regularly or conditionally) through a participating HEOP college's process - HEOP is a grant to institutions, not a scholarship students apply for statewide",
+      "Students interested in SUNY should look at EOP and CUNY at SEEK/College Discovery (analogous programs)"
+    ],
+    "deadlines": [
+      {
+        "label": "HEOP application through each college",
+        "date": null,
+        "deadline_text": "Set by each participating college's HEOP office (students must contact the college directly)",
+        "recurring_annual": false,
+        "source_url": "https://www.nysed.gov/postsecondary-services/higher-education-opportunity-program-heop"
+      }
+    ],
+    "apply_steps": [
+      "Use the HEOP Directory/Projects list on nysed.gov to find participating colleges and their HEOP office contacts",
+      "Prepare academic records and family income documentation demonstrating educational and economic disadvantage",
+      "Apply for admission AND HEOP consideration directly with each college by that college's deadline",
+      "If selected, plan to attend the pre-entry summer program (a core HEOP component)"
+    ],
+    "how_to_win": [
+      "Contact each campus HEOP office early - the state explicitly directs students to work with colleges, not NYSED, so campus relationships drive selection",
+      "Frame your application around both academic potential and economic barrier; HEOP targets students who 'would otherwise be unable to attend'",
+      "Say yes to the structured supports (pre-entry summer program, one-on-one tutoring, academic/career/financial counseling) that HEOP funds",
+      "Consider CUNY SEEK/College Discovery and SUNY EOP in parallel - they serve similar students at public institutions"
+    ],
+    "state": "NY",
+    "notes": "Authorized under NYS Education Law sections 6451-6452; a long-standing combined financial-aid + mentoring + summer bridge model for first-gen/at-risk students.",
+    "sources": [
+      "https://www.nysed.gov/postsecondary-services/higher-education-opportunity-program-heop",
+      "https://www.nysed.gov/postsecondary-services/heop-projects-and-contact-information"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  },
+  {
+    "program_id": "california-foster-youth-state-aid",
+    "name": "California Foster Youth State Aid (Cal Grant Foster Youth Access Award, Chafee Grant, Middle Class Scholarship for Foster Youth)",
+    "provider": "California Student Aid Commission (CSAC)",
+    "official_url": "http://www.csac.ca.gov/foster-youth",
+    "apply_url": "https://mygrantinfo.csac.ca.gov/chafee",
+    "kind": "grant",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident",
+      "daca"
+    ],
+    "needs": [
+      "financial_aid"
+    ],
+    "amount_text": "California Chafee Grant for Foster Youth: up to $4,500 per year for up to five years. Cal Grant Foster Youth Access Award: up to $6,000 per year in additional aid. Middle Class Scholarship for foster youth: 100% of remaining cost of attendance after other aid at UC/CSU or qualifying community-college bachelor's programs.",
+    "renewable": "Cal Grant/Chafee have multi-year limits (Chafee up to 5 years, one-time application valid until age 26; MCS up to 4 years per CSAC)",
+    "eligibility": [
+      "Current or former California foster youth (Chafee: foster care between ages 16-18)",
+      "Independent FAFSA/CADAA student if in foster care at age 13 or after (no parent income required)",
+      "Cal Grant requires a verified GPA submitted to CSAC; deadlines: March 2, or September 2 for foster youth attending a California community college",
+      "CADAA (Dream Act) filers can access these state grants, so undocumented students meeting AB 540/SB 54/AB 60200 criteria are included"
+    ],
+    "deadlines": [
+      {
+        "label": "Cal Grant priority deadline",
+        "date": "2027-03-02",
+        "deadline_text": "March 2 each year (stated on CSAC page)",
+        "recurring_annual": true,
+        "source_url": "http://www.csac.ca.gov/foster-youth"
+      },
+      {
+        "label": "Extended deadline - foster youth at CA community colleges",
+        "date": "2027-09-02",
+        "deadline_text": "September 2 for foster youth attending a California community college",
+        "recurring_annual": true,
+        "source_url": "http://www.csac.ca.gov/foster-youth"
+      }
+    ],
+    "apply_steps": [
+      "File the FAFSA or California Dream Act Application (CADAA) by March 2 (Sept 2 for community-college foster youth)",
+      "Prepare proof of foster-care status (verification letter from the CA Foster Care Ombudsperson's Office, 1-877-846-1602)",
+      "Create a WebGrants 4 Students account at mygrantinfo.csac.ca.gov and confirm your GPA was submitted for Cal Grant consideration",
+      "Complete the one-time Chafee Grant application (valid until age 26) at mygrantinfo.csac.ca.gov/chafee",
+      "Work with the campus foster/youth education liaison or child welfare attendance office for support services"
+    ],
+    "how_to_win": [
+      "Use the independent-student rule: if you were in care at 13+, don't report parent income - finish the FAFSA even if you think you have no financial data",
+      "No separate applications for the Foster Youth Access Award or MCS - just file the FAFSA/CADAA on time and they are auto-considered",
+      "Check your GPA verification in WebGrants personally; CSAC says it is the student's responsibility to confirm the school sent it",
+      "Community-college first: the Sept 2 Cal Grant deadline extension exists only for foster youth attending CA community colleges",
+      "Data point from CSAC: foster youth who receive a Chafee Grant are nearly 2.4x more likely to complete a degree - apply even if older than 22 (Chafee runs to age 26)"
+    ],
+    "state": "CA",
+    "notes": "Bundled state aid route for former foster youth (most of whom are effectively first-generation); includes tuition/fee support plus campus support networks. California's separate AB19/Fostering Connections benefits also exist on UC/CSU campuses via campus programs.",
+    "sources": [
+      "http://www.csac.ca.gov/foster-youth",
+      "https://mygrantinfo.csac.ca.gov/chafee",
+      "http://www.csac.ca.gov/mcs/foster-youth"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "questbridge-national-college-match",
+    "name": "QuestBridge National College Match",
+    "provider": "QuestBridge & National College Match partner colleges (55 partners)",
+    "official_url": "https://www.questbridge.org/apply-to-college/programs/national-college-match",
+    "apply_url": "https://apply.questbridge.org/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident"
+    ],
+    "needs": [
+      "financial_aid",
+      "undergraduate_scholarship"
+    ],
+    "amount_text": "Full four-year scholarships to 55 top colleges, valued at over $360,000 each (admission + full need-based aid package through the Match); 19,000+ seniors matched since founding; 2,550 finalists matched in 2025.",
+    "renewable": "Yes - four-year, for the full bachelor's degree at the matched college",
+    "eligibility": [
+      "High school seniors (U.S. high school attendance, or U.S. citizens/permanent residents living abroad) planning to enroll in college the fall after senior year",
+      "International students living outside the U.S. are not eligible",
+      "High academic achievement (typically primarily A's, top 5-10% of class) from a low-income background - typically household income under $65,000/yr for a family of four with minimal assets; holistic review, no hard GPA/test cutoffs",
+      "Many Match Finalists are the first in their family to attend a four-year college"
+    ],
+    "deadlines": [
+      {
+        "label": "National College Match application deadline",
+        "date": "2026-10-01",
+        "deadline_text": "October 1, 2026, 11:59 p.m. Pacific",
+        "recurring_annual": true,
+        "source_url": "https://www.questbridge.org/apply-to-college/programs/national-college-match/apply/dates-and-deadlines"
+      },
+      {
+        "label": "Match Rankings Form + Match Agreement Form",
+        "date": "2026-10-15",
+        "deadline_text": "October 15, 11:59 p.m. PT (Agreement signed by student, parent/guardian, counselor)",
+        "recurring_annual": true,
+        "source_url": "https://www.questbridge.org/apply-to-college/programs/national-college-match/apply/dates-and-deadlines"
+      },
+      {
+        "label": "Match Requirements to ranked colleges",
+        "date": "2026-11-01",
+        "deadline_text": "November 1, 11:59 p.m. PT",
+        "recurring_annual": true,
+        "source_url": "https://www.questbridge.org/apply-to-college/programs/national-college-match/apply/dates-and-deadlines"
+      },
+      {
+        "label": "Match Day",
+        "date": "2026-12-01",
+        "deadline_text": "December 1 - matches released; matched students are admitted with a full four-year scholarship",
+        "recurring_annual": true,
+        "source_url": "https://www.questbridge.org/apply-to-college/programs/national-college-match/apply/dates-and-deadlines"
+      },
+      {
+        "label": "QuestBridge Regular Decision Form",
+        "date": "2026-12-10",
+        "deadline_text": "December 10 (for Finalists who did not match)",
+        "recurring_annual": true,
+        "source_url": "https://www.questbridge.org/apply-to-college/programs/national-college-match/apply/dates-and-deadlines"
+      }
+    ],
+    "apply_steps": [
+      "Create a QuestBridge account in late summer of senior year and start the free National College Match application",
+      "Gather: academics/activities/household & financial background, writing section, TWO teacher recommendations from core academic subjects, current (unofficial OK) transcript, counselor School Report, School Profile (recommended), and test scores if you have them",
+      "Have previous-year tax returns, W-2s, or other financial documents on hand to report finances accurately",
+      "Submit by October 1; if named a Finalist (Oct 21), complete the Match Rankings Form (up to 15 colleges) and signed Match Agreement by October 15",
+      "Submit each ranked college's Match Requirements by November 1; if not matched, use the QuestBridge Regular Decision Form (Dec 4-10 window)"
+    ],
+    "how_to_win": [
+      "Start the application the day it opens in late summer - it is long, and financial documents plus two teacher recs take weeks to collect",
+      "Write with specificity about resilience and first-gen context: selection is holistic and honors 'resilience, integrity, and motivation' and contributions at home, school, and community",
+      "No test scores required - but check partner-specific requirements, since some college partners require them for the Match",
+      "Have Finalist-level stats: typical Finalists earn primarily A's in the hardest courses and rank in the top 5-10%; SAT 1290-1460 / ACT 27-33 middle 50% if submitting",
+      "Rank 15 colleges (use the full allowance) to maximize match odds, and note the early-application policy if you also apply Restrictive/Early Action elsewhere",
+      "Finalists who do not match should immediately use the QuestBridge Regular Decision pathway (form due Dec 10) - it routes one application to multiple partners"
+    ],
+    "state": null,
+    "notes": "QuestBridge also runs the College Prep Scholars Program for low-income juniors (application with $500 QxE awards and Match head start; deadline in spring - see questbridge.org/apply-to-college/programs/college-prep-scholars-program/apply, verified).",
+    "sources": [
+      "https://www.questbridge.org/apply-to-college/programs/national-college-match",
+      "https://www.questbridge.org/apply-to-college/programs/national-college-match/apply",
+      "https://www.questbridge.org/apply-to-college/programs/national-college-match/apply/dates-and-deadlines",
+      "https://www.questbridge.org/",
+      "https://www.questbridge.org/apply-to-college/programs/college-prep-scholars-program/apply"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.95
+  },
+  {
+    "program_id": "gates-scholarship",
+    "name": "The Gates Scholarship (TGS)",
+    "provider": "Bill & Melinda Gates Foundation",
+    "official_url": "https://www.thegatesscholarship.org/scholarship",
+    "apply_url": "https://www.thegatesscholarship.org/scholarship",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident"
+    ],
+    "needs": [
+      "financial_aid",
+      "undergraduate_scholarship"
+    ],
+    "amount_text": "Last-dollar scholarship covering the FULL cost of attendance (tuition, fees, books, housing and food, and possibly additional personal costs) not already covered by other financial aid and the Student Aid Index (FAFSA).",
+    "renewable": null,
+    "eligibility": [
+      "High school senior in good academic standing, minimum cumulative weighted GPA of 3.3 on a 4.0 scale (or equivalent)",
+      "Pell-eligible household finances",
+      "U.S. citizen or permanent resident",
+      "Plan to enroll full-time in a four-year degree program at an accredited U.S. not-for-profit public or private college/university",
+      "Ideal candidate: top 10% of class, demonstrated leadership (community service/extracurriculars), exceptional personal success skills"
+    ],
+    "deadlines": [
+      {
+        "label": "TGS application (2027 cycle)",
+        "date": "2026-09-15",
+        "deadline_text": "Application available July 15, 2026, deadline Sept 15, 2026; Semifinalists Dec-Jan 2027, finalist interviews March 2027, selection April 2027",
+        "recurring_annual": true,
+        "source_url": "https://www.thegatesscholarship.org/scholarship"
+      }
+    ],
+    "apply_steps": [
+      "Create a myTGS profile at thegatesscholarship.org during the July 15 - September 15 window",
+      "Confirm Pell eligibility - have the family's FAFSA data (tax returns, income records) organized before starting",
+      "Prepare two teacher recommendations/academic evaluations and essays on leadership and personal success skills",
+      "Submit by September 15; if a Semifinalist (Dec/Jan), complete the finalist interview process (March) for Selection (April)"
+    ],
+    "how_to_win": [
+      "Apply the week the portal opens (mid-July): TGS is a one-window annual deadline - September 15 - and materials are heavy (essays, recommendations, full financial data)",
+      "Show the 'ideal candidate' profile with evidence: top-10% class rank, sustained leadership and community service, and emotional maturity/perseverance - these are listed on the official page",
+      "Clear the 3.3 weighted GPA floor with your counselor before applying; good academic standing is a basic eligibility rule",
+      "Maximize other aid first: because TGS is last-dollar against the FAFSA Student Aid Index, complete the FAFSA early and accurately to show true unmet need"
+    ],
+    "state": null,
+    "notes": "Many Gates Scholars are first-generation; awards administered with the Institute of International Education. Application status on the official page as of 2026-09-15: Open (deadline Sept 15, 2026).",
+    "sources": [
+      "https://www.thegatesscholarship.org/scholarship",
+      "https://www.thegatesscholarship.org/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "coca-cola-scholars",
+    "name": "Coca-Cola Scholars Program",
+    "provider": "Coca-Cola Scholars Foundation",
+    "official_url": "https://www.coca-colascholarsfoundation.org/apply/",
+    "apply_url": "https://www.coca-colascholarsfoundation.org/apply/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident"
+    ],
+    "needs": [
+      "financial_aid",
+      "undergraduate_scholarship"
+    ],
+    "amount_text": "$20,000 non-renewable college scholarship; 150 Coca-Cola Scholars chosen each year from high school seniors.",
+    "renewable": "No",
+    "eligibility": [
+      "Currently enrolled high school/home-schooled students in one of the 50 U.S. states, D.C., Puerto Rico, or select DoD schools, graduating during the 2026-2027 school year",
+      "U.S. citizens, nationals, permanent residents, refugees, asylees, Cuban-Haitian entrants, or humanitarian parolees (per federal-aid guidelines); international students and high school graduates are not eligible",
+      "Minimum overall B/3.0 GPA in high school coursework",
+      "Planning to pursue a degree at an accredited U.S. postsecondary institution",
+      "Not eligible: children/grandchildren of Coca-Cola company/bottling employees (current or retirees)"
+    ],
+    "deadlines": [
+      {
+        "label": "2027 Coca-Cola Scholars application",
+        "date": "2026-09-30",
+        "deadline_text": "Phase 1 open August 3 - September 30, 2026, 5 p.m. Eastern; semifinalists notified by end of October; Phase 2 due November; interviews late Jan/early Feb; Coke Scholars Weekend in April",
+        "recurring_annual": true,
+        "source_url": "https://www.coca-colascholarsfoundation.org/apply/"
+      }
+    ],
+    "apply_steps": [
+      "Confirm you will graduate high school in the current academic year and can document a 3.0/B GPA",
+      "Complete the Phase 1 online application (no essays, transcript, or recommendations needed - it is short but must highlight leadership and service)",
+      "If named a Semifinalist (by end of October), prepare Phase 2: essays, transcript, and one recommendation, due in November",
+      "Regional Finalists interview in late January/early February; selected Scholars attend Coke Scholars Weekend in Atlanta in April"
+    ],
+    "how_to_win": [
+      "The program is achievement-based and leadership-driven: show 'capacity to lead and serve' and a record of significant impact on your school and community, not just grades",
+      "Phase 1 has no essays or recommendations - a polished, specific list of measurable leadership/service outcomes is what advances ~1% of applicants to Semifinalist",
+      "Apply early in the August 3 - September 30 window; the 5 p.m. Eastern September 30 cutoff is firm",
+      "Use first-generation context in your narrative: the selection emphasizes impact and perseverance, and many Coke Scholars are first-gen"
+    ],
+    "state": null,
+    "notes": "Foundation's 2026 class marks 40 years and $90M+ awarded.",
+    "sources": [
+      "https://www.coca-colascholarsfoundation.org/apply/",
+      "https://www.coca-colascholarsfoundation.org/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.93
+  },
+  {
+    "program_id": "hsf-scholar-program",
+    "name": "HSF Scholar Program (Hispanic Scholarship Fund, formerly HSDF General Scholarship)",
+    "provider": "Hispanic Scholarship Fund (HSF), formerly Hispanic Scholarship Defense Fund",
+    "official_url": "https://www.hsf.net/scholarship",
+    "apply_url": "https://www.hsf.net/scholarship",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident",
+      "daca"
+    ],
+    "needs": [
+      "financial_aid",
+      "undergraduate_scholarship",
+      "mentorship"
+    ],
+    "amount_text": "Scholarships range from $500 to $5,000 based on relative need (awarded depending on available funds and Fund A Scholar participation); HSF awards over $30 million annually and selects 10,000 HSF Scholars each year.",
+    "renewable": "Not stated as renewable on the official page; Scholars keep receiving support services",
+    "eligibility": [
+      "U.S. citizen, permanent legal resident, or DACA recipient",
+      "Minimum 3.0 GPA (4.0 scale) for high school students; 2.5 GPA for college/graduate students",
+      "Plan to enroll full-time in an accredited public or not-for-profit four-year university or graduate school in the U.S. for the award year",
+      "Must complete and submit the current-year FAFSA",
+      "Open to students of all races who identify as being of Hispanic heritage; many HSF Scholars are first-generation"
+    ],
+    "deadlines": [
+      {
+        "label": "2026 HSF Scholar Program application",
+        "date": "2027-02-15",
+        "deadline_text": "2026 cycle: available January 5, 2026, deadline February 15, 2026 (now closed); the same Jan 5/Feb 15 pattern is stated on the official timeline",
+        "recurring_annual": true,
+        "source_url": "https://www.hsf.net/scholarship"
+      }
+    ],
+    "apply_steps": [
+      "Complete the FAFSA for the upcoming academic year before starting the HSF application (it is an eligibility requirement)",
+      "Open a myHSF account when the application becomes available (early January) and gather transcripts showing the required GPA",
+      "Answer the General Scholarship application questions and submit by the February 15 deadline (5 p.m. PT in prior cycles)",
+      "If selected as a Scholar (June), complete required enrollment verification documents (June-November) to receive the award in Fall"
+    ],
+    "how_to_win": [
+      "Apply even if unsure of funding: selection (10,000 Scholars/yr) unlocks HSF's support services - mentorship, career services, leadership development - even when scholarship dollars depend on available funds",
+      "Get the FAFSA done first - students missing the current FAFSA are ineligible, and the FAFSA also proves financial need",
+      "Confirm your GPA math: 3.0/4.0 for HS applicants vs 2.5/4.0 for current college students - the college bar is lower, so undergrads shouldn't self-screen out",
+      "Attend the regional Scholar Conference (eligibility to apply to National Leadership Conference and other events is a Scholar benefit) - engagement supports future award consideration",
+      "DACA recipients are explicitly eligible - include your DACA documentation in the application profile"
+    ],
+    "state": null,
+    "notes": "Renamed from 'HSF/HSDF General Scholarship Application' - the national Hispanic general scholarship application is now the HSF Scholar Program cycle at hsf.net/scholarship.",
+    "sources": [
+      "https://www.hsf.net/scholarship",
+      "https://www.hsf.net/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "jkcf-college-scholarship",
+    "name": "Cooke College Scholarship Program",
+    "provider": "Jack Kent Cooke Foundation",
+    "official_url": "https://www.jkcf.org/our-scholarships/college-scholarship-program/",
+    "apply_url": null,
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "financial_aid",
+      "undergraduate_scholarship",
+      "mentorship"
+    ],
+    "amount_text": "Last-dollar award covering a significant share of the educational experience (tuition, living expenses, books, required fees); can provide as much as $55,000 per year toward a bachelor's degree at any accredited U.S. four-year institution.",
+    "renewable": "Multi-year support through the bachelor's degree (program covers the full undergraduate program; award varies yearly with other aid)",
+    "eligibility": [
+      "High-achieving high school seniors with financial need attending and graduating from a top four-year college (per program description)",
+      "All majors permitted",
+      "Applicants typically have strong unweighted HS GPA (Cooke Scholars average 3.99), leadership roles (95%), and civic/community service (97%)",
+      "Citizenship requirement not stated on the fetched program page - see program FAQ"
+    ],
+    "deadlines": [
+      {
+        "label": "Cooke College Scholarship application",
+        "date": "2026-11-11",
+        "deadline_text": "Stated on official page: application 'currently open and will close on November 11, 2026'",
+        "recurring_annual": false,
+        "source_url": "https://www.jkcf.org/our-scholarships/college-scholarship-program/"
+      }
+    ],
+    "apply_steps": [
+      "Prepare the application during senior year before the November 11 deadline (transcripts, test scores if any, extracurricular/leadership record)",
+      "Line up recommenders (including a counselor and teachers) early - Cooke requires detailed recommendations and school reporting",
+      "Complete the FAFSA and gather family tax documents: the award is last-dollar after all institutional aid",
+      "Email scholarships@jkcf.org with eligibility questions instead of calling, per the official page"
+    ],
+    "how_to_win": [
+      "Show deep, sustained leadership and service, not a laundry list: 95% of Scholars held a leadership role and 97% did civic/community service in high school",
+      "Take the hardest curriculum available - Scholars average a 3.99 unweighted GPA and top-of-class achievement",
+      "Document unmet need precisely: because it's last-dollar, a clean, accurate FAFSA profile and realistic family contribution figures maximize the award",
+      "Apply to genuinely demanding colleges - the program targets students attending the nation's top four-year institutions"
+    ],
+    "state": null,
+    "notes": "Cooke also runs the Young Scholars Program (9th graders, multi-year) - separate track.",
+    "sources": [
+      "https://www.jkcf.org/our-scholarships/college-scholarship-program/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.8
+  },
+  {
+    "program_id": "jkcf-undergraduate-transfer-scholarship",
+    "name": "Cooke Undergraduate Transfer Scholarship",
+    "provider": "Jack Kent Cooke Foundation",
+    "official_url": "https://www.jkcf.org/our-scholarships/undergraduate-transfer-scholarship/",
+    "apply_url": null,
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "financial_aid",
+      "undergraduate_scholarship",
+      "mentorship"
+    ],
+    "amount_text": "Last-dollar award of as much as $55,000 per year for the final two to three years needed to complete a bachelor's degree at any accredited four-year U.S. institution; Scholars also get advising and may apply for Internship Stipend, Conference/Travel Stipend, and the Cooke Graduate Scholarship.",
+    "renewable": "Yes - ongoing support for the 2-3 years to finish the bachelor's degree",
+    "eligibility": [
+      "Top community college students (including recent C.C. enrollees) seeking to complete bachelor's degrees at four-year colleges/universities",
+      "Average recipient community-college GPA 3.94; 82% held a leadership role; 73% participated in honors coursework/programs",
+      "Any area of study permitted; award is last-dollar after all other financial aid",
+      "Citizenship requirement not stated on the fetched program page - see program FAQ"
+    ],
+    "deadlines": [
+      {
+        "label": "Cooke UTS application",
+        "date": "2026-12-09",
+        "deadline_text": "Official page: application 'will open on August 19, 2026'; the site snapshot also stated it 'will close on December 9, 2026' - treat December 9 as the current-cycle close",
+        "recurring_annual": false,
+        "source_url": "https://www.jkcf.org/our-scholarships/undergraduate-transfer-scholarship/"
+      }
+    ],
+    "apply_steps": [
+      "Enroll (or be enrolled) at a community college with a plan to transfer to a four-year institution within the next year or two",
+      "Assemble a transfer-ready record: near-4.0 college GPA, honors coursework, leadership roles, and a clear academic plan",
+      "Start the application after it opens (Aug 19) and complete the institutional certification and professor recommendations (allow weeks)",
+      "Submit financial documentation (FAFSA/institutional aid) early - the award is calculated last-dollar"
+    ],
+    "how_to_win": [
+      "Get the community-college GPA near-perfect: Scholars' average CC GPA is 3.94 - this is the single strongest screening metric",
+      "Pursue honors programs or honors coursework (73% of Scholars) and real leadership positions (82%)",
+      "Cultivate professor recommenders who can speak to research/class performance in upper-level transferable courses",
+      "Note the multi-year benefit chain: Internship Stipend, Conference & Travel Stipend, and eligibility to apply for the Cooke Graduate Scholarship extend the award's value - mention graduate intentions in the application"
+    ],
+    "state": null,
+    "notes": "A premier route for first-gen students who start at community college. Deadline year (2026-12-09) taken from the official page snapshot; the same page's next-open notice reads 'August 19, 2026'.",
+    "sources": [
+      "https://www.jkcf.org/our-scholarships/undergraduate-transfer-scholarship/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.75
+  },
+  {
+    "program_id": "thedreamus-national-scholarship",
+    "name": "TheDream.US National Scholarship",
+    "provider": "TheDream.US (unitedstatefund.org)",
+    "official_url": "https://www.thedream.us/scholarships/national-scholarship/",
+    "apply_url": "https://www.thedream.us/scholarships/national-scholarship/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "daca",
+      "international"
+    ],
+    "needs": [
+      "financial_aid",
+      "undergraduate_scholarship"
+    ],
+    "amount_text": "Covers tuition and fees at a Partner College up to a maximum of $33,000 for a bachelor's degree (up to $16,500 for an associate's degree), plus an additional stipend for books, supplies, and transportation up to $6,000.",
+    "renewable": "Yes - follows the student through the bachelor's degree; recipients must renew the award each June and meet continuing eligibility",
+    "eligibility": [
+      "First-generation immigrant ('Dreamer') students - undocumented with or without DACA or TPS - who came to the U.S. before November 1, 2020 and before age 16, with continuous U.S. residence since",
+      "Significant unmet financial need; students receiving or eligible for the federal Pell Grant are NOT eligible (the scholarship fills the Pell gap)",
+      "Graduating (or graduated) from a U.S. high school or earned an equivalency before Fall 2026, HS GPA 2.5+ (and college GPA 2.5+ if credits earned)",
+      "Intend to enroll full-time in an associate/bachelor's program at a Partner College in your state and be eligible for in-state tuition there (excludes private/online partner colleges and Texas institutions)"
+    ],
+    "deadlines": [
+      {
+        "label": "National Scholarship next round",
+        "date": null,
+        "deadline_text": "Current round closed; next application round opens November 1, 2026; award notifications in late April (prior round)",
+        "recurring_annual": false,
+        "source_url": "https://www.thedream.us/scholarships/national-scholarship/"
+      }
+    ],
+    "apply_steps": [
+      "Check the National Partner College List for in-state-tuition-eligible colleges in your state before starting",
+      "Confirm immigration eligibility (arrival before Nov 1, 2020 and before age 16; continuous residence; DACA/TPS or none)",
+      "Prepare financial documentation demonstrating unmet need - and verify you are NOT eligible for the federal Pell Grant",
+      "When the round opens (Nov 1, 2026), complete TheDream.US Application Guide steps: determine eligibility, complete the application, submit and monitor status, then accept the award by the stated deadline"
+    ],
+    "how_to_win": [
+      "Emphasize community service and persistence: TheDream.US says it places 'great emphasis' on dedication to service and academic/career commitment despite Dreamer barriers, beyond the 2.5 GPA floor",
+      "Apply to a Partner College where your in-state tuition status is unambiguous - eligibility failures center on state tuition status, private/online partners, and Texas",
+      "Renew on time: recipients must re-certify each June; mark that date now",
+      "Document unmet need thoroughly - because Pell-eligible students are excluded, a clear picture of aid received vs. cost is decisive"
+    ],
+    "state": null,
+    "notes": "For immigrant/Dreamer first-generation students; not U.S.-citizen-specific. Also see TheDream.US 'Tribal Nation Scholarship' and legacy programs on thedream.us/scholarships.",
+    "sources": [
+      "https://www.thedream.us/scholarships/national-scholarship/",
+      "https://www.thedream.us/scholarships/",
+      "https://www.thedream.us/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "dell-scholars",
+    "name": "Dell Scholars Program",
+    "provider": "Michael & Susan Dell Foundation",
+    "official_url": "https://www.dellscholars.org/students/",
+    "apply_url": "https://www.dellscholars.org/students/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "financial_aid",
+      "undergraduate_scholarship",
+      "mentorship"
+    ],
+    "amount_text": "$20,000 flexible scholarship (tuition, housing, other essentials) plus a laptop, book credits, emergency funds, and ongoing academic advising, career coaching, and free teletherapy; 500 students selected nationwide each year.",
+    "renewable": "Support continues through the degree (advising/teletherapy for Scholars); the $20,000 is program support rather than a per-year renewal",
+    "eligibility": [
+      "High school senior participating in an approved college readiness program (required for all applicants)",
+      "Pell Grant eligible",
+      "Minimum 2.4 GPA",
+      "Plan to enroll full-time at an accredited four-year college or university immediately after high school",
+      "Citizenship requirement not stated on the official page (Pell eligibility implies federal-aid-eligible status)"
+    ],
+    "deadlines": [
+      {
+        "label": "Application window (Class cycle)",
+        "date": "2027-02-15",
+        "deadline_text": "Official Important Dates: application opens December 15, application deadline February 15 (2025-26 cycle: open Dec 15 2025, close Feb 15 2026); finalists March 1; finalist materials due May 15; Scholars announced June 1",
+        "recurring_annual": true,
+        "source_url": "https://www.dellscholars.org/students/"
+      }
+    ],
+    "apply_steps": [
+      "Verify your high school program is an approved Dell college readiness program (check dellscholars.org/college-readiness-programs/) - if not, apply to a partner readiness program in grades 11-12 first",
+      "Complete the FAFSA and save your FAFSA Submission Summary (a finalist requirement)",
+      "Submit the online application when it opens December 15, before the February 15 deadline",
+      "If a finalist (March 1): submit your current transcript, FAFSA Submission Summary, and one online recommendation by May 15"
+    ],
+    "how_to_win": [
+      "The readiness-program requirement is the #1 stumbling block - confirm your program's approval on the College Readiness Programs page before planning your senior year",
+      "Apply as soon as the portal opens (mid-December): the program assesses all applications, and finalist materials (transcript + FSS + rec) take weeks",
+      "Highlight the four selection qualities Dell names: purpose, career-driven mindset, perseverance (turning obstacles into opportunities), and self-motivation",
+      "A 2.4 GPA is the floor, not the target - combine Pell eligibility with evidence of upward trajectory and grit"
+    ],
+    "state": null,
+    "notes": "6,000+ Scholars supported since 2004; many Dell Scholars are first-generation. Award amount updated from $12,500 to $20,000 per the current official page.",
+    "sources": [
+      "https://www.dellscholars.org/students/",
+      "https://www.dellscholars.org/",
+      "https://www.dellscholars.org/college-readiness-programs/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "horatio-alger-national-scholarship",
+    "name": "Horatio Alger National Scholarship",
+    "provider": "Horatio Alger Association of Distinguished Americans, Inc.",
+    "official_url": "https://horatioalger.org/scholarships-and-services/undergraduate-scholarships/",
+    "apply_url": null,
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen"
+    ],
+    "needs": [
+      "financial_aid",
+      "undergraduate_scholarship"
+    ],
+    "amount_text": "National Scholarship: 105 awards of $25,000 each (also state scholarship programs with separate award amounts under the same single application). Scholars receive ongoing support services.",
+    "renewable": "Award designated for bachelor's-degree completion at an accredited non-profit U.S. institution; single application gives consideration across all eligible programs",
+    "eligibility": [
+      "National Scholarship is for students enrolled full time as high school JUNIORS in the United States (state programs cover seniors/college students)",
+      "U.S. citizen",
+      "Demonstrated financial need - adjusted gross family income of $100,000 or lower required",
+      "Minimum GPA of 2.0 maintained (many state/specialized programs require more)",
+      "Commitment to immediately pursue a bachelor's degree after high school (may start at a two-year institution and transfer)",
+      "Involved in co-curricular and community service activities; must display integrity and perseverance in overcoming adversity"
+    ],
+    "deadlines": [
+      {
+        "label": "Undergraduate application deadline - high school juniors",
+        "date": "2027-03-01",
+        "deadline_text": "Official FAQ: applications open now through March 1st for high school juniors (all materials submitted online by 12:00 p.m. ET; no late submissions)",
+        "recurring_annual": true,
+        "source_url": "https://scholars.horatioalger.org/undergraduate-applicant-faq/"
+      },
+      {
+        "label": "Undergraduate application deadline - high school seniors",
+        "date": "2027-02-15",
+        "deadline_text": "Official FAQ: February 15th deadline for high school seniors",
+        "recurring_annual": true,
+        "source_url": "https://scholars.horatioalger.org/undergraduate-applicant-faq/"
+      }
+    ],
+    "apply_steps": [
+      "Create one free online application (no fees) at the Horatio Alger application portal during the open period - it covers all national/state programs you're eligible for",
+      "Write the Adversity section in detail: describe the significant hardships you face/overcome (financial need alone is not an adversity; first-generation pressure, family crisis, work obligations qualify)",
+      "Designate (a) your school counselor to complete the Counselor Certification Form and (b) a Support Form Provider - an unrelated adult over 21 (teacher, coach, pastor, neighbor) who can verify your adversity narrative",
+      "Upload a high school transcript that includes fall grades and income verification (usually a parent's tax form)",
+      "Submit everything by 12:00 p.m. ET on the deadline; track that both forms were received (email them if school servers block requests)"
+    ],
+    "how_to_win": [
+      "The adversity + support-form combo is the heart of selection - be detailed, and pick a Support Form Provider who genuinely knows your circumstances and will respond quickly (your adversity section locks once they submit)",
+      "Confirm you're within the $100,000 AGI family-income ceiling with the parent tax form before applying",
+      "Show community service and co-curricular involvement with durability, not one-off volunteering",
+      "Juniors: applying a year early via the National Scholarship (March 1) faces less crowd-out; the same application also routes you to your state program",
+      "Save progress often and resend counselor emails - many school accounts block the automatic forms, which is a stated, common failure mode"
+    ],
+    "state": null,
+    "notes": "First-gen status is not a formal criterion but adversity/need-heavy review skews strongly toward first-generation students. 70+ scholarship programs administered.",
+    "sources": [
+      "https://horatioalger.org/scholarships-and-services/undergraduate-scholarships/",
+      "https://scholars.horatioalger.org/undergraduate-applicant-faq/",
+      "https://scholars.horatioalger.org/scholarships/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.88
+  },
+  {
+    "program_id": "tiaa-first-generation-scholarship",
+    "name": "TIAA First-Generation Scholarship",
+    "provider": "TIAA; administered by Scholarship America",
+    "official_url": "https://scholarshipamerica.org/scholarship/tiaa/",
+    "apply_url": "https://scholarshipamerica.org/scholarship/tiaa/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen"
+    ],
+    "needs": [
+      "financial_aid",
+      "undergraduate_scholarship"
+    ],
+    "amount_text": "Awards range from $5,000 to $10,000; up to 15 awards granted. Not renewable, but students may reapply each year they remain eligible.",
+    "renewable": "No (reapplying allowed)",
+    "eligibility": [
+      "First-generation: defined as neither parent/guardian having previously received a 4-year college/university degree",
+      "Current college undergraduate planning full-time study at an accredited four-year college/university for the entire upcoming academic year",
+      "Minimum 2.8 GPA on a 4.0 scale",
+      "U.S. citizen",
+      "Must be pursuing a career related to financial services or asset management (e.g., business, marketing, HR, legal, IT)",
+      "Past recipients of the Nuveen Invest in the Future Scholarship are not eligible"
+    ],
+    "deadlines": [
+      {
+        "label": "Next application window",
+        "date": null,
+        "deadline_text": "Applications currently closed; Scholarship America lists the program as 'Opening January 2027' (2026 program info on the page is tentative/subject to change); all applicants notified late April",
+        "recurring_annual": false,
+        "source_url": "https://scholarshipamerica.org/scholarship/tiaa/"
+      }
+    ],
+    "apply_steps": [
+      "Create a Scholarship America account with a personal (not school) email address that you will keep after graduation",
+      "Prepare transcript showing 2.8+ GPA and a statement of educational/career goals tied to financial services or asset management",
+      "Assemble evidence of leadership, school/community involvement, and work experience (selection factors)",
+      "Submit during the open window (listed for January 2027) and add studentsupport@scholarshipamerica.org to your safe senders for the late-April notification"
+    ],
+    "how_to_win": [
+      "Name the career link explicitly: the program funds students pursuing financial-services/asset-management careers, so connect your major and goals to that field",
+      "Financial need is NOT a selection factor here - optimize your application around academics, leadership, work experience, and personal/family circumstances instead",
+      "Use the first-generation definition literally: neither parent with a 4-year degree qualifies - part-time or 2-year degrees of parents do not disqualify you",
+      "Reapply annually - awards are non-renewable but repeat applications from eligible students are allowed"
+    ],
+    "state": null,
+    "notes": "Payments are made payable to the recipient's college and mailed in August.",
+    "sources": [
+      "https://scholarshipamerica.org/scholarship/tiaa/",
+      "https://scholarshipamerica.org/students/scholarships-for-current-college-students/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  },
+  {
+    "program_id": "common-app-fee-waiver",
+    "name": "Common Application Fee Waiver",
+    "provider": "Common Application, Inc.",
+    "official_url": "https://www.commonapp.org/plan/paying-for-college/",
+    "apply_url": "https://www.commonapp.org/",
+    "kind": "fee_waiver",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "application_fee_waiver"
+    ],
+    "amount_text": "Waives the college application fee (typically $30-$90 per school) for all member colleges you apply to through Common App.",
+    "renewable": "Per application year - requested once in your Common App for that cycle",
+    "eligibility": [
+      "Request the waiver inside Common App by self-certifying eligibility: My Common Application > Profile > Common App Fee Waiver, then review the eligibility requirements and sign to confirm",
+      "Eligibility is based on financial circumstances; commonly cited grounds include federal free/reduced-price lunch, TRIO/college-access program participation (e.g., Upward Bound, POSSE, QuestBridge), foster care, homelessness, or income within federal guidelines",
+      "Your high school counselor may be asked to verify eligibility",
+      "Being eligible for one recognized waiver (e.g., SAT fee waiver) makes you eligible here"
+    ],
+    "deadlines": [
+      {
+        "label": "Fee waiver request",
+        "date": null,
+        "deadline_text": "Rolling - complete it in the Profile section before submitting applications",
+        "recurring_annual": false,
+        "source_url": "https://www.commonapp.org/plan/paying-for-college/"
+      }
+    ],
+    "apply_steps": [
+      "Start your Common App account in the summer of junior year and answer the profile questions honestly (income, lunch program, access-program participation)",
+      "Go to My Common Application > Profile > Common App Fee Waiver, review the eligibility requirements, and enter your signature",
+      "If asked, notify your school counselor so they can confirm your eligibility promptly",
+      "Submit applications - member colleges will not charge you the fee once the waiver is approved"
+    ],
+    "how_to_win": [
+      "Do the fee waiver as part of setting up the profile, before the October surge - it is self-certified with a signature and takes minutes",
+      "If you took the SAT with a fee waiver, indicate that on the Common App question - College Board says SAT-waiver students should receive the Common App waiver",
+      "Participation in TRIO, Upward Bound, POSSE, QuestBridge or similar access programs is an accepted eligibility path - keep your program enrollment letter handy for counselor verification",
+      "Fee waivers also unlock profile-sending and application benefits at many colleges; ask your counselor to check the Requirements Grid if a school still charges"
+    ],
+    "state": null,
+    "notes": "Common App's Student Solutions Center article 'What is a Common App fee waiver?' (appsupport.commonapp.org) describes the same in-app flow; its page body could not be fetched here (site bot protection), so the paying-for-college page is cited as the official URL.",
+    "sources": [
+      "https://www.commonapp.org/plan/paying-for-college/",
+      "https://www.commonapp.org/static/d8d4fe3bc09d9b0a67d715d9bb6b20f9/FY-Apply-College-Application-Fees-Waivers.pdf",
+      "https://appsupport.commonapp.org/applicantsupport/s/article/What-do-I-need-to-know-about-the-Common-App-fee-waiver"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.8
+  },
+  {
+    "program_id": "css-profile-fee-waiver",
+    "name": "CSS Profile Fee Waiver",
+    "provider": "College Board (CSS Profile)",
+    "official_url": "https://cssprofile.collegeboard.org/fee-waivers",
+    "apply_url": "https://cssprofile.collegeboard.org/",
+    "kind": "fee_waiver",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "application_fee_waiver",
+      "financial_aid"
+    ],
+    "amount_text": "Free CSS Profile submission (waives the profile fee, typically ~$25 federal FAFSA is free; CSS fees otherwise run ~$16 initial + ~$16 per additional college).",
+    "renewable": "Annual - eligibility resets each award year",
+    "eligibility": [
+      "Undergraduate students living in the U.S. may submit the CSS Profile for free if ANY of: family adjusted gross income is up to $100,000; the student qualified for an SAT fee waiver; or the student is an orphan or ward of the court under age 24",
+      "Noncustodial parents living in the U.S. submit free when family AGI is up to $100,000",
+      "Many private colleges require the CSS Profile for institutional scholarships and grants, so this waiver matters for need-based aid"
+    ],
+    "deadlines": [
+      {
+        "label": "CSS Profile submission",
+        "date": null,
+        "deadline_text": "Governed by each college's CSS Profile priority deadline (commonly Jan/Feb); fee-waiver status is determined automatically during registration - see each school's deadline",
+        "recurring_annual": false,
+        "source_url": "https://cssprofile.collegeboard.org/fee-waivers"
+      }
+    ],
+    "apply_steps": [
+      "Check which of your colleges require the CSS Profile (College Board's CSS Profile participation finder, linked from Common App's paying-for-college page)",
+      "Create a College Board account and start the CSS Profile for your award year",
+      "Answer the fee-waiver screening questions - students who took the SAT with a fee waiver or fall under $100K family AGI are auto-identified; have parents' tax returns ready",
+      "If an orphan or ward of the court under 24, prepare documentation of that status",
+      "Submit at least 2-3 weeks before your earliest college priority deadline to allow for college-specific processing"
+    ],
+    "how_to_win": [
+      "The waiver is automatic and self-reported during registration - the real deadline strategy is filing early, since some colleges' institutional aid is limited and first-come-first-served",
+      "Coordinate both applications: many aid-eligible first-gen students should file the FAFSA (federal/state aid) and the CSS Profile (college aid) - missing one forfeits one pot of money",
+      "Orphans and wards of the court under 24 qualify regardless of income - answer the dependent/household questions accordingly"
+    ],
+    "state": null,
+    "notes": "CSS Profile is separate from the FAFSA; used by roughly 350+ mostly private colleges and scholarship programs.",
+    "sources": [
+      "https://cssprofile.collegeboard.org/fee-waivers"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.88
+  },
+  {
+    "program_id": "sat-fee-waiver-college-applications",
+    "name": "SAT Fee Waiver -> College Application Fee Waivers (College Board BigFuture)",
+    "provider": "College Board",
+    "official_url": "https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/college-application-fee-waiver-faq",
+    "apply_url": "https://satsuite.collegeboard.org/sat/registration/fee-waivers",
+    "kind": "fee_waiver",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident",
+      "any"
+    ],
+    "needs": [
+      "application_fee_waiver"
+    ],
+    "amount_text": "Free SAT registration plus college application fee waivers to 2,000+ participating colleges, usable as many times as needed.",
+    "renewable": "One SAT fee waiver benefit per lifetime (in high school); college-app waiver codes arrive with scores",
+    "eligibility": [
+      "Low-income 11th- and 12th-grade students in the U.S. or territories, and U.S. citizens living abroad",
+      "Eligible if any apply: enrolled in/eligible for the National School Lunch Program; family income within USDA Food and Nutrition Service guidelines; enrolled in a federal/state/local low-income student program (e.g., TRIO programs like Upward Bound); family receives public assistance; unhoused or in federally subsidized housing, foster home; ward of the state or orphan",
+      "Every income-eligible student who takes the SAT with a fee waiver (or via a district/state program) automatically receives college application fee waivers"
+    ],
+    "deadlines": [
+      {
+        "label": "SAT fee waiver request",
+        "date": null,
+        "deadline_text": "Rolling before SAT registration - College Board asks students to submit self-identification requests at least 1-2 weeks before the SAT registration deadline",
+        "recurring_annual": false,
+        "source_url": "https://satsuite.collegeboard.org/sat/registration/fee-waivers"
+      }
+    ],
+    "apply_steps": [
+      "Talk to your school counselor about an SAT fee waiver code, or request a waiver directly from College Board via the student self-identification form",
+      "Have an adult (counselor/teacher) ready to verify your eligibility - they will receive an email and must respond quickly",
+      "Take the SAT with the waiver; seniors receive college application fee waivers with scores (juniors receive them in the fall of senior year)",
+      "Use waivers on application platforms (Common App/Coalition/Universal College Application bypass fees via their own waiver steps) and mail/submit College Board waiver forms to non-platform colleges"
+    ],
+    "how_to_win": [
+      "TRIO/Upward Bound enrollment is itself an eligibility pathway - mention it on the self-identification form",
+      "Self-request from College Board if your counselor is a bottleneck, but budget 1-2 weeks before SAT registration deadlines",
+      "You may use as many college application fee waivers as you need - build a full list of 2,000+ participating schools rather than rationing waivers",
+      "False eligibility claims risk an account ban and score cancellation (stated policy) - apply only with an honest income/program basis"
+    ],
+    "state": null,
+    "notes": "SAT fee waiver also includes score-report sends and SAT School Day benefits; acts as the upstream credential for Common App and CSS Profile waivers.",
+    "sources": [
+      "https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/college-application-fee-waiver-faq",
+      "https://satsuite.collegeboard.org/sat/registration/fee-waivers",
+      "https://satsuite.collegeboard.org/sat/registration/fee-waivers/fee-waiver-eligibility"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.87
+  },
+  {
+    "program_id": "nacac-admission-application-fee-waiver",
+    "name": "NACAC Request for Admission Application Fee Waiver (first-time) & Transfer Fee Waiver forms",
+    "provider": "National Association for College Admission Counseling (NACAC)",
+    "official_url": "https://www.nacacnet.org/student/fee-waivers/",
+    "apply_url": "https://www.nacacnet.org/wp-content/uploads/2024-feewaiver-fillable.pdf",
+    "kind": "fee_waiver",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "any"
+    ],
+    "needs": [
+      "application_fee_waiver"
+    ],
+    "amount_text": "Waives the admission application fee at up to four colleges per form (one form per university).",
+    "renewable": "Per cycle - new form needed for each school",
+    "eligibility": [
+      "Undergraduate applicants with financial need / limited financial resources (first-time applicants form)",
+      "Transfer applicants: Pell Grant eligibility is certified via FAFSA Submission Summary or a financial aid officer's confirmation; non-Pell students may self-certify if family income is within the federal eligibility guidelines",
+      "International students: check the 'Other Request' box in the Economic Need section and explain your financial barriers",
+      "Many individual colleges accept the NACAC waiver as a recognized waiver (alongside SAT/Common App waivers)"
+    ],
+    "deadlines": [
+      {
+        "label": "Submit before applying",
+        "date": null,
+        "deadline_text": "Rolling - send the form directly to each admission office before or with your application; follow up 2-4 weeks after submitting",
+        "recurring_annual": false,
+        "source_url": "https://www.nacacnet.org/student/fee-waivers/"
+      }
+    ],
+    "apply_steps": [
+      "Download the fillable NACAC Request for Admission Application Fee Waiver PDF from nacacnet.org/student/fee-waivers",
+      "Complete the student sections (college name, personal info, economic-need checkboxes) and sign",
+      "Have an 'authorized official' - your school counselor, principal, postsecondary support staff, or a community-based-organization official - complete the verification section (look up the school's CEEB code on College Board's school-code search; blank is allowed)",
+      "Email/mail one form per university to each office of admission (max four universities) and confirm the school's accepted delivery mode first",
+      "Follow up with each admission office 2-4 weeks later to check approval status"
+    ],
+    "how_to_win": [
+      "Use the NACAC form for non-Common-App schools that only honor paper waivers - it's the universal fallback recognized by admission offices",
+      "Transfers: attach the FAFSA Submission Summary (or a financial aid officer confirmation) to the form to skip any back-and-forth",
+      "Choose an authorized official who answers email quickly - the form is worthless unsigned by an official",
+      "Apply to exactly up to 4 schools per form set, then request additional forms - the cap is per-form, not per-student"
+    ],
+    "state": null,
+    "notes": "NACAC also runs an In-Person National College Fair fee-waiver program (nacacnet.org fee-waiver-program page; Fall 2026 application available there).",
+    "sources": [
+      "https://www.nacacnet.org/student/fee-waivers/",
+      "https://www.nacacnet.org/wp-content/uploads/2024-feewaiver-fillable.pdf",
+      "https://www.nacacnet.org/get-involved/exhibit-at-a-nacac-college-fair/fee-waiver-program/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.88
+  },
+  {
+    "program_id": "uc-application-fee-waiver",
+    "name": "University of California Application Fee Waiver",
+    "provider": "UC Admissions (University of California)",
+    "official_url": "https://admission.universityofcalifornia.edu/apply-now.html",
+    "apply_url": "https://apply.universityofcalifornia.edu/",
+    "kind": "fee_waiver",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident"
+    ],
+    "needs": [
+      "application_fee_waiver"
+    ],
+    "amount_text": "UC application fee is $80 per campus ($95 for international/non-immigrant); qualified students get the fee waived for up to four campuses.",
+    "renewable": "Per application year (application due by Nov 30 for fall admission)",
+    "eligibility": [
+      "Fee waiver program is for U.S. citizens, permanent residents, and applicants eligible for AB 540 benefits (includes undocumented/DACA students meeting AB 540 in-state-tuition criteria)",
+      "Automatic in-application determination: enter family size and income in the 'About you' section; eligibility feedback appears when you select campuses in 'Campuses & majors'",
+      "Waivers are capped at four campuses; additional campuses cost $80 each",
+      "Non-UC waivers (e.g., College Board/SAT) cannot be stacked onto more than four campuses"
+    ],
+    "deadlines": [
+      {
+        "label": "Fall 2027 UC application",
+        "date": "2026-11-30",
+        "deadline_text": "Submit the UC application by November 30 (single annual deadline for all campuses)",
+        "recurring_annual": true,
+        "source_url": "https://admission.universityofcalifornia.edu/"
+      }
+    ],
+    "apply_steps": [
+      "Open the UC application at apply.universityofcalifornia.edu during the Aug-Oct filing window",
+      "Enter household size and annual income in the 'About you' section (optional otherwise, but required for fee-waiver or EOP consideration)",
+      "Check the real-time fee-waiver message when selecting campuses in 'Campuses & majors' - it tells you how many campuses you can apply to for free",
+      "Select up to four fee-waived campuses and submit by November 30"
+    ],
+    "how_to_win": [
+      "Report family income/size in the application even though it is 'optional' - the fee waiver is granted automatically from those fields, so skipping them forfeits the waiver",
+      "Apply to your four strongest matches within the waiver: extra campuses beyond four cost $80 each and are not refundable",
+      "AB 540 students: the waiver is explicitly open to you, and the same income data supports Financial Aid on the Delegates path",
+      "Pair with UC's Educational Opportunity Program (EOP) check in the application: the income fields serve both the fee waiver and EOP eligibility"
+    ],
+    "state": "CA",
+    "notes": "UC's fee-waiver rules verified from admission.universityofcalifornia.edu/apply-now.html and the 'filling out the application' page. Application fee was reinstated after the 2023-24 free-application period, so verify cycle pricing on the page.",
+    "sources": [
+      "https://admission.universityofcalifornia.edu/apply-now.html",
+      "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html",
+      "https://undoc.universityofcalifornia.edu/applying-to-uc.html",
+      "https://apply.universityofcalifornia.edu/",
+      "https://admission.universityofcalifornia.edu/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  },
+  {
+    "program_id": "posse-scholars-program",
+    "name": "Posse Partnership (Posse Scholars)",
+    "provider": "The Posse Foundation",
+    "official_url": "https://www.possefoundation.org/recruiting-students/the-nomination-process",
+    "apply_url": null,
+    "kind": "mentorship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "mentorship",
+      "undergraduate_scholarship",
+      "financial_aid"
+    ],
+    "amount_text": "Each Posse Scholar wins a full-tuition leadership scholarship to attend one of Posse's partner colleges or universities, plus a support program from selection through career placement.",
+    "renewable": "Four-year full-tuition award at the partner college (career support continues after graduation)",
+    "eligibility": [
+      "High school senior in the first term of senior year, in one of Posse's 20+ recruitment cities",
+      "Must be nominated by your high school or a community-based organization registered with Posse (nomination process = Dynamic Assessment Process)",
+      "Demonstrate leadership within high school, community, or family, and academic potential",
+      "Not need-based and not minority-specific - open to students of all backgrounds (57% of Posse Scholars are first-generation)",
+      "Posse Arts and Posse Veterans programs run separate nomination processes"
+    ],
+    "deadlines": [
+      {
+        "label": "Nomination deadlines",
+        "date": null,
+        "deadline_text": "Vary by Posse city/program; nominations accepted spring and summer before senior year (students can be nominated as early as second semester junior year) - contact your local Posse office at the start of each calendar year",
+        "recurring_annual": false,
+        "source_url": "https://www.possefoundation.org/recruiting-students/the-nomination-process"
+      }
+    ],
+    "apply_steps": [
+      "Find your city's Posse office and partner-college list (possefoundation.org recruiting-students pages)",
+      "Ask your high school counselor or a registered community-based organization whether they nominate - if not, ask them to register with Posse or seek a CBO partner",
+      "Prepare for the Dynamic Assessment Process: group interview/selection activities that evaluate leadership potential, not test scores",
+      "Get nominated and complete the selection process before senior-year fall; apply to the Posse partner school when selected",
+      "Track the city-specific deadline announced at the start of the calendar year"
+    ],
+    "how_to_win": [
+      "Nominate early from junior-year second semester - city deadlines are in spring/summer and late schools lose the cycle",
+      "Lead with family/community contributions, not club titles: Posse evaluates demonstrated leadership 'within their high school, community or family', which favors first-gen students who care for relatives or work",
+      "Prepare for group-intermission style assessment: the Dynamic Assessment Process observes collaboration and influence in real time - practice discussing ideas in groups",
+      "Full-tuition means the biggest payoff at the most expensive partner schools - research partner-college profiles and rank your fit (possefoundation.org partner profiles list per-city schools)"
+    ],
+    "state": null,
+    "notes": "Mentorship + scholarship hybrid: scholars are recruited in diverse teams ('Posses') of ~10 who enter college together and are supported by near-peer and alumni mentoring through careers.",
+    "sources": [
+      "https://www.possefoundation.org/recruiting-students/the-nomination-process",
+      "https://www.possefoundation.org/",
+      "https://www.possefoundation.org/recruiting-students/partner-college-university-profiles",
+      "https://www.possefoundation.org/posse-facts"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.87
+  },
+  {
+    "program_id": "firstgen-society",
+    "name": "FirstGen Society (National Leadership Society of First Generation College Students)",
+    "provider": "FirstGen Society",
+    "official_url": "https://www.firstgensociety.org/",
+    "apply_url": "https://www.firstgensociety.org/",
+    "kind": "mentorship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "mentorship"
+    ],
+    "amount_text": null,
+    "renewable": null,
+    "eligibility": [
+      "First-generation college students and alumni (founding chapters at schools including Rutgers, Miami Dade College, East Mississippi Community College, Jacksonville State, Bryant & Stratton)",
+      "Membership open through national and campus-chapter enrollment (complete a brief member profile after joining)"
+    ],
+    "deadlines": [
+      {
+        "label": "Membership",
+        "date": null,
+        "deadline_text": "Rolling - join online through the national site or your campus chapter",
+        "recurring_annual": false,
+        "source_url": "https://www.firstgensociety.org/"
+      }
+    ],
+    "apply_steps": [
+      "Check whether your college has a FirstGen Society chapter (site lists affiliated schools/founding chapters)",
+      "Become a member online and complete the member profile",
+      "Explore chapter programs, fellowship events, and leadership opportunities in the national network",
+      "If your school has no chapter, contact the national organization about starting an affiliated school chapter"
+    ],
+    "how_to_win": [
+      "Use the society's stated model: combine campus chapter participation with the national network for social + leadership development (their pitch is community support plus leadership opportunities through lifelong fellowship)",
+      "Membership resources are curated for first-gen career transitions - complete the profile so the network can route you to programs",
+      "Pair with your campus TRIO/SSS office - chapters form at institutions already focused on first-gen completion"
+    ],
+    "state": null,
+    "notes": "Non-dollar mentorship/community organization; a lighter-weight record than scholarship entries but fills the student-association gap.",
+    "sources": [
+      "https://www.firstgensociety.org/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.7
+  }
+]

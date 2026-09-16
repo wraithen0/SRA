@@ -1,0 +1,1718 @@
+[
+  {
+    "program_id": "rsa-state-vocational-rehabilitation-services-program",
+    "name": "State Vocational Rehabilitation (VR) Services Program — Transition/Plan for Employment services for students with disabilities",
+    "provider": "U.S. Department of Education, Rehabilitation Services Administration (RSA), Office of Special Education and Rehabilitative Services; delivered by 78 state VR agencies",
+    "official_url": "https://rsa.ed.gov/about/programs/vocational-rehabilitation-state-grants",
+    "apply_url": "https://rsa.ed.gov/about/states",
+    "kind": "services",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "accommodation_funding",
+      "assistive_technology_grants"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "No fixed federal award to the student. RSA funds states by formula (78.7% federal share / 21.3% state share); what a student actually receives — including tuition, books, assistive technology, interpreters, tutoring — is set individually in the plan for employment/IPE by the state agency. RSA's 'Choose Work' service table lists 'Tuition Support for College Coursework' as a service available from state VR agencies (and not from Employment Networks).",
+    "renewable": true,
+    "eligibility": [
+      "Has a physical or mental impairment that results in a substantial impediment to employment.",
+      "Requires and can benefit from VR services to achieve an employment outcome and maximize career goals.",
+      "Must be working toward, or must need VR services to reach, an employment outcome in competitive integrated employment (or supported employment).",
+      "State VR agencies must give priority to individuals with the most significant disabilities when they cannot serve everyone who is eligible.",
+      "Some states operate two agencies — one for individuals who are blind/low vision and one for all other disabilities — so apply to the right one.",
+      "Pre-employment transition services (pre-ETS) can also be provided to students with disabilities who are potentially eligible for VR, before a full eligibility determination.",
+      "The RSA program page does not state a citizenship requirement; individual state agencies set their own documentation rules — confirm with your state agency."
+    ],
+    "deadlines": [
+      {
+        "label": "No federal deadline — state agency semester cut-offs apply",
+        "date": null,
+        "deadline_text": "RSA does not publish a student-facing deadline. State agencies set their own; for example New York ACCES-VR requires individuals who want college training services to apply by April 15 for the fall semester and by September 15 for the spring semester.",
+        "recurring_annual": true,
+        "source_url": "https://www.acces.nysed.gov/vr/40500-college-and-university-training-services-policy"
+      }
+    ],
+    "apply_steps": [
+      "Open https://rsa.ed.gov/about/states, find your state, and identify whether you need the General VR agency or the Blind VR agency.",
+      "Call or apply online with that agency's intake office and ask for an 'application for VR services' (a referral from your high school, college disability office, or American Job Center also helps).",
+      "Provide disability documentation (medical, psychological, or educational records) plus work/career goal information; the agency may do its own assessment at its expense.",
+      "If found eligible, ask the counselor to write a plan for employment / Individualized Plan for Employment (IPE) whose employment goal actually requires a college degree — services are only paid for if they appear on the signed IPE.",
+      "Complete the FAFSA first and apply for all 'comparable benefits' (Pell, state grant, veterans aid); VR pays after those, and may require you to contribute available resources.",
+      "Ask specifically for the disability-related items you need on the IPE: tuition, fees, books, assistive technology, note-taking, interpreters/CART, tutoring, and transportation.",
+      "Re-authorize funding each academic year — most agencies approve college services only one academic year at a time."
+    ],
+    "how_to_win": [
+      "Name an employment goal that cannot be reached without the degree (e.g., licensed profession), because the agency must agree the degree is required for the outcome.",
+      "Show you can handle college-level work: bring recent transcripts, your high school IEP or 504 plan, evaluations, or a selective-admission acceptance letter.",
+      "File the FAFSA and state grant applications before your VR application — comparable benefits must be used first, and going in with them already done speeds up approval.",
+      "Apply before the agency's semester cut-off (New York: April 15 for fall, September 15 for spring); late files are usually pushed to the next semester.",
+      "Ask for an assistive technology evaluation at the same time — the counselor is directed to consider AT needs when assessing your ability to benefit.",
+      "Stay in contact and report grades every term; agencies can suspend college funding for failing to meet academic standards in the IPE."
+    ],
+    "documentation_required": "Documentation of a physical or mental impairment creating a substantial impediment to employment; evidence you require and can benefit from VR services; academic records demonstrating ability to complete college coursework; FAFSA/financial information for the financial-need and comparable-benefits review.",
+    "state": null,
+    "notes": "This is the umbrella federal program (Assistance Listing 84.126A). The student-facing interaction always happens with the state agency, and each state writes its own college-funding policy — see the New York ACCES-VR record in this file for a fully worked example with dollar caps. RSA guidance on pre-ETS was updated as recently as September 8, 2026 (rsa.ed.gov/whats-new).",
+    "sources": [
+      "https://rsa.ed.gov/about/programs/vocational-rehabilitation-state-grants",
+      "https://rsa.ed.gov/about/states",
+      "https://www.acces.nysed.gov/vr/40500-college-and-university-training-services-policy",
+      "https://choosework.ssa.gov/about/meet-your-employment-team"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.93
+  },
+  {
+    "program_id": "ny-acces-vr-college-university-training-services",
+    "name": "ACCES-VR College and University Training Services (Policy 405.00) — tuition, fees, books, computer, room and board",
+    "provider": "New York State Education Department, Accessibility and Vocational Rehabilitation Services — ACCES-VR",
+    "official_url": "https://www.acces.nysed.gov/vr/40500-college-and-university-training-services-policy",
+    "apply_url": "https://www.acces.nysed.gov/vr/college-higher-education",
+    "kind": "grant",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "accommodation_funding",
+      "assistive_technology_grants"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "Capped by policy for participants who meet financial need (300% of the federal poverty level threshold), after all comparable benefits: Tuition — up to the current published SUNY/CUNY or Community College rate (graduate study at private universities capped at the published SUNY graduate rate); Required academic fees — max $300 per semester, $200 per trimester, $600 per academic year; Required textbooks/materials — max $1,000 per academic year; Computer/tablet plus software — max $800, one time for the lifetime of the case; Room and board — max $1,040 per semester, $693 per trimester, $2,080 per academic year; Tutoring — max 7 hours/week at a rate not exceeding $15/hour. Full-time = 12+ credits/semester; part-time = 3-11 credits.",
+    "renewable": true,
+    "eligibility": [
+      "Must be determined eligible for ACCES-VR services and be a 'participant' with an approved, signed IPE.",
+      "The IPE must contain an employment objective that requires a college degree, and the person must be able to complete college-level coursework.",
+      "Funding for tuition/fees/books is contingent on meeting Financial Need (threshold is 300% of the Federal Poverty Level for the household).",
+      "All comparable benefits (Pell, NYS TAP, FSEOG, veterans aid) must be applied for and used first; merit scholarships, loans and work-study are NOT counted as comparable benefits.",
+      "The college must be accredited by a U.S. Secretary of Education-recognized body or approved by the NYS Board of Regents, and be an approved ACCES-VR vendor.",
+      "Graduate school requires extra approval: a graduate degree must be required for the employment outcome or for career advancement, and the plan needs supervisor/District Office Manager/Regional Coordinator sign-off.",
+      "New York residents; students attending out-of-state schools are encouraged to also apply to that state's VR agency."
+    ],
+    "deadlines": [
+      {
+        "label": "Apply to ACCES-VR for fall-semester college funding",
+        "date": null,
+        "deadline_text": "\"Individuals who believe that a college degree will be necessary to obtain employment in their chosen field must apply to ACCES-VR by: April 15 for the fall semester, and September 15 for the spring semester.\" Applicants after the cut-off may be considered starting the following semester; dates may be waived by the District Office under extenuating circumstances.",
+        "recurring_annual": true,
+        "source_url": "https://www.acces.nysed.gov/vr/40500-college-and-university-training-services-policy"
+      },
+      {
+        "label": "Funding authorization period",
+        "date": null,
+        "deadline_text": "ACCES-VR may only authorize College Training Services up to a maximum of one academic year at a time, so renewal happens each year.",
+        "recurring_annual": true,
+        "source_url": "https://www.acces.nysed.gov/vr/40500-college-and-university-training-services-policy"
+      }
+    ],
+    "apply_steps": [
+      "Apply to ACCES-VR by April 15 (fall) or September 15 (spring) — online through acces.nysed.gov or at a local ACCES-VR district office.",
+      "Supply academic evidence the counselor may request: report card, secondary school transcript, IEP or 504 plan, evaluations, or acceptance from a college with selective admissions.",
+      "Complete the FAFSA and NYS TAP and give your counselor the award information; then complete a Financial Need Review (Policy 1125.00).",
+      "Work with the counselor to write the IPE with the degree-requiring employment goal (the IPE must be written within 90 days of the eligibility determination).",
+      "Ask for each cost line separately in the IPE: tuition, required fees, books, computer/software (if required by the college or disability-related), room and board, tutoring.",
+      "Maintain academic standing — ACCES-VR can suspend college funds if you do not meet the standards and timeline in the IPE (two years for a two-year degree, four for a four-year degree, with a pro-rated extension allowance)."
+    ],
+    "how_to_win": [
+      "Do the FAFSA/TAP before your VR application: the policy waives the deadline only when financial aid and admission steps are already done.",
+      "Pick the most cost-effective program — the counselor is expressly told to consider cost-effectiveness, and tuition is capped at the SUNY/CUNY rate even if you attend a pricier private school.",
+      "Get documentation that a computer is required by the college or your course of study, or that it addresses a disability-related need — otherwise the $800 computer allowance will not be authorized.",
+      "Never buy non-required items with ACCES-VR funds; the policy says the agency will seek reimbursement and may re-evaluate future funding.",
+      "If you need a lighter load because of your disability, say so early: summer/mini-term funding is allowed when a disability restricts credits per semester.",
+      "For grad school, raise it no later than your junior year — it needs layered approvals and sufficient lead time before the semester starts."
+    ],
+    "documentation_required": "VR eligibility documentation of disability; recent academic records (transcript, IEP/504 plan, evaluations, or standardized test scores); completed FAFSA and state aid awards; Financial Need Review showing resources; proof of acceptance/enrollment; for a computer purchase, written evidence it is required by the college or program or is disability-related.",
+    "state": "New York",
+    "notes": "Included as a concrete, citable model of how a state 'Plan for Employment' pays college costs. Every state has an equivalent policy with different caps and dates — use the RSA state directory to find yours. ACCES-VR also publishes a Higher Education Disability Services Directory for campus offices.",
+    "sources": [
+      "https://www.acces.nysed.gov/vr/40500-college-and-university-training-services-policy",
+      "https://www.acces.nysed.gov/vr/college-higher-education",
+      "https://rsa.ed.gov/about/programs/vocational-rehabilitation-state-grants"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.95
+  },
+  {
+    "program_id": "acl-assistive-technology-act-state-programs",
+    "name": "Assistive Technology (AT) Act State Grant Program — device loan, demo, reuse and state financing through your state AT program",
+    "provider": "U.S. Department of Health and Human Services, Administration for Community Living (ACL), Office of Interagency Innovation / Center for Innovation and Partnership",
+    "official_url": "https://acl.gov/programs/assistive-technology/assistive-technology",
+    "apply_url": "https://at3center.net/state-at-programs/",
+    "kind": "assistive_technology",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "assistive_technology_grants",
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "No student-facing federal dollar amount. ACL awards one formula grant per state, DC, Puerto Rico and each outlying territory, sized largely by state population. Services to individuals are typically free or low-cost: information/assistance and device demonstrations are usually free, device loans may carry a nominal fee to cover shipping, reutilization (reuse) devices are acquired at substantial cost savings, and state financing activities provide low-interest loans, loans guarantees or interest-rate reduction for purchasing AT.",
+    "renewable": true,
+    "eligibility": [
+      "Any individual with a disability of any age (and their family, caregivers, or service providers) who needs an assistive technology device or service — AT Act programs are age-free, not limited to students.",
+      "You must be a resident of a state, DC, Puerto Rico or an outlying territory that receives an AT Act Section 4 grant (all 50 + DC + PR + 4 territories do).",
+      "'Assistive technology' is defined broadly: any item, device or piece of equipment used to maintain or improve independence and function — from a built-up spoon handle to eye-controlled computers — plus assessment, customization, repair and training services.",
+      "Separate Section 5 'Protection and Advocacy for AT' (PATS) grants go to each state's Protection & Advocacy agency."
+    ],
+    "deadlines": [
+      {
+        "label": "Rolling — no national deadline",
+        "date": null,
+        "deadline_text": "The State Grant for Assistive Technology Program is a formula grant program with no grant competitions and no published individual-applicant deadline; device loans, demonstrations and reuse inventory are requested on a rolling basis through your state program.",
+        "recurring_annual": false,
+        "source_url": "https://acl.gov/programs/assistive-technology/assistive-technology"
+      }
+    ],
+    "apply_steps": [
+      "Go to the AT3 Center directory at https://at3center.net/state-at-programs/ (or https://catada.info/state.html) and select your state to get the Lead Agency, program name, phone, email and named contacts for Device Loan, Device Demo, Reutilization and Financial Loan.",
+      "Email or call the state program's information-and-assistance line first; describe the function you need (reading text, typing, hearing the TV, mobility) rather than a diagnosis.",
+      "Ask for a hands-on device demonstration, then request a short-term device loan (commonly a 30-day trial in many states) before buying anything.",
+      "If the device costs too much to buy outright, ask about the state's financing activity (low-interest loan, loan guarantee or interest-rate reduction) and about reutilization/refurbished inventory.",
+      "Ask the program to help you document the need so a VR agency, college disability office, insurer or Medicaid can co-pay.",
+      "Use the public clearinghouse https://exploreat.net/ to compare products by activity and disability before requesting equipment."
+    ],
+    "how_to_win": [
+      "Named contacts are published for each activity in your state — emailing the specific Device Loan or Financial Loan contact, not a general inbox, gets a faster answer.",
+      "Borrow before you buy: a documented successful trial with a loaned device is the strongest evidence for a VR or insurer purchase request.",
+      "State AT programs will show you comparable devices at different price points — ask explicitly for a lower-cost equivalent with the same features.",
+      "Most services are free; a small loan fee covering shipping is normal, so do not assume a quoted cost means you are ineligible.",
+      "If you are a student, ask the AT program to coordinate with your campus disability office so the same device works in class and at home.",
+      "Return loans on time and report damage immediately — program goodwill and future eligibility depend on it."
+    ],
+    "documentation_required": "Generally none to receive information, a demonstration or a loan; financing/loan activities require credit and income information and a purchase plan. No federal disability documentation form is specified by ACL.",
+    "state": null,
+    "notes": "Program contact on the ACL page: Rob Groenendaal, Assistive Technology Program, Robert.Groenendaal@acl.hhs.gov, 202-795-7356. TA partners: AT3 Center (at3center.net, run by ATAP), CATADA (catada.info, UMass Boston), ExploreAT (exploreat.net). A separate, competitively awarded AT Alternative Financing Program (AFP) discretionary grant exists — ACL made four AFP awards in Sept 2024 and three more in Sept 2025 — but those go to organizations, not students. ABLE accounts (Reach Up To Save / Treasury) are a different program from the AT Act and are not covered here.",
+    "sources": [
+      "https://acl.gov/programs/assistive-technology/assistive-technology",
+      "https://at3center.net/state-at-programs/",
+      "https://exploreat.net/",
+      "https://catada.info/state.html",
+      "https://www.ntac.blind.msstate.edu/resources/assistive-technology-low-interest-financing-programs"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.92
+  },
+  {
+    "program_id": "fafsa-dependency-and-unusual-circumstances-for-students-with-disabilities",
+    "name": "FAFSA dependency status and the 'unusual circumstances' dependency override (how students with disabilities report parent information)",
+    "provider": "U.S. Department of Education, Federal Student Aid (studentaid.gov)",
+    "official_url": "https://studentaid.gov/apply-for-aid/fafsa/filling-out/dependency",
+    "apply_url": "https://studentaid.gov/help/unusual-circumstances",
+    "kind": "benefit",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident",
+      "daca",
+      "international"
+    ],
+    "needs": [
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "Not a fixed amount. Dependency status determines whether parent income is counted in the Student Aid Index (SAI), which drives Pell Grant and need-based aid. A dependent student who cannot provide parent information and does NOT qualify for an override is limited to a Direct Unsubsidized Loan only, with no SAI calculated.",
+    "renewable": true,
+    "eligibility": [
+      "IMPORTANT AND COMMONLY MISSTATED: having a disability is not itself a FAFSA independent-student category. The 2027-28 dependency questions are age/date of birth (born before Jan. 1, 2004), marriage, graduate/professional enrollment, military service/veteran status, dependents you support, orphan/ward of the court/foster care since age 13, court-determined emancipation, court-determined legal guardianship, and homelessness/self-supporting-at-risk-of-homelessness.",
+      "A student who was in a court-determined legal guardianship with someone other than a parent or stepparent is independent — this is the route many students with disabilities actually qualify through.",
+      "Graduate and professional students are independent automatically.",
+      "'Unusual circumstances' that let a dependent student submit without parent information are listed by Federal Student Aid as: you or your parent are incarcerated; you left home due to an abusive or threatening environment; you have been abandoned by or estranged from your parents and have not been adopted; refugee/asylee status with parents separated or displaced; victim of human trafficking; or otherwise unable to contact or locate parents and not adopted. Disability is not on this list.",
+      "Only your college's financial aid administrator has authority to adjust dependency status; they may require documentation.",
+      "Living apart from parents, or parents not claiming you on their taxes, does NOT make you independent."
+    ],
+    "deadlines": [
+      {
+        "label": "Post-submission dependency review — act immediately",
+        "date": null,
+        "deadline_text": "\"After submitting your FAFSA form, you must contact the financial aid office at the college or career school you plan to attend to receive information about next steps—including policies and timelines—to complete your application.\" No national date is published.",
+        "recurring_annual": false,
+        "source_url": "https://studentaid.gov/help/unusual-circumstances"
+      }
+    ],
+    "apply_steps": [
+      "Answer the FAFSA dependency questions truthfully; if you were in a court-ordered legal guardianship or were a ward of the court/foster youth since 13, gather the court order or agency letter now.",
+      "If you are dependent but cannot safely or practically get a parent's information, select the 'unusual circumstances' path in the FAFSA form so you can skip the parent questions and submit with an interim SAI.",
+      "Contact the school's financial aid office in writing right after submitting; ask for a 'dependency override / unusual circumstances review' and ask what documentation they require.",
+      "Prepare statements from third parties (school counselor, social worker, probation or child-welfare officer, clergy, therapist) plus any court, police, or incarceration records.",
+      "If the override is denied, ask to be certified for a Direct Unsubsidized Loan as a dependent student so you at least get loan eligibility.",
+      "Note separately that students with a cognitive impairment meeting the IDEA history + CTP program test can get Pell/FSEOG/Work-Study even without a diploma (see the CTP record in this file)."
+    ],
+    "how_to_win": [
+      "Federal aid administrators can only override for the listed unusual circumstances — frame your file around one of them (estrangement, abuse, incarceration, trafficking) rather than around the disability itself.",
+      "Bring dated third-party documentation, not just a personal statement; the aid administrator may ask for proof of the situation.",
+      "Ask the campus disability office to co-sign or contextualize a letter about why contact with parents is unsafe or impossible — it is corroborating, not decisive.",
+      "Start the FAFSA early and treat the interim SAI as provisional; the school's final review can change your aid.",
+      "Keep the VR agency in the loop: comparable-benefit rules mean the FAFSA must be complete before VR pays tuition."
+    ],
+    "documentation_required": "Court documentation of guardianship/emancipation, or documentation supporting an unusual circumstance (police/court/incarceration records, letters from a social worker, counselor, therapist or agency), plus the standard FAFSA identity, income and enrollment data.",
+    "state": null,
+    "notes": "Federal Student Aid's help pages for 2026-27 and 2027-28 were checked directly. Excluded from this record: 'independent student because of disability' claims found in third-party articles — studentaid.gov does not support them.",
+    "sources": [
+      "https://studentaid.gov/apply-for-aid/fafsa/filling-out/dependency",
+      "https://studentaid.gov/help/unusual-circumstances"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "federal-student-aid-ctp-programs-intellectual-disability",
+    "name": "Federal Pell Grant, FSEOG and Federal Work-Study for students with intellectual disabilities enrolled in a CTP program",
+    "provider": "U.S. Department of Education, Federal Student Aid (authorized by the Higher Education Opportunity Act; Comprehensive Transition and Postsecondary program designation)",
+    "official_url": "https://studentaid.gov/understand-aid/eligibility/requirements/intellectual-disabilities",
+    "apply_url": "https://studentaid.gov/apply-for-aid/fafsa",
+    "kind": "grant",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident"
+    ],
+    "needs": [
+      "accommodation_funding",
+      "accessible_university_programs",
+      "disability_scholarships"
+    ],
+    "disability_scope": [
+      "idd"
+    ],
+    "amount_text": "Award amounts are the standard Federal Pell Grant, Federal Supplemental Educational Opportunity Grant (FSEOG) and Federal Work-Study amounts set by the aid office and the annual funding formulas; studentaid.gov does not publish a separate disability-specific dollar figure. This aid is available even though the student is not required to hold a high school diploma or GED and is not required to be pursuing a degree or certificate.",
+    "renewable": true,
+    "eligibility": [
+      "Has a cognitive impairment characterized by significant limitations in intellectual and cognitive functioning and adaptive behavior as expressed in conceptual, social and practical adaptive skills.",
+      "Is currently, or was formerly, eligible for special education and related services under IDEA — including if determined eligible under IDEA while homeschooled or attending private school.",
+      "Is enrolled or accepted for enrollment in a comprehensive transition and postsecondary (CTP) program for students with intellectual disabilities at a college or career/trade school that participates in federal student aid.",
+      "Is maintaining satisfactory academic progress.",
+      "Meets the basic federal student aid requirements except the high school diploma/GED and degree/certificate-seeking requirements.",
+      "The CTP program must be one approved by the U.S. Department of Education; the published list of approved schools (as of July 9, 2025) is on the studentaid.gov page and covers dozens of institutions in most states.",
+      "CTP programs must have the student participate, for at least half the program, in credit-bearing enrollment, auditing/participating with nondisabled students, noncredit courses with nondisabled students, or internships/work-based training with nondisabled individuals."
+    ],
+    "deadlines": [
+      {
+        "label": "Program-specific; no single federal date",
+        "date": null,
+        "deadline_text": "studentaid.gov publishes no deadline. CTP programs set their own application deadlines and are listed school-by-school; \"If you have questions about your eligibility, contact the financial aid office at your college or career school.\"",
+        "recurring_annual": true,
+        "source_url": "https://studentaid.gov/understand-aid/eligibility/requirements/intellectual-disabilities"
+      }
+    ],
+    "apply_steps": [
+      "Open the studentaid.gov CTP page and find the approved CTP programs in your state (the list is organized by state, e.g. Auburn University, Jacksonville State University, University of South Alabama in Alabama).",
+      "Confirm the program is a designated CTP program that participates in federal student aid — ask the program director in writing.",
+      "Gather IDEA documentation proving you are or were eligible for special education and related services, plus current evaluation evidence of intellectual and adaptive-functioning limitations.",
+      "Apply to the CTP program and get an acceptance/enrollment letter.",
+      "File the FAFSA; tell the school's financial aid office you are applying as a CTP student with an intellectual disability so they apply the exception to the diploma/degree-seeking rules.",
+      "Ask the aid office about the CTP program's own charges (some charge a separate program fee in addition to or instead of standard tuition) and how Pell/FSEOG/Work-Study can be applied to it."
+    ],
+    "how_to_win": [
+      "Do not let a school's financial aid system auto-reject you for lacking a diploma/GED — cite the CTP exception on the studentaid.gov eligibility page and ask for a manual review.",
+      "IDEA eligibility from years ago counts ('currently, or were formerly, eligible'), so dig out old IEPs and eligibility paperwork rather than paying for a new assessment.",
+      "Pick a program where you will be included with nondisabled students for at least half the activity — the CTP designation requires it, and undocumented inclusion can sink the aid.",
+      "Federal Work-Study at a CTP school is a realistic way to add earnings without affecting SSI the way unreported wages can — talk to a WIPA benefits planner first.",
+      "Apply to more than one approved CTP program in your state; seats are limited even though the federal aid is not."
+    ],
+    "documentation_required": "Evidence of IDEA special-education eligibility (current or former) and of the qualifying cognitive/adaptive impairment; acceptance or enrollment in a Department of Education-approved CTP program; standard FAFSA identity and residency documentation.",
+    "state": null,
+    "notes": "This is the real 'Pell for students with IDD' provision. It is program-gated: the student must be in a federally approved CTP program, not merely identify as having an intellectual disability. Think College's directory (separate record) lists inclusive programs, but only the studentaid.gov list is CTP-approved for federal aid.",
+    "sources": [
+      "https://studentaid.gov/understand-aid/eligibility/requirements/intellectual-disabilities"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.94
+  },
+  {
+    "program_id": "tpd-discharge-federal-loans-teach-grant-obligation",
+    "name": "Total and Permanent Disability (TPD) Discharge of federal student loans and TEACH Grant service obligations",
+    "provider": "U.S. Department of Education, Federal Student Aid",
+    "official_url": "https://studentaid.gov/manage-loans/forgiveness-cancellation/disability-discharge",
+    "apply_url": "https://studentaid.gov/manage-loans/forgiveness-cancellation/disability-discharge",
+    "kind": "benefit",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "100% discharge of the borrower's federal student loan debt: William D. Ford Federal Direct Loans, Federal Family Education Loan (FFEL) Program loans, and Federal Perkins Loans. A TPD discharge also relieves the borrower of a TEACH Grant service obligation. Payments received after the qualifying effective date are refunded.",
+    "renewable": false,
+    "eligibility": [
+      "The borrower must be total and permanently disabled as defined by the program.",
+      "Qualification routes published on the page: (1) qualifying U.S. Department of Veterans Affairs (VA) documentation, (2) qualifying Social Security Administration (SSA) documentation, or (3) certification by an authorized medical professional (their email address, or their signature on the completed application).",
+      "Some borrowers qualify automatically and others must apply.",
+      "A three-year monitoring period applies to discharges based on SSA or medical certifications; loan obligations may be reinstated if conditions are not met during that period.",
+      "Eligible-loan questions: 888-303-7818."
+    ],
+    "deadlines": [
+      {
+        "label": "No application deadline",
+        "date": null,
+        "deadline_text": "Federal Student Aid publishes no deadline for a TPD discharge application; it can be filed any time. Borrowers can separately initiate a 120-day payment pause while applying.",
+        "recurring_annual": false,
+        "source_url": "https://studentaid.gov/manage-loans/forgiveness-cancellation/disability-discharge"
+      }
+    ],
+    "apply_steps": [
+      "Decide which route you will use — VA determination, SSA determination, or an authorized medical professional's certification — because the documents differ.",
+      "Gather the documentation for that route (VA decision letter, SSA award/notice letter, or the certifying clinician's name, email and signature).",
+      "Apply online through the TPD discharge application on studentaid.gov and upload your documents; manual submission by mail, fax or the upload tool is also offered.",
+      "If you want immediate relief, submit the application or contact Federal Student Aid to have payments paused for 120 days while you apply.",
+      "If your loan holder asks you to keep paying during review, call your servicer.",
+      "Calendar the three-year monitoring period conditions if your discharge is SSA- or physician-based."
+    ],
+    "how_to_win": [
+      "Use the SSA route if you already have a fully disabling SSA determination — it needs no new medical paperwork and can qualify you automatically.",
+      "A VA rating documentation route avoids the physician certification step entirely.",
+      "Give the medical professional their own email address ready to hand to the system; electronic certification is the fastest path and the review will stall without it.",
+      "Ask about the 120-day payment pause on day one rather than waiting for delinquency.",
+      "Note that discharged amounts may have tax consequences and can affect future Title IV aid eligibility — get that explained before you sign."
+    ],
+    "documentation_required": "One of: qualifying VA documentation; qualifying SSA documentation; or an authorized medical professional's electronic certification/signature on the completed TPD application, plus the standard discharge application.",
+    "state": null,
+    "notes": "Relevant to graduate students and to students whose disability prevents completion. Distinct from the (real but separate) closed-school, fraud-to-vest and borrowed-teacher discharges; no 'TEACH grant forgiveness for disability-related teaching' provision is claimed here beyond the service-obligation relief stated on the page.",
+    "sources": [
+      "https://studentaid.gov/manage-loans/forgiveness-cancellation/disability-discharge"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.95
+  },
+  {
+    "program_id": "ssa-work-incentives-for-student-workers",
+    "name": "Social Security work incentives for students who work: SEIE, subsidy/special conditions (Reduction of SGA), 1619(a)/(b) — plus free WIPA benefits counseling",
+    "provider": "U.S. Social Security Administration (Office of Employment Support Initiatives) — Red Book / Ticket to Work",
+    "official_url": "https://www.ssa.gov/redbook/eng/student-earned-income-exclusion.htm",
+    "apply_url": "https://choosework.ssa.gov/about/meet-your-employment-team",
+    "kind": "benefit",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "2026 figures published by SSA: Student Earned Income Exclusion (SEIE, SSI only) — $2,410 of earnings excluded per month up to $9,730 per year for SSI recipients under 22 who are regularly attending school. SGA (2026): $1,690/month for disabilities other than blindness; $2,830/month for statutorily blind beneficiaries. Trial Work Period (TWP) monthly threshold (2026): $1,210. SSI Federal Benefit Rate (2026): $994 individual / $1,491 couple. Continued Medicare Part A premium option at 45% reduction: $311/month (base $565). These are not grants — they let a student earn work income and pay for work supports without losing cash benefits or Medicaid/Medicare.",
+    "renewable": true,
+    "eligibility": [
+      "SEIE: SSI recipient under age 22 who is regularly attending school and receiving earned income. 'Regularly attending school' at college level means taking one or more courses and attending classes at least 8 hours a week (12 hours/week for grades 7-12; 12, or 15 with shop practice, for a training course preparing for employment), or less for reasons beyond the student's control such as illness.",
+      "SEIE applies automatically in qualifying months and is counted before the general and earned income exclusions.",
+      "Subsidy and Special Conditions (sometimes called Reduction of SGA): applies when an employer or a support system (job coach, extra supervision, reduced or easier duties, extra breaks as an accommodation, help supplied by a VR agency) means your pay exceeds the real value of the work — SSA then uses only the real value of your work when deciding SGA. Available under both SSDI and SSI for SGA decisions (not used when computing the monthly SSI payment amount).",
+      "Impairment-Related Work Expenses (IRWE): the cost of certain items and services you pay out of pocket and need in order to work is deducted from gross earnings in the SGA decision.",
+      "Unsuccessful Work Attempt (UWA): work started or intensified but stopped or reduced below SGA within six months because of the disability (or loss of extra help) is not counted in the SGA decision; a UWA cannot occur during the Trial Work Period.",
+      "Medicaid While Working (1619(b)) and 1619(a): cash benefits can stop while Medicaid coverage continues when earnings rise; SSA publishes yearly state threshold amounts (2026 thresholds available through the Red Book).",
+      "Ticket to Work participation is free and voluntary and unlocks state VR agencies, Employment Networks, and Work Incentives Planning & Assistance (WIPA) projects at no cost.",
+      "Wage reporting: since April 2025 SSA can pull monthly wage data from participating payroll providers with your permission (form SSA-8240)."
+    ],
+    "deadlines": [
+      {
+        "label": "Ongoing duty — report work activity",
+        "date": null,
+        "deadline_text": "There is no application deadline for work incentives; SSA requires that you report work activity and earnings, and states that beneficiaries should consult a certified benefits counselor before entering the workforce and whenever an increase in earnings is expected. Work Incentive Seminar Events (WISE) are held on the fourth Wednesday of each month at 3:00 p.m. ET.",
+        "recurring_annual": false,
+        "source_url": "https://yourtickettowork.ssa.gov/resources/work-incentives"
+      }
+    ],
+    "apply_steps": [
+      "Call the Beneficiary Call Center at 866-968-7842 (or 866-833-2967 TDD) with general work-incentive questions.",
+      "Find your regional WIPA project through the 'Find Help' map on Choose Work and book a free session with a Community Work Incentives Coordinator (CWIC) before you accept a job, internship, co-op or paid work-study position.",
+      "Register with Ticket to Work (or with your state VR agency as your Employment Network-equivalent) to get free employment services and a work/incentives plan.",
+      "Confirm you meet the SEIE school-attendance test: for college, keep enrollment at or above 8 contact hours per week and save your schedule or enrollment verification.",
+      "Track and keep receipts for impairment-related work expenses (attendant care, equipment, modified vehicle, therapy copays) and tell your CWIC to apply them to the SGA calculation.",
+      "Ask your VR agency to document any job coach or on-the-job support in writing — that documentation is what establishes 'subsidy or special conditions' for Reduction of SGA.",
+      "If you want SSA to receive wages automatically, complete and submit form SSA-8240 to authorize the Payroll Information Exchange."
+    ],
+    "how_to_win": [
+      "Talk to a CWIC before every raise, extra semester of work-study, or graduation into full-time work — most benefit losses come from unreported or misunderstood income changes, not from the rules.",
+      "Use the SEIE deliberately: it excludes $2,410/month up to $9,730/year, so concentrating campus employment in the school-year months maximizes it before the annual cap is reached.",
+      "Under 22 and in college is exactly the SEIE target population — do not assume an internship salary will reduce your SSI check; report the hours and it often will not.",
+      "Keep a written record of extra supervision or reduced duties from your employer; SSA uses only the real value of work performed when subsidy or special conditions exist.",
+      "Remember that 1619(b) can keep Medicaid even when the SSI check stops — that is the coverage that often pays for campus and post-graduation services.",
+      "Read the Red Book ('A Guide to Work Incentives', SSA Publication No. 64-030, June 2026 edition) and the 'What's New in 2026' page before relying on older dollar figures from any website."
+    ],
+    "documentation_required": "Proof of SSI/SSDI receipt; enrollment verification and class schedule showing at least 8 hours/week of college attendance for SEIE; pay stubs/employer statements; receipts for impairment-related work expenses; employer or VR-agency statements documenting job coaching, extra supervision or reduced duties for subsidy/special-conditions findings.",
+    "state": null,
+    "notes": "Excluded after verification: the Work Opportunity Tax Credit (WOTC). The IRS page (https://www.irs.gov/businesses/small-businesses-self-employed/work-opportunity-tax-credit) states the Consolidated Appropriations Act, 2021 extended WOTC only until December 31, 2025 and that it is available for wages paid to individuals who begin work on or before December 31, 2025 — so it is not claimable for 2026 hires and should not be listed as student funding. 'SSWIM' could not be verified as a live program and is excluded. Ticket to Work service-provider comparison table confirms that tuition support for college coursework comes from state VR agencies, not Employment Networks.",
+    "sources": [
+      "https://www.ssa.gov/redbook/eng/student-earned-income-exclusion.htm",
+      "https://www.ssa.gov/redbook/eng/whatsnew.htm",
+      "https://www.ssa.gov/redbook/eng/ssdi-and-ssi-employments-supports.htm",
+      "https://www.ssa.gov/redbook/",
+      "https://yourtickettowork.ssa.gov/resources/work-incentives",
+      "https://choosework.ssa.gov/about/meet-your-employment-team",
+      "https://www.irs.gov/businesses/small-businesses-self-employed/work-opportunity-tax-credit"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "nfb-scholarship-program",
+    "name": "National Federation of the Blind Scholarship Program",
+    "provider": "National Federation of the Blind (NFB)",
+    "official_url": "https://scholarships.nfb.org/",
+    "apply_url": "https://scholarships.nfb.org/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "disability_scholarships",
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "blind_low_vision"
+    ],
+    "amount_text": "NFB awards more than $300,000 in cash and prizes each year across all 50 states, DC and Puerto Rico; NFB states there are \"thirty $10,000 merit-based scholarships currently available.\" Individual awards are not need-based; finalists receive financial assistance to attend the national convention.",
+    "renewable": true,
+    "eligibility": [
+      "Must be legally blind in both eyes, with a Confirmation of Legal Blindness form submitted.",
+      "Must reside in the United States, the District of Columbia, or Puerto Rico.",
+      "Must be 18 years of age by July 3 of the application year (the 2026 cycle used July 3, 2026).",
+      "Must be pursuing or planning to pursue a full-time post-secondary course of study in a degree program at a United States institution in the fall of the application year.",
+      "Part-time students: NFB may award up to five scholarships annually to applicants enrolled part-time who meet all other requirements (recognizing employment, caregiving, or ongoing medical care).",
+      "Must participate in person in the entire NFB National Convention and in all scheduled scholarship program activities.",
+      "Graduate and undergraduate students in degree programs are both covered."
+    ],
+    "deadlines": [
+      {
+        "label": "Applications open",
+        "date": null,
+        "deadline_text": "\"Applications Open: December 1\" — NFB states 'The 2027 scholarship application will open in December.'",
+        "recurring_annual": true,
+        "source_url": "https://scholarships.nfb.org/"
+      },
+      {
+        "label": "Deadline to submit complete application",
+        "date": null,
+        "deadline_text": "\"Deadline to Submit Complete Application: March 31.\" The applicant must press submit, and must contact their NFB state affiliate president by phone or email to request an interview by March 31 (interviews may occur in early April without affecting eligibility).",
+        "recurring_annual": true,
+        "source_url": "https://scholarships.nfb.org/"
+      }
+    ],
+    "apply_steps": [
+      "Start the online application at https://scholarships.nfb.org/ after December 1; you can save and return to it.",
+      "Have your eye-care professional complete the Confirmation of Legal Blindness form and upload it.",
+      "Read the 2026 Scholarship Submissions Checklist and FAQs on the application site before writing anything.",
+      "Prepare the required essay (the checklist describes one essay, limited to 700 words or less) and at least one letter of recommendation.",
+      "Contact your NFB state affiliate president directly to request your interview — email nfb.org/about-us/state-affiliates contacts by March 31.",
+      "Confirm your submission: you must receive an email confirmation and must have pressed 'submit'; otherwise the application is not considered.",
+      "Plan and budget to attend the full NFB National Convention in person in July if you are named a finalist (financial assistance to attend is provided to finalists)."
+    ],
+    "how_to_win": [
+      "NFB awards on academic excellence, community service and leadership — write the 700-word essay around demonstrated leadership in blindness issues, not around medical history.",
+      "The interview is mandatory and is scheduled by your state affiliate president: the single most common failure mode is not reaching out to that person before March 31.",
+      "Get the legal-blindness certification form signed weeks early; an application missing it is incomplete regardless of merit.",
+      "If you attend part-time, use the application's dedicated part-time section to explain employment, caregiving or medical treatment — that is the route to one of the five part-time awards.",
+      "Log in after submitting and verify the confirmation email actually arrived; NFB explicitly warns that no confirmation means no submission.",
+      "Email scholarships@nfb.org or call 410-659-9314 ext. 2415 (Cayte Mendez, Scholarship Committee Chair) with eligibility questions rather than guessing."
+    ],
+    "documentation_required": "Confirmation of Legal Blindness (form, from an eye care professional); completed application form; one essay of 700 words or fewer; at least one letter of recommendation; transcript/enrollment evidence for a U.S. degree program; completed interview with an NFB state affiliate.",
+    "state": null,
+    "notes": "NFB also runs state-level affiliate scholarships with separate (often earlier) deadlines — e.g., several affiliates report February or June state deadlines — verify with your affiliate. Largest scholarship program of its kind in the U.S. per NFB.",
+    "sources": [
+      "https://scholarships.nfb.org/",
+      "https://nfb.org/programs-services/scholarships-and-awards/scholarship-program"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.95
+  },
+  {
+    "program_id": "afb-scholars-program-lulu-j-alonso-scholarship-fund",
+    "name": "AFB Scholars Program (Lulu J. Alonso Scholarship Fund) — Science & Technology, Research, and Aging & Vision Loss pathways",
+    "provider": "American Foundation for the Blind (AFB)",
+    "official_url": "https://afb.org/get-involved/afb-scholars-program",
+    "apply_url": "https://afb.org/get-involved/afb-scholars-program/science-technology-scholarship-application",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "disability_scholarships",
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "blind_low_vision"
+    ],
+    "amount_text": "Three tiers, renewable annually: Community College $8,000; Undergraduate $20,000; Graduate $28,000.",
+    "renewable": true,
+    "eligibility": [
+      "Blind students (legally blind; verification required) enrolled or accepted in a full-time postsecondary program.",
+      "Legal blindness is defined as an individual who cannot see better than 20/200 with correction or whose visual field in the best eye is 20 degrees or less at the widest diameter with correction.",
+      "Age: must be 18 years or older by the start of the upcoming Fall semester.",
+      "Academic enrollment: enrolled or planning to enroll as a full-time student in a degree-seeking program at an accredited institution for the upcoming Fall semester.",
+      "Minimum cumulative 3.0 GPA.",
+      "Science & Technology Scholarship: undergraduate students studying STEM fields such as computer science, engineering, biology, mathematics or information technology.",
+      "Research Scholarship: graduate students (undergraduates considered) conducting research during the academic year under the supervision of a university advisor.",
+      "Aging & Vision Loss Scholarship: students pursuing a degree in Gerontology, or a degree in Public Health, Vision Rehabilitation, Social Work or Psychology together with a certificate in Gerontology.",
+      "Scholar obligations: participate in mentorship activities with AFB Leaders, participate in one approved annual conference with staff, and submit an end-of-year narrative reflecting on academic and professional growth."
+    ],
+    "deadlines": [
+      {
+        "label": "2026 cycle applications opened",
+        "date": "2026-01-06",
+        "deadline_text": "\"Applications Open: Tuesday, January 6, 2026.\"",
+        "recurring_annual": true,
+        "source_url": "https://afb.org/get-involved/afb-scholars-program"
+      },
+      {
+        "label": "2026 cycle application deadline (closed)",
+        "date": "2026-02-17",
+        "deadline_text": "\"Application Deadline: Tuesday, February 17, 2026.\" The AFB Science & Technology Scholarship application page states 'Applications for the 2026 AFB Scholars Program are now closed.'",
+        "recurring_annual": true,
+        "source_url": "https://afb.org/get-involved/afb-scholars-program"
+      },
+      {
+        "label": "2026 cycle interviews / notifications",
+        "date": null,
+        "deadline_text": "Interviews scheduled and conducted April 2026; winners notified late May 2026; new and returning scholar orientation July 2026.",
+        "recurring_annual": true,
+        "source_url": "https://afb.org/get-involved/afb-scholars-program"
+      }
+    ],
+    "apply_steps": [
+      "Watch afb.org/get-involved/afb-scholars-program from early January; the application window is short (about six weeks).",
+      "Choose one pathway — Science & Technology (undergraduate STEM), Research (grad research with an advisor), or Aging & Vision Loss (gerontology degree or related degree plus a gerontology certificate).",
+      "Collect verification of legal blindness and an official transcript showing a cumulative 3.0 GPA or higher.",
+      "For the Research pathway, get your faculty advisor to describe the supervised research you will conduct during the academic year.",
+      "Email inclusivefuture@afb.org with questions before the deadline.",
+      "Plan to attend one approved annual conference with AFB staff and to complete the mentorship and year-end narrative requirements if selected."
+    ],
+    "how_to_win": [
+      "The award is explicitly about creating blind leaders: AFB's stated goal is to 'cultivate future blind leaders,' so show advocacy, mentorship participation and a change-agent narrative, not just grades.",
+      "Match your pathway precisely — a STEM undergrad who applies to the Research pathway will not be competitive; the requirements differ by pathway.",
+      "The 3.0 GPA floor and full-time enrollment are hard gates; fix an official transcript before the application, not after.",
+      "Because awards are renewable annually, treat the end-of-year narrative as an application for year two and submit it on time.",
+      "AFB also co-funds scholarships with the American Council of the Blind — apply to both programs in the same cycle (see the ACB record).",
+      "Download and circulate the program flier through your school's services-for-blind-students office; it lists the eligibility summary and often surfaces deadlines earlier than social media."
+    ],
+    "documentation_required": "Official documentation verifying legal blindness status — AFB lists medical records, vocational rehabilitation documentation (on letterhead), NLS registration, etc.; official transcript evidencing cumulative 3.0 GPA; proof of full-time degree-seeking enrollment or acceptance at an accredited institution; for the Research pathway, evidence of supervised research; conference, mentorship and year-end narrative commitments once awarded.",
+    "state": null,
+    "notes": "The 2026-2027 scholar class was announced by AFB in 2026. Amount tiers and 2026 dates were read directly from the AFB Scholars Program page.",
+    "sources": [
+      "https://afb.org/get-involved/afb-scholars-program",
+      "https://afb.org/get-involved/afb-scholars-program/science-technology-scholarship-application"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "acb-scholarship-program",
+    "name": "ACB Scholarship Program (American Council of the Blind, in partnership with AFB and other sponsors)",
+    "provider": "American Council of the Blind (ACB)",
+    "official_url": "https://www.acb.org/scholarships",
+    "apply_url": "https://www.acb.org/scholarships",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "disability_scholarships",
+      "accommodation_funding",
+      "assistive_technology_grants"
+    ],
+    "disability_scope": [
+      "blind_low_vision"
+    ],
+    "amount_text": "Scholarships ranging from $2,000 to $7,500 for entering freshmen, undergraduates, graduate students, and students attending technical college. In 2026 ACB awarded $112,300 in scholarships to 21 students.",
+    "renewable": null,
+    "eligibility": [
+      "Must be legally blind, defined on the page as not able to see better than 20/200 in the best eye with glasses or contact lenses, or a visual field in the best eye of 20 degrees or less at the widest diameter with correction.",
+      "Must maintain a 3.0 GPA to be eligible for most scholarships in the program (unless extenuating circumstances exist).",
+      "Must be a full-time student, or a part-time student who works at least 32 hours per week.",
+      "Must be involved in their school and local community.",
+      "Must attend a post-secondary institution in the United States.",
+      "Entering freshmen, current undergraduates, transfer students and graduate students are all eligible (document type differs by category — see documentation)."
+    ],
+    "deadlines": [
+      {
+        "label": "2027-2028 school year application window opens",
+        "date": "2026-11-01",
+        "deadline_text": "\"Applications for the 2027 - 2028 school year can be submitted online from Saturday, November 1, 2026...\"",
+        "recurring_annual": true,
+        "source_url": "https://www.acb.org/scholarships"
+      },
+      {
+        "label": "2027-2028 school year application deadline",
+        "date": "2027-02-14",
+        "deadline_text": "\"...to Saturday, February 14, 2027 11:59 pm (CST).\" The application period for the 2026-2027 school year is now closed.",
+        "recurring_annual": true,
+        "source_url": "https://www.acb.org/scholarships"
+      }
+    ],
+    "apply_steps": [
+      "Register for an ACB online account first — you cannot reach the scholarship application without one; then log in and open the application from the link at the top of the site.",
+      "Obtain a certification of legal blindness from an ophthalmologist, optometrist or physician.",
+      "Upload the right transcript: high school transcript for entering freshmen; current-school transcript for continuing students; undergraduate transcript for graduate applicants.",
+      "Secure two letters of recommendation from a current or recent instructor, career counselor or employer, and submit each letter separately.",
+      "Upload proof of acceptance from a post-secondary school (a notice or letter from the admissions office); students continuing at the same school they attended in 2025/2026 do not need this.",
+      "Submit during the November 1 - February 14 window and be prepared to attend ACB's National Conference and Convention in July as a recipient."
+    ],
+    "how_to_win": [
+      "The program has many named sub-scholarships funded by partners — one complete application is reviewed against them, so submit early and completely rather than cherry-picking.",
+      "Two recommendation letters must come from instructors, career counselors or employers and must be submitted separately; late letters are a common disqualifier.",
+      "The part-time route exists only if you work at least 32 hours per week — include proof of hours if you are not full-time.",
+      "Assistive technology costs are an eligible use of the award ('other additional costs associated with assistive technology'), so write your request around concrete AT and tuition needs.",
+      "Winners are expected to attend the ACB convention; say yes in the application and arrange transportation/support early.",
+      "Create the ACB account in November, not in February — the account step plus separate letter uploads take real time."
+    ],
+    "documentation_required": "Certification of legal blindness from an ophthalmologist, optometrist or physician; transcript (high school, current, or undergraduate as applicable); two letters of recommendation submitted separately; proof of acceptance/enrollment from a U.S. post-secondary institution.",
+    "state": null,
+    "notes": "ACB's program has run since 1982 and is administered jointly with AFB-supported funds; AFB's own page confirms AFB 'provides financial support each year to students who are blind in partnership with the American Council of the Blind.' Apply to NFB and AFB programs too — they are separate.",
+    "sources": [
+      "https://www.acb.org/scholarships",
+      "https://afb.org/get-involved/afb-scholars-program"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.94
+  },
+  {
+    "program_id": "gallaudet-university-merit-and-endowed-scholarships",
+    "name": "Gallaudet University Merit-Based and Endowed Scholarships for deaf and hard of hearing students",
+    "provider": "Gallaudet University — Office of Financial Aid (Washington, DC)",
+    "official_url": "https://gallaudet.edu/financial-aid/types-of-financial-aid/scholarship-opportunities/",
+    "apply_url": "https://gallaudet.edu/financial-aid/types-of-financial-aid/scholarship-opportunities/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident"
+    ],
+    "needs": [
+      "disability_scholarships",
+      "accessible_university_programs"
+    ],
+    "disability_scope": [
+      "deaf_hard_of_hearing"
+    ],
+    "amount_text": "'These scholarships range in dollar value and are awarded for up to four years of study for first-time freshmen, and three years of study for transfer students.' No dollar figure is published on the page.",
+    "renewable": true,
+    "eligibility": [
+      "Merit-Based Scholarships: open to all undergraduate deaf and hard of hearing students whose academic achievements are exemplary; awarded to incoming deaf/HoH freshmen and new transfer students by the Admissions Office.",
+      "All newly admitted students are automatically considered for merit scholarships — no separate application.",
+      "Endowed Scholarships: awarded by the Financial Aid Office by matching students to donor-established criteria; most are restricted to U.S. citizens or U.S. permanent residents holding an I-151, I-551 or I-551C (Permanent Resident Card).",
+      "Many endowed scholarships have a financial-need criterion, so the FAFSA and the general university scholarship application are strongly suggested.",
+      "Contact: financial.aid@gallaudet.edu, (202) 651-5290 / (202) 618-6844."
+    ],
+    "deadlines": [
+      {
+        "label": "Tied to admission and FAFSA, not to a separate scholarship date",
+        "date": null,
+        "deadline_text": "The scholarship page publishes no standalone deadline. Consideration for merit awards is automatic for newly admitted students; need-based endowed awards depend on submitting the FAFSA and the general university scholarship application.",
+        "recurring_annual": true,
+        "source_url": "https://gallaudet.edu/financial-aid/types-of-financial-aid/scholarship-opportunities/"
+      }
+    ],
+    "apply_steps": [
+      "Apply for admission to Gallaudet as a deaf or hard of hearing applicant; merit scholarship consideration is automatic on admission.",
+      "Submit the FAFSA listing Gallaudet's school code so need-based endowed awards can be calculated.",
+      "Complete Gallaudet's general university scholarship application through the Financial Aid Office.",
+      "If you are a permanent resident, have your I-151/I-551/I-551C ready — most endowed awards require it.",
+      "Email or call financial.aid@gallaudet.edu / (202) 651-5290 to ask which endowed scholarships match your major and circumstances.",
+      "Also pursue the outside scholarships Gallaudet's page points to (its 'Potential Outside Scholarship Sources' list) and stack them with institutional aid."
+    ],
+    "how_to_win": [
+      "There is no separate merit application — academic record at admission is the whole contest, so strengthen the application file itself.",
+      "Transfer students get up to three years of merit funding; submit the transfer transcript early because the merit pool is admissions-driven.",
+      "File the FAFSA even if you think you do not need it — most endowed awards have a need criterion and the office cannot match you without the data.",
+      "Ask the Financial Aid Office for the current list of endowed awards restricted to your program (education, STEM, humanities, accessibility-related fields recur often).",
+      "Use Gallaudet's own contact lines; the office explicitly handles matching students to donor criteria."
+    ],
+    "documentation_required": "Admission application and academic transcripts; FAFSA; general university scholarship application; U.S. citizenship or permanent resident card (I-151/I-551/I-551C) for most endowed awards; documentation of hearing status for deaf/HoH-restricted awards.",
+    "state": "District of Columbia",
+    "notes": "Gallaudet is the federally chartered university for deaf and hard of hearing students; institutional aid is listed here because most deaf/HoH-specific national scholarships are affiliate- or state-level. The Alexander Graham Bell Association's 2026 aid listing (https://agbell.org/financial-aid/) shows its postschool programs for 2026 are limited — its college-age offering listed for 2026 is the George H. Nofer Scholarship for Law (up to three graduate law students at $5,000; the 2026 window closed March 9, 2026), and all AG Bell awards require documentation of bilateral hearing loss in the moderately-severe to profound range plus use of listening and spoken language.",
+    "sources": [
+      "https://gallaudet.edu/financial-aid/types-of-financial-aid/scholarship-opportunities/",
+      "https://agbell.org/financial-aid/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  },
+  {
+    "program_id": "incight-scholarship",
+    "name": "INCIGHT Scholarship for students with disabilities",
+    "provider": "INCIGHT (501(c)(3), Portland, Oregon)",
+    "official_url": "https://www.incight.org/scholarship",
+    "apply_url": "https://www.incight.org/scholarship",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "disability_scholarships",
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "blind_low_vision",
+      "deaf_hard_of_hearing",
+      "mobility",
+      "learning_disability",
+      "adhd",
+      "autism",
+      "psychiatric",
+      "chronic_illness",
+      "idd"
+    ],
+    "amount_text": "\"Typically the INCIGHT Scholarship award amount is $500 and increases for scholars that reapply.\" Funds are disbursed half in the Fall and half in the Winter and are sent directly to the school, never to students.",
+    "renewable": true,
+    "eligibility": [
+      "Must be a current resident of Washington, Oregon or California — explicitly NOT open to students nationwide.",
+      "Must have a disability as defined by the ADA, DSM-V, IDEA or other governing body; the published list includes autism, deaf-blindness, deafness, developmental delay, emotional disturbance, hearing impairment, intellectual disability, multiple disabilities, orthopedic impairment, other health impairment, specific learning disability, speech or language impairment, traumatic brain injury, and visual impairment including blindness.",
+      "Must be attending higher education during the funding cycle following the application (college, university, community college, graduate program, or vocational/technical school, any degree type).",
+      "Must be enrolled at your school and able to provide enrollment verification.",
+      "Open to graduating high school seniors and adult students.",
+      "Financial need is NOT considered; grades are considered but are not a deciding factor.",
+      "Recipients must complete either 30 hours of community service or volunteer at one INCIGHT event."
+    ],
+    "deadlines": [
+      {
+        "label": "2026-2027 scholarship application deadline (closed)",
+        "date": "2026-04-15",
+        "deadline_text": "\"The application deadline for the 2026 - 2027 school year is April 15, 2026. All application materials must be received by midnight on the date in order for the application to be reviewed.\" The site states the 2026-2027 application is closed. Recipients are notified in June.",
+        "recurring_annual": true,
+        "source_url": "https://www.incight.org/scholarship"
+      }
+    ],
+    "apply_steps": [
+      "Confirm you are a resident of Oregon, Washington or California.",
+      "In the spring, open https://www.incight.org/scholarship and complete the online application (the application is only available online).",
+      "Have disability documentation ready: ADA/DSM-V/IDEA classification, Social Security award showing an ADA-covered disability, or an IEP/504 plan for high school students.",
+      "Obtain enrollment verification from your college, university, community college, graduate program or vocational school.",
+      "Write about community involvement and obstacles overcome — those, not financial need, are the stated basis for selection.",
+      "Confirm every field is complete and that the application actually submitted (the applicant bears this responsibility).",
+      "Email scholarship@incight.org with eligibility or troubleshooting questions.",
+      "If awarded, plan the 30-hour community service commitment or one INCIGHT event volunteer shift."
+    ],
+    "how_to_win": [
+      "Lead with documented community involvement; the program's stated purpose is to recognize students who show outstanding service to their community and motivation to attend higher education.",
+      "Do not lead with financial hardship — need is expressly not a factor.",
+      "Any ADA/DSM-V/IDEA-defined disability qualifies, including conditions students often exclude themselves over (emotional disturbance, other health impairment, TBI, developmental delay). Apply anyway.",
+      "Re-apply every year: the award amount increases for returning scholars, and you may apply as long as you remain in school.",
+      "Submit enrollment verification before the deadline rather than after; it is an explicit requirement.",
+      "Because funds go to the school, coordinate with your financial aid office in advance about how a $500+ award will be applied so it does not displace need-based aid."
+    ],
+    "documentation_required": "Documentation of a disability per ADA / DSM-V / IDEA (an IEP or 504 plan qualifies high school applicants; Social Security benefits covered by ADA qualify); enrollment verification from the postsecondary institution.",
+    "state": "Oregon / Washington / California",
+    "notes": "Third-party sites list an April 15, 2027 deadline; the official page only states the 2026-2027 (April 15, 2026) cycle, so the 2027 date is not asserted here.",
+    "sources": [
+      "https://www.incight.org/scholarship"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.93
+  },
+  {
+    "program_id": "aahd-frederick-j-krause-scholarship-health-and-disability",
+    "name": "AAHD Frederick J. Krause Scholarship on Health and Disability",
+    "provider": "American Association on Health and Disability (AAHD)",
+    "official_url": "https://aahd.us/initiatives/scholarship/",
+    "apply_url": "https://aahd.us/initiatives/scholarship/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [
+      "us_citizen",
+      "permanent_resident"
+    ],
+    "needs": [
+      "disability_scholarships"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "\"Scholarships are generally for $1,000 but amounts are at the discretion of the AAHD Board of Directors Scholarship Committee and based on availability of funds.\" The Committee also decides how many scholarships are awarded each year.",
+    "renewable": false,
+    "eligibility": [
+      "Undergraduates: must be enrolled full-time and have completed at least one full year of college — sophomore status or greater as of the coming fall. High school students entering college for the first time are NOT eligible (exception: high school students who earned sophomore status via AP credits).",
+      "Graduate students: may be enrolled part-time or full-time in a graduate school pursuing a post-graduate degree.",
+      "Applicants must have a disability as defined by the Americans with Disabilities Act and must provide documentation verifying it.",
+      "Preference for students majoring in public health, health promotion, disability studies, disability research, rehabilitation engineering, audiology, disability policy, special education, or other fields related to disability and health.",
+      "Preference for students with a history of community service and/or volunteer activities.",
+      "Must be a U.S. citizen or legal resident living in the United States and enrolled in an accredited United States university.",
+      "Previous AAHD winners may not re-apply unless they enroll in a new program of study (e.g., moving from undergraduate to a master's, or master's to PhD).",
+      "Those who serve on the Disability and Health Journal Editorial Board are not eligible."
+    ],
+    "deadlines": [
+      {
+        "label": "2025-2026 final submission date (closed)",
+        "date": "2026-03-06",
+        "deadline_text": "\"The final date for 2025-2026 application submissions is March 6, 2026. Scholarships will be awarded by August 2026.\" \"The 2025-2026 application period is now closed.\"",
+        "recurring_annual": true,
+        "source_url": "https://aahd.us/initiatives/scholarship/"
+      },
+      {
+        "label": "2027 application period opens",
+        "date": null,
+        "deadline_text": "\"Our 2027 application period will open by November 2026.\"",
+        "recurring_annual": true,
+        "source_url": "https://aahd.us/initiatives/scholarship/"
+      }
+    ],
+    "apply_steps": [
+      "Wait for the window to open by November 2026 for the 2027 cycle and watch https://aahd.us/initiatives/scholarship/.",
+      "Write a Personal Statement (maximum 2 pages, double spaced) covering brief personal history, educational/career goals, extra-curricular activities, community service, and why you should be selected. It must be written solely by the applicant.",
+      "Request one letter of recommendation from a faculty member or academic advisor; it must carry the writer's signature and your name must be clear on the document.",
+      "Obtain an official or unofficial copy of your most recent college transcript.",
+      "Assemble disability documentation from a specialist (physician, educator, etc.) verifying your disability status.",
+      "Compile everything into a single submission through the SurveyMonkey application portal AAHD links on the page.",
+      "Accept the clause allowing AAHD to use your name, photo and/or story in future scholarship materials.",
+      "Email scholarship@aahd.us if you need accommodations to the application process or have questions."
+    ],
+    "how_to_win": [
+      "This is a health-and-disability scholarship: name a major or career direction in the preferred list (public health, disability studies, health promotion, rehabilitation engineering, audiology, disability policy, special education, disability research) and connect your own disability to it.",
+      "Community service history is an explicit preference — quantify hours and outcomes in the personal statement.",
+      "AAHD states the statement must be written solely by the applicant; do not use AI or ghostwriters, and do not exceed 2 double-spaced pages.",
+      "You need a faculty/advisor letter, not a personal reference; ask early in the fall term.",
+      "First-generation college freshmen are ineligible — apply after you have completed a year, or as a graduate student where part-time enrollment is allowed.",
+      "Ask for application accommodations proactively; the page invites contact for accommodations to the application process."
+    ],
+    "documentation_required": "Disability documentation from a specialist (physician, educator, et al.) verifying ADA-defined disability status; most recent college transcript (official or unofficial); one signed faculty/advisor letter of recommendation; 2-page double-spaced personal statement.",
+    "state": null,
+    "notes": "AAHD's prior URL path (https://aahd.us/initiatives/scholarship-program) now returns 404; the live path is /initiatives/scholarship/. The Epilepsy Foundation's own scholarship list points to this AAHD program plus the UCB Family Epilepsy Scholarship, NYU Langone medical scholarships, GW's disability scholarship page and Patient Advocate Foundation (https://www.epilepsy.com/parents-and-caregivers/work-college/scholarships).",
+    "sources": [
+      "https://aahd.us/initiatives/scholarship/",
+      "https://www.epilepsy.com/parents-and-caregivers/work-college/scholarships"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.93
+  },
+  {
+    "program_id": "ncld-anne-ford-scholarship",
+    "name": "Anne Ford Scholarship (and the Allegra Ford Thomas Scholarship) for graduating high school seniors with a documented learning disability",
+    "provider": "National Center for Learning Disabilities (NCLD)",
+    "official_url": "https://ncld.org/scholarships-awards/anne-ford-scholarship/",
+    "apply_url": "https://ncld.org/scholarships-awards/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "disability_scholarships"
+    ],
+    "disability_scope": [
+      "learning_disability",
+      "adhd"
+    ],
+    "amount_text": "Anne Ford Scholarship: $10,000 total, paid $2,500/year over four years. Allegra Ford Thomas Scholarship (sibling award from the same NCLD program): $5,000 total, paid $2,500 each year over two years.",
+    "renewable": true,
+    "eligibility": [
+      "Anne Ford: a graduating high school senior who will enroll in a full-time bachelor's degree program in the fall.",
+      "Allegra Ford Thomas: a graduating high school senior who will enroll in a two-year community college, a vocational or technical training program, or a specialized program for students with disabilities in the fall.",
+      "Applicants must have a documented learning disability (LD).",
+      "Students who have Attention Deficit Hyperactivity Disorder (ADHD) together with a learning disability are encouraged to apply — ADHD alone is not the qualifying basis as stated.",
+      "Selection is by NCLD; the application page also points to its NCLD help-line (301-966-2234)."
+    ],
+    "deadlines": [
+      {
+        "label": "Anne Ford 2026 application deadline (closed)",
+        "date": "2026-05-10",
+        "deadline_text": "\"Applications are now open and will be reviewed on a rolling basis until Sunday, May 10, 2026.\" Apply early because review is rolling.",
+        "recurring_annual": true,
+        "source_url": "https://ncld.org/scholarships-awards/anne-ford-scholarship/"
+      },
+      {
+        "label": "Stated application period on NCLD's open-scholarships page",
+        "date": null,
+        "deadline_text": "\"Application Period: November 1 to April 17 ... Selection Process: Rolling basis ... The application period will close on April 17.\" (NCLD's announcement page for the two scholarships; the individual award pages show the rolling review end-date, so check both in the spring.)",
+        "recurring_annual": true,
+        "source_url": "https://ncld.org/open-scholarships-for-students-with-learning-disabilities-apply-now/"
+      }
+    ],
+    "apply_steps": [
+      "Confirm you have a documented learning disability; gather the evaluation that establishes it (a formal diagnosis is required at the time of application).",
+      "Open https://ncld.org/scholarships-awards/anne-ford-scholarship/ in the winter and start the online application.",
+      "Choose the right award: Anne Ford if you are entering a four-year bachelor's program full-time; Allegra Ford Thomas if you are entering a two-year college, vocational/technical program, or a specialized program for students with disabilities.",
+      "Write the required essay/personal statement about your educational journey, the challenges you have faced and your aspirations.",
+      "Arrange recommendation letters and have your school issue an official transcript.",
+      "Submit well before the April 17 - May 10 window closes since applications are reviewed on a rolling basis."
+    ],
+    "how_to_win": [
+      "Rolling review means the earliest complete files have the advantage — submit in the first weeks of the window, not the last day.",
+      "Documentation of the LD is a gate, not a formality: an IEP or 504 plan plus the underlying psychoeducational evaluation is the strongest package.",
+      "If you have both an LD and ADHD, say so explicitly — NCLD encourages those applicants and the combination is common among winners.",
+      "NCLD's stated framing is resilience and determination; write about specific barriers and the strategies that work for you rather than generic goals.",
+      "Apply to both NCLD awards if your post-secondary plan is uncertain between a four-year and a two-year/vocational route, and to the Learning Disabilities Association and Lime Connect awards as well.",
+      "Ask your school counselor to send the transcript directly and early; incomplete files stall rolling review."
+    ],
+    "documentation_required": "Proof of a documented learning disability (formal diagnosis / psychoeducational evaluation; IEP or 504 plan records); academic transcripts; personal statement/essay; letters of recommendation.",
+    "state": null,
+    "notes": "NCLD's page describing the application period (Nov 1 - April 17) was written for the 2024 cycle and is still live, while the Anne Ford award page states a May 10, 2026 rolling-review end. Both dates are reported here because the official pages are inconsistent; confirm the current window before applying.",
+    "sources": [
+      "https://ncld.org/scholarships-awards/anne-ford-scholarship/",
+      "https://ncld.org/scholarships-awards/",
+      "https://ncld.org/open-scholarships-for-students-with-learning-disabilities-apply-now/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.82
+  },
+  {
+    "program_id": "patient-advocate-foundation-scholarships-for-survivors",
+    "name": "PAF Scholarships for Survivors (cancer and chronic illness)",
+    "provider": "Patient Advocate Foundation (PAF)",
+    "official_url": "https://www.patientadvocate.org/connect-with-services/apply-for-a-scholarship/",
+    "apply_url": "https://www.patientadvocate.org/connect-with-services/apply-for-a-scholarship/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [
+      "us_citizen"
+    ],
+    "needs": [
+      "disability_scholarships"
+    ],
+    "disability_scope": [
+      "chronic_illness"
+    ],
+    "amount_text": "No per-award amount is published on the page. PAF states that over 20 years it (with donors) has provided 235 scholarships totaling over $1 million, and that 40 students are currently funded.",
+    "renewable": null,
+    "eligibility": [
+      "Must be a Citizen of the United States (the program purpose text also refers to legal U.S. residents).",
+      "Must be under the age of 25.",
+      "Must have been diagnosed with and/or actively treated for cancer or a chronic disease within the past five years.",
+      "Diagnosis counts as active/eligible if you are currently and actively being treated and managed, and/or have been actively treated in the past five years — examples given include current chemotherapy, radiation or anti-neoplastic drug therapy; current drug therapy for a chronic illness; current pathology revealing cancer/chronic illness; newly diagnosed and awaiting treatment; affirmation of current disease management; or the cancerous organ removed with ongoing treatment.",
+      "Open to students pursuing undergraduate or graduate studies.",
+      "Requires demonstrated academic achievement, community service, and financial need."
+    ],
+    "deadlines": [
+      {
+        "label": "2026-2027 academic term deadline (closed)",
+        "date": "2026-03-05",
+        "deadline_text": "\"Deadline for submissions was March 5, 2026, and applications for the 2026–2027 academic term are now closed.\"",
+        "recurring_annual": true,
+        "source_url": "https://www.patientadvocate.org/connect-with-services/apply-for-a-scholarship/"
+      }
+    ],
+    "apply_steps": [
+      "Ask your treating physician, oncologist, primary care physician or nurse to complete the Diagnosis Verification Form, or to write a signed letter on practice letterhead containing: patient name, diagnosis, date of diagnosis, when active treatment began/will begin, and when it ended/will end (chronic illnesses do not require an end date).",
+      "Complete the Scholarship for Survivors application in full.",
+      "Write the required essay (500-word minimum, 2,000-word maximum) on how your diagnosis has impacted your life and future goals.",
+      "Upload a copy of your college/university acceptance letter, or list the schools you applied to if you have not been accepted yet (acceptance is verified for winners).",
+      "Upload two letters of recommendation from non-related people (teachers, coaches, community leaders) that endorse your character, academics and work/volunteer experience and include the writer's name, address and phone number.",
+      "Provide a copy of your official transcript (an official transcript is required before funds are distributed).",
+      "Complete the financial form showing need, and include a copy of the first two pages of the tax return of whoever claims you as a dependent; if $0 income or no return was filed, complete the Declaration of Income Form.",
+      "Submit early in the cycle (the deadline is in early March) and plan on notification roughly 3-4 months later."
+    ],
+    "how_to_win": [
+      "The two letters are described by PAF as 'an important part of your application' — choose recommenders who can speak to both academics and character, and make sure they include their address and phone number in the letter.",
+      "Keep your diagnosis verification current and inside the five-year active-treatment window; an old diagnosis without ongoing treatment or management will not qualify.",
+      "Stay within 500-2,000 words on the essay — over-length submissions are a technical failure.",
+      "Because funds are distributed to your college and an official transcript is required, contact your financial aid office early about how the award will interact with your existing aid.",
+      "The under-25 age cap closes the door permanently — apply in your earliest eligible year and re-apply each cycle if not selected.",
+      "PAF also runs separate case-management services; enrolling in those does not substitute for the scholarship application but its staff can help you document the medical-necessity story."
+    ],
+    "documentation_required": "Diagnosis Verification Form (or provider letter on letterhead with name, diagnosis, diagnosis date, treatment start/end); completed application; 500-2,000 word essay; acceptance letter or list of schools applied to; two non-relative recommendation letters with writer contact details; official transcript copy; financial form plus first two pages of the dependent-claimant's tax return or a Declaration of Income Form.",
+    "state": null,
+    "notes": "Chronic-illness category. Award is open to undergraduates and graduates but the published eligibility bullets on the page are for the National Undergraduate award; graduate applicants should request the graduate guidelines from PAF before filing.",
+    "sources": [
+      "https://www.patientadvocate.org/connect-with-services/apply-for-a-scholarship/",
+      "https://www.epilepsy.com/parents-and-caregivers/work-college/scholarships"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "lime-connect-jnj-access-ability-scholarship",
+    "name": "The Johnson & Johnson Access-Ability Lime Scholarship (Lime Connect)",
+    "provider": "Lime Connect, in partnership with Johnson & Johnson",
+    "official_url": "https://limeconnect.com/awards/jnjaccessabilitylimescholarship/",
+    "apply_url": "https://limeconnect.com/awards/jnjaccessabilitylimescholarship/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "disability_scholarships"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "Award value is not published on the program page. Lime Connect's separate 'In the Limelight Video Contest' awards $20,000 in cash prizes but is a contest, not this scholarship.",
+    "renewable": null,
+    "eligibility": [
+      "Must be a current Network Member of Lime Connect (free membership signup is required before you can apply).",
+      "Must be a current undergraduate, graduate, MBA or PhD student attending a 4-year university in the United States.",
+      "Must be enrolled at the university either Spring, Summer or Fall of 2027.",
+      "Must be pursuing a Health Care or STEM-based degree with a desire to pursue a career in Health Care.",
+      "Must be actively engaged in driving disability inclusion.",
+      "Lime Connect describes its network as high-achieving students and professionals (including veterans) with visible and non-visible disabilities."
+    ],
+    "deadlines": [
+      {
+        "label": "2026 scholarship application deadline (open as of 2026-09-15)",
+        "date": "2026-09-22",
+        "deadline_text": "\"2026 applications are now live. Applications will close September 22nd at 11pm ET.\"",
+        "recurring_annual": true,
+        "source_url": "https://limeconnect.com/awards/jnjaccessabilitylimescholarship/"
+      },
+      {
+        "label": "Letters of recommendation due",
+        "date": "2026-09-29",
+        "deadline_text": "\"Letters of recommendation will be due September 29th at 11pm ET.\"",
+        "recurring_annual": true,
+        "source_url": "https://limeconnect.com/awards/jnjaccessabilitylimescholarship/"
+      }
+    ],
+    "apply_steps": [
+      "Create a Lime Connect account and join as a US Network member (this is a hard eligibility requirement, not optional).",
+      "Log in to the Lime Community Platform, then open 'Jobs and Programs' and select the Johnson & Johnson Access-Ability Lime Scholarship apply button.",
+      "Enter contact and education information and upload a current resume/CV.",
+      "Upload a copy of your current university transcripts.",
+      "Answer the three essay questions about your career goals in the healthcare industry and about driving disability inclusion.",
+      "Request one letter of reference from a professor, advisor or supervisor, and make sure it is submitted by the separate recommendation deadline one week after yours.",
+      "Confirm you will be enrolled in Spring, Summer or Fall 2027 at a 4-year U.S. university in a Health Care or STEM program."
+    ],
+    "how_to_win": [
+      "Sign up for Lime Connect membership weeks before the deadline — you literally cannot start the application without it.",
+      "One reference letter is required, but it is due a week later than your application: brief your recommender with your resume and a sentence about why you are applying so it is not late.",
+      "Three essay questions target career goals in healthcare and disability-inclusion engagement; give concrete examples of inclusion work (clubs, accommodations advocacy, accessible design, peer mentoring) rather than intentions.",
+      "Because the sponsor is Johnson & Johnson's Access-Ability program, showing a health-care career direction beats a general STEM answer.",
+      "Also check Lime Connect's other awards in the same portal (the Pathways Scholarship for high school seniors and the Canada Life + Lime Connect DevOps award for Canadian students) — the deadlines and criteria differ.",
+      "Graduate, MBA and PhD students are eligible, so do not self-eliminate if you are past undergrad."
+    ],
+    "documentation_required": "Lime Connect US Network membership; current resume/CV; current university transcripts; three written essay responses; one letter of reference from a professor, advisor or supervisor; proof of enrollment for Spring/Summer/Fall 2027 at a 4-year U.S. university.",
+    "state": null,
+    "notes": "Verified open on 2026-09-15 with one week remaining. Lime Connect's Pathways Scholarship for high school seniors was closed for 2026.",
+    "sources": [
+      "https://limeconnect.com/awards/jnjaccessabilitylimescholarship/",
+      "https://limeconnect.com/opportunities/scholarships-awards/",
+      "https://limeconnect.com/awards/lime-connect-pathways-scholarship-for-high-school-seniors/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.92
+  },
+  {
+    "program_id": "quell-foundation-fighter-scholarship",
+    "name": "The Quell Foundation Fighter Scholarship (students in treatment for a diagnosed mental health condition)",
+    "provider": "The Quell Foundation",
+    "official_url": "https://thequellfoundation.org/scholarships/",
+    "apply_url": "https://thequellfoundation.org/scholarships/",
+    "kind": "scholarship",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "disability_scholarships"
+    ],
+    "disability_scope": [
+      "psychiatric"
+    ],
+    "amount_text": "Award amount is not stated on the official scholarships page.",
+    "renewable": null,
+    "eligibility": [
+      "High school seniors, or current undergraduate or graduate students, who are being treated for a diagnosed mental health condition.",
+      "Minimum GPA of 3.20 for the Fighter Scholarship (the Foundation's Survivor and First Responder Legacy awards require 3.50).",
+      "Requires documentation from a mental health professional that you are active in services.",
+      "Requires two letters of recommendation (professor, coach, counselor or manager).",
+      "Requires an academic transcript, a personal statement, and a Form 1040, Student Aid Report, or Tax Return Form."
+    ],
+    "deadlines": [
+      {
+        "label": "Current cycle status",
+        "date": null,
+        "deadline_text": "The official page shows 'Applications Closed' for the Fighter Scholarship and does not publish the next opening date. (The Foundation's separate Bridge the Gap Clinical Licensure Grant is accepted on a rolling basis and reviewed twice a year, with awardees notified by June 30 and December 30.)",
+        "recurring_annual": true,
+        "source_url": "https://thequellfoundation.org/scholarships/"
+      }
+    ],
+    "apply_steps": [
+      "Monitor https://thequellfoundation.org/scholarships/ for the next opening and subscribe to the Foundation's newsletter if offered.",
+      "Ask your treating mental health professional for a current letter confirming you are active in services — this is the eligibility core of the award.",
+      "Request two recommenders from professors, a coach, counselor or manager.",
+      "Assemble your academic transcript showing a 3.20+ GPA.",
+      "Write the personal statement.",
+      "Prepare your financial document: Form 1040, Student Aid Report, or Tax Return Form.",
+      "Submit the full package when the portal opens; the same materials also qualify you to consider the Foundation's other awards if you fit them."
+    ],
+    "how_to_win": [
+      "The distinguishing document is proof of active treatment, not a diagnosis alone — get the clinician letter dated close to the submission window.",
+      "The 3.20 GPA floor is lower than the Foundation's other awards; do not confuse it with the 3.50 requirement for the Survivor and First Responder Legacy scholarships.",
+      "Include the exact financial document listed (1040, SAR or tax return form) — missing tax paperwork is the likeliest completeness failure.",
+      "Because the Foundation's stated purpose is improving care and treatment for people with mental health challenges, write about recovery, treatment engagement and reduced stigma rather than minimizing the condition.",
+      "Also consider the Foundation's Bridge the Gap Clinical Licensure Grant if you already hold a master's in a mental health field — it is rolling, not annual."
+    ],
+    "documentation_required": "Documentation from a mental health professional that the applicant is active in services; academic transcript; personal statement; two letters of recommendation (professor, coach, counselor or manager); Form 1040, Student Aid Report, or Tax Return Form.",
+    "state": null,
+    "notes": "Psychiatric-disability coverage. Third-party listings describe it as a 'Fighter Scholarship' for students living with a diagnosed mental health condition; the official page is the controlling description. Applications were closed on 2026-09-15.",
+    "sources": [
+      "https://thequellfoundation.org/scholarships/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.72
+  },
+  {
+    "program_id": "maryland-assistive-technology-loan-program-atlp",
+    "name": "Maryland Assistive Technology Loan Program (ATLP) — low-interest financing for AT equipment",
+    "provider": "Maryland Department of Disabilities / Maryland Technology Assistance Program (MDTAP), a state Assistive Technology Act program",
+    "official_url": "https://mdod.maryland.gov/mdtap/Pages/ATlowloan.aspx",
+    "apply_url": "https://mdod.maryland.gov/mdtap/Pages/ATlowloan.aspx",
+    "kind": "assistive_technology",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "assistive_technology_grants",
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "Borrow from $500 to $70,000: unsecured AT loans up to $10,000; unsecured vehicle and home-modification loans up to $20,000; non-adapted vehicles up to $40,000; adapted vehicles up to $70,000 (restrictions apply). All loans are below-market and fixed for the loan term; rates depend on creditworthiness and are disclosed at application processing and approval.",
+    "renewable": null,
+    "eligibility": [
+      "Maryland resident with a disability (the borrower may be the person with a disability, a family member, a friend, or anyone intending to buy AT for a Maryland resident with a disability).",
+      "The loan must be used to purchase assistive technology that helps the resident live, work and learn more independently.",
+      "Eligible equipment includes home modifications, adapted and non-adapted vehicles, scooters and wheelchairs, Braille equipment, hearing and vision aids, augmentative communication devices, environmental control units, and computers with adaptive peripherals.",
+      "Approval is not automatic: the program reviews income-to-debt ratio, stability of residence and job, payment history with existing creditors, and financial ability to repay. Criteria are explicitly less stringent than a bank's.",
+      "Two approval paths: approved by the lender at a discounted interest rate, or approved by the ATLP at a discounted interest rate."
+    ],
+    "deadlines": [
+      {
+        "label": "Rolling",
+        "date": null,
+        "deadline_text": "No deadline is published; applications are accepted on a rolling basis and interest rates are subject to change.",
+        "recurring_annual": false,
+        "source_url": "https://mdod.maryland.gov/mdtap/Pages/ATlowloan.aspx"
+      }
+    ],
+    "apply_steps": [
+      "Confirm the item you want counts as assistive technology under the program's list (equipment that helps a Maryland resident with a disability live, work and learn more independently).",
+      "Complete and submit the ATLP application online, or download the ATLP application and email it with supporting documents to MDTAP (the address is on the program page).",
+      "Include purchase information for the equipment and the vendor.",
+      "Provide income, residence and credit information so the program can assess income-to-debt, stability and payment history.",
+      "Choose the approval path offered to you — lender-approved with a discounted rate, or ATLP-approved with a discounted rate — and confirm the fixed rate at approval.",
+      "Ask MDTAP's other AT services at the same time (device reutilization, device loan and demonstration) so you do not finance equipment you could borrow or obtain refurbished."
+    ],
+    "how_to_win": [
+      "Anyone may be the borrower if the equipment is for a Maryland resident with a disability — a parent or friend with better credit can apply.",
+      "Pair the loan with a short-term device loan or demonstration from the same state program so you prove the device works before financing it.",
+      "Check the reutilization/refurbished inventory first; the AT Act reuse route can cut the financed amount dramatically.",
+      "The program's underwriting is deliberately looser than a bank's — a prior bank decline is not a reason to skip the application.",
+      "For vehicles, note the different caps ($40,000 non-adapted vs $70,000 adapted) and that restrictions apply, so get the adaptation specification in writing from the vendor.",
+      "Because rates vary with creditworthiness and are only disclosed at processing, apply well before you need the equipment."
+    ],
+    "documentation_required": "ATLP application with supporting documents; proof the purchase is assistive technology for a Maryland resident with a disability; financial information (income, existing debt, residence and job stability, creditor payment history); vendor/purchase details.",
+    "state": "Maryland",
+    "notes": "A worked example of the AT Act 'state financing activity' allowed under the federal program. Equivalent programs in other states are listed at https://www.ntac.blind.msstate.edu/resources/assistive-technology-low-interest-financing-programs (National Technical Assistance Center, Mississippi State University) and in the AT3 Center state directory.",
+    "sources": [
+      "https://mdod.maryland.gov/mdtap/Pages/ATlowloan.aspx",
+      "https://www.ntac.blind.msstate.edu/resources/assistive-technology-low-interest-financing-programs",
+      "https://acl.gov/programs/assistive-technology/assistive-technology"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "tsbvi-electronic-equipment-tech-loan",
+    "name": "Electronic Equipment Tech Loan — Texas School for the Blind and Visually Impaired (TSBVI) Outreach",
+    "provider": "Texas School for the Blind and Visually Impaired (TSBVI), Outreach Programs (Texas Education Agency)",
+    "official_url": "https://www.tsbvi.edu/statewide-resources/services/tech-loan/electronic-equipment",
+    "apply_url": "https://www.tsbvi.edu/statewide-resources/services/tech-loan",
+    "kind": "assistive_technology",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "assistive_technology_grants",
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "blind_low_vision"
+    ],
+    "amount_text": "No money is paid to students — equipment is lent at no purchase cost for a three-month loan period, extendable at the end of three months if another district has not requested the item. Electronic Equipment inventory includes CCTV video magnifiers, handheld video magnifiers, refreshable Braille displays and Braille notetakers; a separate Active Learning Tech Loan inventory includes Essef Boards, HOPSA Dresses, Little Rooms and Resonance/Vibration Boards. The program was established through the Hoblitzelle Foundation plus federal funds awarded through the Texas Education Agency.",
+    "renewable": true,
+    "eligibility": [
+      "A statewide Texas resource: equipment is available for loan to any student in Texas who is eligible for services as a student with a visual impairment.",
+      "Requests are made through a receiving agency/district (the school district or program that will hold the equipment), not by an individual student or family directly.",
+      "A local agency must sign the loan agreement accepting responsibility for use, repair and return of the equipment.",
+      "The item must be available in the TSBVI Outreach inventory — availability is confirmed with the AT consultant before the application link is issued.",
+      "Related categories: Electronic Equipment (3-month loans) and Active Learning equipment and materials."
+    ],
+    "deadlines": [
+      {
+        "label": "Rolling, with a 3-month loan term",
+        "date": null,
+        "deadline_text": "No application deadline; loans run for three months and \"Loans may be extended at the end of three months if another district has not requested the item(s) your student is using.\"",
+        "recurring_annual": false,
+        "source_url": "https://www.tsbvi.edu/statewide-resources/services/tech-loan/electronic-equipment"
+      }
+    ],
+    "apply_steps": [
+      "Contact Carrie Gillespie, Assistive Technology Consultant at TSBVI Outreach, to discuss the student's needs, determine the best device, and confirm it is available.",
+      "You will then receive a link to the Electronic Equipment Tech Loan Application; complete it.",
+      "TSBVI prepares a written agreement detailing the items and the receiving agency's responsibilities for use, repair and return.",
+      "The loan agreement is sent via DocuSign; a local agency (school district or program) must sign accepting responsibility.",
+      "Equipment ships to the receiving agency; if the device is damaged or lost, contact TSBVI Outreach to coordinate repair.",
+      "At the end of the loan, the borrowing agency returns the equipment via UPS, USPS or FedEx to: TSBVI Warehouse, Attn: Carrie Gillespie, 1100 W. 45th Street, Austin, Texas 78756.",
+      "Do NOT ship returned items as 'Free Matter for the Blind' — the borrowing agency is financially responsible for replacing equipment lost that way."
+    ],
+    "how_to_win": [
+      "Call/email the named AT consultant before applying — the application link is issued only after availability is confirmed, so a vague request wastes a cycle.",
+      "Route the request through your school district's VI teacher or service-agency staff, because a local agency must sign the DocuSense agreement.",
+      "Ask about the Active Learning Tech Loan at the same time if the need is orientation/mobility or concept-development materials rather than electronics.",
+      "Tell the consultant the assessment or trial purpose ('evaluate whether this refreshable braille display works for coursework') so they recommend comparable devices.",
+      "Request an extension before the three-month mark, and check whether another district has the item queued.",
+      "Pair the loan with a request for APH (American Printing House) materials through the same TSBVI Outreach services page."
+    ],
+    "documentation_required": "Completed Electronic Equipment Tech Loan Application; a signed agency loan agreement (via DocuSign) accepting responsibility for use, repair and return; eligibility of the student for services as a student with a visual impairment in Texas.",
+    "state": "Texas",
+    "notes": "Included as a concrete, currently-published 'how to request equipment' pathway with a named contact. Note the loan is made to an agency on the student's behalf, which is typical of state device-loan programs. TSBVI Outreach also coordinates APH (American Printing House) materials.",
+    "sources": [
+      "https://www.tsbvi.edu/statewide-resources/services/tech-loan/electronic-equipment",
+      "https://www.tsbvi.edu/statewide-resources/services/tech-loan",
+      "https://at3center.net/state-at-programs/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.88
+  },
+  {
+    "program_id": "think-college-ipse-program-directory",
+    "name": "Think College Search Tool — national directory of Inclusive Postsecondary Education (IPSE) programs for students with intellectual disability",
+    "provider": "Think College (Community Living and Participatory Action Research / Think Highered), funded by the U.S. Department of Education",
+    "official_url": "https://thinkcollege.net/college-search",
+    "apply_url": "https://thinkcollege.net/college-search",
+    "kind": "support_program",
+    "levels": [
+      "undergraduate"
+    ],
+    "citizenship": [],
+    "needs": [
+      "accessible_university_programs",
+      "disability_scholarships"
+    ],
+    "disability_scope": [
+      "idd"
+    ],
+    "amount_text": "Not a funding award. The directory itself lists 324 inclusive postsecondary education (IPSE) programs and 51 other programs for students with intellectual disability connected with colleges and universities.",
+    "renewable": null,
+    "eligibility": [
+      "Students with intellectual disability seeking college attendance at an accredited institution of higher education.",
+      "An IPSE Program is defined as a program where students with intellectual disability can take typical college classes at an accredited institution — for credit, audit, or continuing education.",
+      "All listed programs must be affiliated with an accredited college or university and must serve students with intellectual disabilities.",
+      "Some listed programs only serve students who are still receiving services from their high school; those can be filtered out with the 'Remove Programs that ONLY Serve Students in High School' checkbox.",
+      "Age ranges vary by program (e.g., the TAPESTRY entry at University of Alaska Anchorage serves ages 18-26)."
+    ],
+    "deadlines": [
+      {
+        "label": "Directory has no deadline; each program sets its own",
+        "date": null,
+        "deadline_text": "Think College publishes no directory-level deadline. Application dates, age limits and fees are set program-by-program and appear on each listing; most programs admit for the fall term.",
+        "recurring_annual": true,
+        "source_url": "https://thinkcollege.net/college-search"
+      }
+    ],
+    "apply_steps": [
+      "Search https://thinkcollege.net/college-search by state and filter out high-school-only programs if you are age-out eligible.",
+      "Use the 'save/favorites' feature to build a comparison list — the tool lets you save, compare and download basic information for each program.",
+      "Work through Think College's 'Conducting a College Search: Questions to Ask College Programs', which features over 60 questions to ask programs.",
+      "Read the 2026 student-facing publication 'A Student's Guide to Finding the Right College' before visiting campuses.",
+      "Contact the named program coordinator and email listed on each entry to ask about application deadlines, cost, ages served, financial aid eligibility (CTP designation) and campus housing.",
+      "For each shortlisted program, confirm on the studentaid.gov CTP list whether the program is approved for federal Pell/FSEOG/Work-Study (see the CTP record in this file)."
+    ],
+    "how_to_win": [
+      "Programs list a named contact person — emailing that coordinator directly, not the general admissions office, is what actually gets an application packet.",
+      "Ask whether the program is federally designated as a CTP program; that single fact determines whether a student can hold Pell, FSEOG and Work-Study.",
+      "Use the 60+ question checklist to compare programs on credit-bearing enrollment with nondisabled peers, employment/internships, and independent living supports.",
+      "Note the disclaimer: listings are self-submitted and do not imply Think College endorsement, so verify every claim with the campus directly.",
+      "Many programs require that the student still be in an IDEA eligibility window — check the age-out rule (commonly 21-26) before investing in an application.",
+      "If you know of a program that is not listed, Think College accepts new listings by email, so ask a campus program to add itself."
+    ],
+    "documentation_required": "None for the directory. Individual IPSE programs typically require IDEA eligibility documentation, a psychoeducational evaluation showing intellectual disability, transition paperwork, and an application fee set by the institution.",
+    "state": null,
+    "notes": "This is the only national directory of college programs for students with intellectual disability. Think College also publishes an annual 'Program Update' count of IPSE programs.",
+    "sources": [
+      "https://thinkcollege.net/college-search",
+      "https://thinkcollege.net/about/what-is-think-college",
+      "https://studentaid.gov/understand-aid/eligibility/requirements/intellectual-disabilities"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "ahead-association-higher-education-disability",
+    "name": "AHEAD — Association on Higher Education And Disability (professional association and searchable directory of campus disability resource professionals)",
+    "provider": "AHEAD (Association on Higher Education And Disability), founded 1977",
+    "official_url": "https://www.ahead.org/about-ahead",
+    "apply_url": "https://www.ahead.org/join/levels",
+    "kind": "support_program",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [
+      "any"
+    ],
+    "needs": [
+      "accessible_university_programs",
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "Not a student funding award. AHEAD is a membership association; its published professional membership level is $325 (Full Professional Membership). It reports approximately 3,700 members across all 50 states and 10+ countries, plus formal partnerships with 37 regional affiliates.",
+    "renewable": null,
+    "eligibility": [
+      "Membership-based directory — AHEAD describes itself as the leading professional membership association for individuals committed to equity for persons with disabilities in higher education, and maintains a searchable membership directory.",
+      "Members include disability resource professionals, student affairs personnel, ADA coordinators, diversity officers, AT/IT staff, faculty and instructional personnel.",
+      "Open to individuals, institutions and organizations; AHEAD's own site describes the join/renew process and membership levels.",
+      "Students CAN join: AHEAD's Student Membership is for individuals whose primary involvement with higher education is as a currently enrolled undergraduate or graduate student who is interested in engaging with work that enhances postsecondary access for persons with disabilities (individuals employed full-time by a higher education institution are not eligible for Student Membership; Student Members may not hold office on the Board but may vote for AHEAD offices).",
+      "There is no student eligibility test — students interact with AHEAD members (campus disability services staff) rather than with AHEAD as an aid program."
+    ],
+    "deadlines": [
+      {
+        "label": "None — association membership and directory are continuously available",
+        "date": null,
+        "deadline_text": "AHEAD publishes no directory deadline. Annual conference registration opens each year (the site announced 'REGISTRATION NOW OPEN' for AHEAD events and for its online instructor-led courses on an ongoing basis).",
+        "recurring_annual": true,
+        "source_url": "https://www.ahead.org/home"
+      }
+    ],
+    "apply_steps": [
+      "Use AHEAD to identify and reach the disability resource office leadership at a specific campus, or to find your regional AHEAD affiliate.",
+      "Students and families: search the campus's own disability services office first (AHEAD members run those offices), then contact AHEAD's office if you need help escalating an access problem.",
+      "Professionals/staff: join or renew at https://www.ahead.org/join/levels to access the searchable membership directory and the Journal of Postsecondary Education and Disability (JPED).",
+      "Ask your campus disability services coordinator whether they are an AHEAD member — it is a useful signal about the office's professional grounding when you are choosing a college.",
+      "Attend or register for AHEAD's annual conference and online instructor-led courses for documentation-standards and accommodation guidance."
+    ],
+    "how_to_win": [
+      "When comparing colleges, use AHEAD membership (and its 37 regional affiliates) as a proxy for whether a campus has a professionally staffed disability office rather than an ad hoc arrangement.",
+      "AHEAD's publications and webinars describe current documentation practice — read them before you assemble accommodation paperwork, since standards vary by institution.",
+      "If a campus office is unresponsive, an AHEAD regional affiliate contact can point you to comparable institutions.",
+      "Keep in mind the directory is member-facing: for a public list of campus offices, pair AHEAD with your state VR agency's higher-education disability services directory (e.g., New York's ACCES-VR lists one)."
+    ],
+    "documentation_required": "Not applicable for students (no student application). Membership requires an institutional or professional affiliation for full professional membership.",
+    "state": null,
+    "notes": "Included as a professional-association directory of the people who run campus accommodation, AT and accessibility policy. AHEAD's site reports membership of ~3,700; some pages state 'over 5,000' / 'over 6,500' — figures differ across pages, so the about-page number is used here.",
+    "sources": [
+      "https://www.ahead.org/about-ahead",
+      "https://www.ahead.org/home",
+      "https://www.ahead.org/join/levels"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.78
+  },
+  {
+    "program_id": "ada-national-network-regional-ada-centers",
+    "name": "ADA National Network — 10 regional ADA Centers providing free technical assistance on postsecondary accommodation rights",
+    "provider": "ADA National Network, funded by NIDILRR (Administration for Community Living), coordinated through the National Council on Independent Living",
+    "official_url": "https://adata.org/national-network/",
+    "apply_url": "https://adata.org/national-network/",
+    "kind": "services",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [
+      "any"
+    ],
+    "needs": [
+      "accessible_university_programs",
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "Free information, guidance and training — no cash benefits. Call 1-800-949-4232 (voice/relay) and find your regional center at adata.org.",
+    "renewable": null,
+    "eligibility": [
+      "Anyone may call or email: individuals with disabilities, businesses, employers, state and local governments, architects, disability organizations, school personnel.",
+      "The Network serves questions under the ADA plus related laws it can route (Fair Housing Act, IDEA, Rehabilitation Act/Section 504).",
+      "Postsecondary coverage: Title II of the ADA covers publicly funded universities, community colleges and vocational schools; Title III covers privately funded schools; all schools receiving federal funding must comply with Section 504.",
+      "All programs of a postsecondary institution, including extracurricular activities, must be accessible."
+    ],
+    "deadlines": [
+      {
+        "label": "None — open intake by phone/email",
+        "date": null,
+        "deadline_text": "No deadline; assistance is available on request through 1-800 calls, email and in-person consultations with an ADA specialist in your region.",
+        "recurring_annual": false,
+        "source_url": "https://adata.org/faq/what-are-public-or-private-college-universitys-responsibilities-students-disabilities/"
+      }
+    ],
+    "apply_steps": [
+      "Call 1-800-949-4232 (V/TTY) or use adata.org to find your regional ADA Center.",
+      "Before the call, write down the institution, the accommodation requested, the date you requested it, and the school's written response.",
+      "Ask the specialist to confirm whether your school is covered by Title II, Title III, and/or Section 504, and what the school's obligation actually is.",
+      "Request the Center's postsecondary materials — the 'Postsecondary Institutions and Students with Disabilities' fact sheet and the research briefs 'Higher Education and the ADA' and 'Digital Access for Students in Higher Education and the ADA'.",
+      "If the campus denies or delays an accommodation, ask the specialist how to file with the U.S. Department of Education's Office for Civil Rights.",
+      "Ask for training if your campus is unfamiliar with a specific need (interpreters/CART, accessible digital materials, service animals in housing)."
+    ],
+    "how_to_win": [
+      "Cite the standard the specialist gives you in writing to the campus office — schools respond faster to a request that references Section 504/Title II correctly.",
+      "Remember the two lawful refusals: no accommodation is required if it fundamentally alters the program or creates an undue financial/administrative burden. Frame your request so neither applies (e.g., extended test time does not change the substantive content).",
+      "Do not wait for orientation — the ADA FAQ advises notifying the campus office 'well in advance' of the needed modification.",
+      "Ask about effective communication specifically (interpreters, CART, Braille/electronic formats, assistive listening) — these are program-access duties, not discretionary favors.",
+      "For housing, invoke both the ADA/504 duty of comparable, convenient, accessible housing at the same cost and, where relevant, the Fair Housing Act.",
+      "Regional centers are subject-matter experts on your state's institutions — use the same center repeatedly rather than calling a national hotline."
+    ],
+    "documentation_required": "None to receive technical assistance. To press an accommodation request you will want your own disability documentation and a written record of requests and responses.",
+    "state": null,
+    "notes": "The ADA National Network is the closest thing to a 'campus disability center' resource at the federal level: 10 regional ADA Centers plus the ADA Knowledge Translation Center (ADAKTC) and ADA-PARC. Excluded from this file: the HEATH Resource Center — https://www.heath.gwu.edu and https://heath.gwu.edu returned no live page (404/proxy error) when checked on 2026-09-15, so no working official URL could be verified.",
+    "sources": [
+      "https://adata.org/national-network/",
+      "https://adata.org/faq/what-are-public-or-private-college-universitys-responsibilities-students-disabilities/",
+      "https://adata.org/factsheet/postsecondary/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "ocr-students-with-disabilities-preparing-for-postsecondary-education",
+    "name": "What colleges legally must (and need not) provide: Section 504 / ADA Title II academic adjustments — ED Office for Civil Rights guidance",
+    "provider": "U.S. Department of Education, Office for Civil Rights (OCR)",
+    "official_url": "https://www.ed.gov/higher-education/students-disabilities-preparing-postsecondary-education",
+    "apply_url": null,
+    "kind": "services",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [
+      "any"
+    ],
+    "needs": [
+      "accessible_university_programs",
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "No money changes hands. Academic adjustments must be provided at no charge to the qualified student; the school may not charge a student with a disability more than others for the program, and must give surcharges only where it charges all students for that service.",
+    "renewable": null,
+    "eligibility": [
+      "You must be a qualified student with a disability — that is, have a disability AND meet the essential prerequisites and standards for admission or participation.",
+      "A school may not deny admission because you have a disability if you meet the essential requirements for admission.",
+      "Disclosure is voluntary, but if you want an academic adjustment you must identify yourself as having a disability; the school is not required to identify you or assess your needs (unlike a school district's FAPE duty).",
+      "Postsecondary schools are NOT required to provide FAPE; they must provide appropriate academic adjustments to avoid discrimination.",
+      "If the school provides housing to nondisabled students, it must provide comparable, convenient and accessible housing to students with disabilities at the same cost."
+    ],
+    "deadlines": [
+      {
+        "label": "No statutory deadline — request early; delivery is not immediate",
+        "date": null,
+        "deadline_text": "OCR states that a postsecondary school does not have to provide the adjustment you requested on the day you ask, but it must provide it in time if it is to be effective — \"if the school determines that it is appropriate to provide an academic adjustment, it must provide it in a timely manner.\" Practice on campus is to request at registration and re-request every semester.",
+        "recurring_annual": false,
+        "source_url": "https://www.ed.gov/laws-and-policy/individuals-disabilities/auxiliary-aids-and-services-for-postsecondary-students-with-disabilities"
+      }
+    ],
+    "apply_steps": [
+      "Before enrolling, contact the campus disability/accommodations office and ask for its written documentation requirements and its intake procedure.",
+      "Self-identify in writing and submit current documentation (diagnosis, date, how reached, credentials of the professional, functional impact on a major life activity, and academic impact).",
+      "Request specific adjustments tied to the barrier (priority registration, reduced course load, course substitutions, note takers, recording devices, sign language interpreters, extended testing time, a TTY in your dorm room, screen-reading/voice-recognition software on school computers).",
+      "Participate in the school's review; remember the school may offer an effective alternative or conduct its own evaluation at its own expense.",
+      "Re-activate your accommodations each semester, and meet each instructor to arrange implementation.",
+      "If the response is inadequate, use the school's internal grievance procedure and file a complaint with OCR (the school must have at least one employee designated to coordinate 504 compliance)."
+    ],
+    "how_to_win": [
+      "Under the ADA Amendments Act the interpretation of 'disability' is broader than in older OCR guidance, but 'qualified' still controls — show you meet the essential prerequisites and standards of the program.",
+      "Bring documentation that maps the functional limitation to a specific academic task; an IEP or 504 plan alone is often not enough, though it can help identify supports that worked.",
+      "Ask for adjustments that do not alter essential requirements: extended time is required; changing the substantive content of an exam is not.",
+      "Do not ask for personal items - schools are expressly not required to provide personal attendants, individually prescribed devices, readers for personal use or study, or other devices or services of a personal nature such as tutoring and typing; finance your own device through VR or your state AT program and ask the school to permit its use in class.",
+      "If an interpreter or CART is needed, request it at registration — auxiliary aids must be furnished in a timely manner, and if you are still being evaluated the school must provide interim aids.",
+      "Keep everything in writing, and calendar the follow-up: the school is not required to second-guess a student who never re-requests."
+    ],
+    "documentation_required": "Current documentation showing the presence of a diagnosed disability and its current impact — commonly: diagnosis and supporting information (date of diagnosis, how it was reached, credentials of the diagnosing professional), how the disability affects a major life activity, and how it affects academic performance. Schools may set reasonable standards and may require a report prepared by an appropriate professional; IEP/504 plans are helpful but may be insufficient on their own.",
+    "state": null,
+    "notes": "This is the Section 504 / ADA obligations summary requested. Companion OCR documents verified: 'Auxiliary Aids and Services for Postsecondary Students with Disabilities' (https://www.ed.gov/laws-and-policy/individuals-disabilities/auxiliary-aids-and-services-for-postsecondary-students-with-disabilities) and the OCR topic page 'Disability Discrimination: Academic Adjustments for Postsecondary Students' (https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/disability-discrimination-key-issues/disability-discrimination-academic-adjustments-postsecondary-students, last reviewed January 14, 2025) with its 'Individualized Assessments for Students with Disabilities in Postsecondary Education' guidance PDF.",
+    "sources": [
+      "https://www.ed.gov/higher-education/students-disabilities-preparing-postsecondary-education",
+      "https://www.ed.gov/laws-and-policy/individuals-disabilities/auxiliary-aids-and-services-for-postsecondary-students-with-disabilities",
+      "https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/disability-discrimination-key-issues/disability-discrimination-academic-adjustments-postsecondary-students",
+      "https://adata.org/factsheet/postsecondary/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.92
+  },
+  {
+    "program_id": "uc-berkeley-disabled-students-program-intake",
+    "name": "How a campus accommodation intake actually works — UC Berkeley Disabled Students' Program (DSP) five-step first-time process",
+    "provider": "Disabled Students' Program (DSP), UC Berkeley — Division of Equity & Inclusion (student-facing DSS office)",
+    "official_url": "https://dsp.berkeley.edu/students/new-students/application-process",
+    "apply_url": "https://dsp.berkeley.edu/home",
+    "kind": "services",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [
+      "any"
+    ],
+    "needs": [
+      "accessible_university_programs",
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "Accommodation coordination services are provided by the university; DSP does not publish an award amount. DSP runs auxiliary service units (e.g., Alternative Media) whose services are requested each semester.",
+    "renewable": true,
+    "eligibility": [
+      "Open to admitted degree students, Summer Sessions students, and students studying abroad at UC Berkeley, including graduate students.",
+      "Students applying for accommodations for the first time must complete all five steps: (1) apply online; (2) provide DSP with documentation of your disability; (3) contact DSP to schedule a one-hour intake appointment; (4) attend the intake appointment; (5) request your accommodation letters and services each semester.",
+      "Disability documentation must verify two things: (1) the presence of a diagnosed disability or medical condition, and (2) the current impact of that condition.",
+      "Students are responsible for initiating the request and providing medical documentation; DSP does not identify students or assess needs proactively.",
+      "Applying creates a DSP account that keeps medical documentation and disability information separate from other University records."
+    ],
+    "deadlines": [
+      {
+        "label": "Documentation must precede the intake appointment",
+        "date": null,
+        "deadline_text": "\"Documentation must be submitted to DSP in advance of scheduling your intake appointment.\" Students must complete all five steps before they may be approved for DSP services.",
+        "recurring_annual": false,
+        "source_url": "https://dsp.berkeley.edu/students/new-students/application-process"
+      },
+      {
+        "label": "Per-semester: letters and services",
+        "date": null,
+        "deadline_text": "\"Request your accommodation letters and services every semester as soon as you have registered for classes.\" Alternative media services must be requested each semester via AIM.",
+        "recurring_annual": true,
+        "source_url": "https://dsp.berkeley.edu/students/new-students/application-process"
+      }
+    ],
+    "apply_steps": [
+      "Complete DSP's online application (this creates your DSP account).",
+      "Have your provider send documentation to you first so you can review it, then upload it with the application; alternatively email dsp@berkeley.edu or fax (510) 643-9686.",
+      "Use DSP's documentation requirements page and the provider forms it publishes to give your clinician.",
+      "Email dsp@berkeley.edu to schedule the one-hour intake appointment with a Disability Specialist.",
+      "Attend the intake and discuss the impact of your disability, your academic program, and the accommodations/services you may need for equal access.",
+      "Log into AIM after registering for classes and request accommodation letters for each course.",
+      "Meet each instructor to confirm the accommodation will be implemented on time; use your specialist's Calendly link (or dsp@berkeley.edu) for follow-up changes."
+    ],
+    "how_to_win": [
+      "Documentation is the bottleneck and must address CURRENT impact, not just diagnosis — ask your clinician to describe functional limitations in academic settings.",
+      "Submit documentation before you email for an appointment; DSP will not schedule the intake without it.",
+      "Request accommodation letters the day registration closes; interpreter, note-taking, CART and alternative media all need lead time.",
+      "Book the follow-up appointment with your Disability Specialist early in the term if your needs change — modifications after intake are handled through the specialist, not through a new application.",
+      "Letters do not disclose your diagnosis to faculty; expect an accommodation statement without the condition named (DSP's own FAQ explains why).",
+      "If you need alternative media (Braille, e-text, enlarged print), log into AIM and request it each semester — it does not carry over automatically."
+    ],
+    "documentation_required": "Documentation verifying (a) a diagnosed disability or medical condition and (b) its current impact; DSP supplies forms clinicians can complete; the requirement is described per disability type on DSP's 'Documentation for DSP' page.",
+    "state": "California",
+    "notes": "Chosen as a fully documented, current public example of a major research university's DSS intake; the five-step sequence (apply → document → intake → approve → per-semester letters) is close to standard practice. UC Berkeley graduate students can also call DSP at (510) 642-0518.",
+    "sources": [
+      "https://dsp.berkeley.edu/students/new-students/application-process",
+      "https://dsp.berkeley.edu/students/new-students/documentation-dsp",
+      "https://dsp.berkeley.edu/auxiliary-service-units/alternative-media/alternative-media-how-request-services"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.88
+  },
+  {
+    "program_id": "cornell-student-disability-services-registration",
+    "name": "Campus accommodation documentation and semester timing — Cornell University Student Disability Services (SDS)",
+    "provider": "Student Disability Services (SDS), Cornell University",
+    "official_url": "https://sds.cornell.edu/get-started/documentation-guidelines",
+    "apply_url": "https://sds.cornell.edu/forms",
+    "kind": "services",
+    "levels": [
+      "undergraduate",
+      "graduate"
+    ],
+    "citizenship": [
+      "any"
+    ],
+    "needs": [
+      "accessible_university_programs",
+      "accommodation_funding"
+    ],
+    "disability_scope": [
+      "any"
+    ],
+    "amount_text": "No charges to students for approved academic accommodations or aids/services coordinated by SDS.",
+    "renewable": true,
+    "eligibility": [
+      "Students with documented disabilities may be eligible for academic accommodations; approvals rest on disability documentation, academic history, and the student's own account of their needs.",
+      "Registration begins with completing the online Disability Self-Disclosure Form (self-identification is voluntary but required to receive accommodations).",
+      "You may meet with SDS before supplying documentation and SDS will guide you on what is needed.",
+      "Accommodation plans are individually tailored; typical approvals include exam modifications (extended time, reduced-distraction location, computer use), assistive technology, removal of physical barriers, and print material in alternative formats (Braille, e-text, enlarged print).",
+      "Additional aids (test-taking computer use, sign language interpreting, note-taking, accessible course materials) require completion of SDS-specific forms and advance notice.",
+      "The Law School's accommodation process differs from the rest of the university."
+    ],
+    "deadlines": [
+      {
+        "label": "Accommodation letters each semester",
+        "date": null,
+        "deadline_text": "\"You will need to request an Accommodation Letters within the first two weeks of classes, or at least two weeks before accommodations are expected to begin (if accommodations were granted or modified once the semester has started).\" (No calendar date is published; the rule is the first two weeks of each term.)",
+        "recurring_annual": true,
+        "source_url": "https://sds.cornell.edu/accommodations-services/academic"
+      },
+      {
+        "label": "Advance notice for other aids and services",
+        "date": null,
+        "deadline_text": "Interpreting, note-taking, accessible course materials and test-taking computers \"require advance notice to SDS in order to be available when you need them.\" No fixed number of days is published.",
+        "recurring_annual": false,
+        "source_url": "https://sds.cornell.edu/accommodations-services/academic"
+      }
+    ],
+    "apply_steps": [
+      "Complete the online Disability Self-Disclosure Form (from https://sds.cornell.edu/forms).",
+      "Assemble any helpful documentation: educational records such as a high school IEP or 504 plan, a neuropsychological or educational evaluation, a statement from a health/mental health provider (using SDS's published statement guidelines), medical records, audiology report, vision assessment, vocational assessment, or proof of accommodations used on standardized exams (SAT/ACT).",
+      "Where SDS has a matching form, have your provider complete the Mental Health Disability Assessment Form, the Medical Documentation of Asthma and Allergy Disabilities Form, or the Medical Documentation of a Physical or Chronic Medical Disability Form.",
+      "Submit documents in an accepted format: PDF, Microsoft Office (DOC/DOCX), text, JPG/JPEG or PNG. No HEIC files and no password-protected files unless you give the password.",
+      "Meet with SDS to develop your academic accommodation plan.",
+      "Each semester, request accommodation letters for each course within the first two weeks and meet with instructors to arrange implementation; repeat if you change section/lecture.",
+      "For an emotional support animal or other housing-related need, follow SDS's separate ESA guidelines (Cornell reviews ESA approval annually)."
+    ],
+    "how_to_win": [
+      "SDS explicitly says it does not 'medicalize' the process and will work with students who cannot obtain documentation — file anyway and explain the barrier on the form rather than delaying.",
+      "There is no SDS form for ADHD or learning disabilities; instead submit the psychoeducational evaluation, IEP/504 plan or standardized-test accommodation history that SDS lists as helpful.",
+      "The two-week letter window is a real cut-off — request letters on the day you finish registration, and ask about 'timely notice' with the instructor if a course starts differently.",
+      "Interpreters, note-takers and accessible materials need advance notice: send those forms the same week you send your letters.",
+      "Send unencrypted, openable files (PDF/DOCX/PNG/JPG) - a rejected HEIC or password-protected file silently delays your review; keep your plan current, since accommodations require your involvement every semester and ESA re-approval is annual.",
+      "Law students: use the Law School's handbook process instead of the general SDS route."
+    ],
+    "documentation_required": "Disability Self-Disclosure Form plus documentation of the disabling condition and its functional impact. Acceptable evidence includes IEP/504 plans, neuropsychological or educational evaluations, provider statements (SDS supplies provider statement guidelines), medical records, audiology reports, vision assessments, vocational assessments, and proof of prior testing accommodations. SDS also provides disability-specific assessment forms for mental health, asthma/allergy, and physical or chronic medical disabilities.",
+    "state": "New York",
+    "notes": "Chosen because it publishes both the acceptable documentation set and the concrete per-semester timing rule, and because it states plainly what happens when documentation is unavailable — an important practical contrast to Berkeley. Related Cornell pages: https://sds.cornell.edu/ , https://sds.cornell.edu/forms , https://sds.cornell.edu/get-started/confidentiality , https://sds.cornell.edu/esa-guidelines",
+    "sources": [
+      "https://sds.cornell.edu/get-started/documentation-guidelines",
+      "https://sds.cornell.edu/accommodations-services/academic",
+      "https://sds.cornell.edu/forms"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.89
+  }
+]

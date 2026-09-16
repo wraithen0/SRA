@@ -1,0 +1,1351 @@
+[
+  {
+    "program_id": "hubert-h-humphrey-fellowship",
+    "name": "Hubert H. Humphrey Fellowship Program (2027-2028 cycle)",
+    "provider": "Sponsored by the U.S. Department of State, funded by the U.S. Government, administered by the Institute of International Education (IIE)",
+    "official_url": "https://www.humphreyfellowship.org/how-to-apply/",
+    "apply_url": "https://www.humphreyfellowship.org/how-to-apply/",
+    "kind": "scholarship",
+    "levels": ["graduate"],
+    "citizenship": ["international"],
+    "needs": ["research_or_internship", "visa_and_eligibility_info"],
+    "coverage_text": "Payment of tuition and fees at the assigned host university; a maintenance (living) allowance including a one-time settling-in allowance; accident and sickness coverage; a Professional Development allowance for field trips, professional visits and conferences; includes a six-week Professional Affiliation at a U.S.-based organization. NO academic degree is awarded (non-degree program).",
+    "stipend_text": "Maintenance (living) allowance with one-time settling-in allowance; exact amounts set by the program and not published on the site.",
+    "stem_eligible": null,
+    "amount_text": "Fully funded (tuition, fees, living allowance, insurance, professional development allowance) for a ten-month non-degree program.",
+    "renewable": false,
+    "eligibility": [
+      "Be a citizen of an eligible country (see country eligibility list on humphreyfellowship.org)",
+      "Have an undergraduate (first university or bachelor's) degree",
+      "Minimum of five years of full-time professional experience; part-time work experience may not be considered",
+      "Demonstrated leadership qualities and a record of public service",
+      "Demonstrated English language ability",
+      "Limited prior experience in the United States",
+      "Mid-career professionals only; apply through the U.S. Embassy (Public Affairs Section) or Binational Fulbright Commission in your home country",
+      "Fields include Technology Policy and Management, Economic/Trade Policy, Public Health, Environmental Management, Government/Judicial/Law-related public leadership (professional development, not a STEM degree)"
+    ],
+    "deadlines": [
+      {
+        "label": "Embassy / binational commission application deadline",
+        "date": null,
+        "deadline_text": "\"Application deadlines vary by country. The nominating U.S. Embassy or Binational Fulbright Commission will advise you of its internal deadline for receiving applications.\" Nominations are due to IIE in mid-September; selections announced in March; fellows arrive August-September.",
+        "recurring_annual": true,
+        "source_url": "https://www.humphreyfellowship.org/how-to-apply/frequently-asked-questions/"
+      }
+    ],
+    "apply_steps": [
+      "Confirm your country appears on the Humphrey country eligibility list at humphreyfellowship.org",
+      "Contact the Public Affairs Section of the U.S. Embassy or the Binational Fulbright Commission in your home country to access the Humphrey application and its internal deadline",
+      "Prepare the application form, CV, transcripts of your first university degree, English proficiency evidence, and references as required by your embassy/commission",
+      "Write a self-defined program of independent non-degree study and leadership/public-service narrative",
+      "Attend embassy interviews if shortlisted; if nominated, IIE places you in a cohort at one of the U.S. host universities (you cannot choose the university)"
+    ],
+    "how_to_win": [
+      "Emphasize at least five years of full-time (not part-time) professional experience with concrete leadership and public-service evidence, as stated on the eligibility page",
+      "Align your study plan with one of Humphrey's named fields, e.g. Technology Policy and Management, which is the most STEM-adjacent track",
+      "Start with the embassy early: deadlines are country-specific internal deadlines set by each mission",
+      "Show limited prior U.S. experience, which the program prefers",
+      "If you plan to bring family, budget for them yourself: the program provides no additional maintenance allowance for dependents and you must show proof of financial support for them"
+    ],
+    "work_authorization_notes": "Fellows are exchange visitors (typically J-1 status sponsored under a Fulbright exchange activity); not a degree program and no U.S. work authorization beyond the professional affiliation component.",
+    "state": null,
+    "notes": "quoted: \"This ten-month Fellowship program is offered to mid-career professionals with a proven track record of leadership, a public service commitment, and the capacity to take full advantage of a self-defined program of independent non-degree study at a leading U.S. university.\" and \"The Humphrey Program is a non-degree program... they do not receive an academic degree\" and \"The Humphrey Fellowship Program is a Fulbright exchange activity sponsored by the U.S. Department of State with funding provided by the U.S. Government and administered by the Institute of International Education.\" Good for mid-career STEM government/industry professionals but NOT for students seeking a master's/PhD credential.",
+    "sources": [
+      "https://www.humphreyfellowship.org/how-to-apply/",
+      "https://www.humphreyfellowship.org/how-to-apply/eligibility/",
+      "https://www.humphreyfellowship.org/how-to-apply/fellowship-components/",
+      "https://www.humphreyfellowship.org/how-to-apply/frequently-asked-questions/",
+      "https://www.humphreyfellowship.org/program-overview/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "fulbright-foreign-student-program",
+    "name": "Fulbright Foreign Student Program (master's/PhD study in the U.S.)",
+    "provider": "U.S. Department of State, Bureau of Educational and Cultural Affairs; administered locally by binational Fulbright Commissions/Foundations or U.S. Embassies, with IIE placement support",
+    "official_url": "https://exchanges.state.gov/non-us/program/fulbright-foreign-student-program",
+    "apply_url": "https://foreign.fulbrightonline.org/apply",
+    "kind": "scholarship",
+    "levels": ["graduate"],
+    "citizenship": ["international"],
+    "needs": ["fully_funded_degree", "tuition_waiver", "research_or_internship"],
+    "coverage_text": "Grant terms vary by country of citizenship: typically covers full or partial tuition, living stipend, airfare and health benefits for one year or longer of graduate study or research at U.S. universities; consult your country's Fulbright office for the exact package.",
+    "stipend_text": "Country-specific; not published centrally.",
+    "stem_eligible": true,
+    "amount_text": "Varies by country program; ranges from first-year funding with university support to multi-year full packages. Program operates in more than 160 countries; approximately 4,000 foreign students receive Fulbright scholarships each year.",
+    "renewable": null,
+    "eligibility": [
+      "Non-U.S. citizen; U.S. citizens and dual citizens are not eligible",
+      "Completed undergraduate education with a degree equivalent to a U.S. bachelor's degree, with a good academic record",
+      "Reside in the country of nomination at the time of application",
+      "Fluent in English - recommended minimum recent scores of 550 Paper-based TOEFL, 79-80 iBT TOEFL, or 6.5 overall IELTS (program pages also accept submission to IIE using institutional code 2326)",
+      "Additional eligibility requirements differ by country; application and selection are run by the binational Fulbright Commission or U.S. Embassy in your country",
+      "Open to research and graduate study in all fields including STEM"
+    ],
+    "deadlines": [
+      {
+        "label": "Country-specific Fulbright application deadline",
+        "date": null,
+        "deadline_text": "\"Program eligibility, U.S. university admission & placement, and selection procedures vary widely by country\" - candidates must \"provide all supporting documents to their respective Fulbright office per established country/award deadlines.\" Most country deadlines fall between February and September for the following academic year.",
+        "recurring_annual": true,
+        "source_url": "https://foreign.fulbrightonline.org/apply"
+      }
+    ],
+    "apply_steps": [
+      "Find your country's Fulbright page via the drop-down at foreign.fulbrightonline.org/apply (or the U.S. Embassy education-culture page for your country)",
+      "Confirm country-specific eligibility, required field of study rules, and the deadline",
+      "Prepare: bachelor's degree transcripts (with certified translations if not in English), English test scores (TOEFL/IELTS), CV, study/research objective, letters of recommendation, passport identity details",
+      "Note the placement model in your country: either self-placement (you obtain U.S. university admission yourself) or IIE Placement, where IIE applies to institutions on behalf of candidates after the Fulbright award shortlist",
+      "Submit the country application by the embassy/commission deadline and complete interviews",
+      "If selected, the Fulbright office and/or IIE issues documentation used for the J-1 visa (Exchange Visitor)"
+    ],
+    "how_to_win": [
+      "Start the English test months early: the program's own eligibility list names recommended TOEFL/IELTS minimums",
+      "You must reside in the country of nomination when you apply - plan accordingly",
+      "For IIE-placement countries, write a study objective specific enough for IIE to place you, and note that the Placement Team 'will manage admission decisions and negotiate funding' on your behalf",
+      "Target STEM: research and study in all fields are eligible, and approximately 4,000 foreign students are funded yearly",
+      "Check your country page before anything else - eligibility and grant terms are set country by country, not centrally"
+    ],
+    "work_authorization_notes": "Fulbright Foreign Students normally enter on J-1 exchange visitor status (not F-1); J-1 rules on practical training differ from F-1 OPT/CPT.",
+    "state": null,
+    "notes": "quoted: \"The Fulbright Foreign Student Program enables graduate students, young professionals, and artists from abroad to research and study in the United States for one year or longer at U.S. universities or other appropriate institutions.\" and eligibility: \"Do not hold U.S. citizenship; dual citizens are not eligible for the program participation.\"",
+    "sources": [
+      "https://exchanges.state.gov/non-us/program/fulbright-foreign-student-program",
+      "https://foreign.fulbrightonline.org/about/foreign-student-program",
+      "https://foreign.fulbrightonline.org/apply"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "aauw-international-fellowships",
+    "name": "AAUW International Fellowships for Women (STEM, U.S. graduate study, 2026-2027 awards)",
+    "provider": "American Association of University Women (AAUW)",
+    "official_url": "https://www.aauw.org/resources/programs/fellowships-grants/aauw-international-fellowships/",
+    "apply_url": "https://www.aauw.org/resources/programs/fellowships-grants/aauw-international-fellowships/",
+    "kind": "scholarship",
+    "levels": ["graduate"],
+    "citizenship": ["international"],
+    "needs": ["fully_funded_degree", "research_or_internship"],
+    "coverage_text": "Non-repayable stipend that closes a demonstrated funding gap; recipients must show confirmed or pending support for the rest of their costs. Not full tuition coverage by itself.",
+    "stipend_text": "\"International Fellowships carry a stipend of $20,000 for a master's degree and $25,000 for a doctorate degree... disbursed in two equal payments at the beginning and the midpoint of the fellowship term.\"",
+    "stem_eligible": true,
+    "amount_text": "US$20,000 (master's) / US$25,000 (doctorate)",
+    "renewable": false,
+    "eligibility": [
+      "Applicants must identify as a woman",
+      "Non-U.S. citizens; must not hold U.S. permanent resident status nor be applicants for U.S. permanent residency (green card)",
+      "Admitted or enrolled in a first master's or an academic/professional doctorate degree, and the degree must be in a STEM discipline (AAUW uses the DHS STEM Designated Degree Program List)",
+      "At least one degree equivalent to a U.S. bachelor's with minimum cumulative GPA of 3.5 on a 4.0 scale for the highest degree earned",
+      "Program must begin on or before September 15, 2027 and complete on or after April 30, 2028 (2026-27 awards cycle)",
+      "Must reside in the U.S. or country of study for the duration of the fellowship; study in a non-U.S. foreign country is possible only in limited cases (e.g., U.S. travel-ban countries, or Graduate Women International members)",
+      "Must demonstrate confirmed or pending financial support plus a remaining funding gap; one degree type and one specific field per application; previous AAUW fellowship/grant recipients excluded (except Community Action Grants or branch/local awards)"
+    ],
+    "deadlines": [
+      {
+        "label": "2026-27 application (2027-28 academic year funding)",
+        "date": "2026-09-17",
+        "deadline_text": "Timeline on page: \"Applications Open: August 17, 2026, at 9:00am ET; Applications Close: September 17, 2026, at 5:00pm ET; Award Notification: March 2027.\"",
+        "recurring_annual": true,
+        "source_url": "https://www.aauw.org/resources/programs/fellowships-grants/aauw-international-fellowships/"
+      }
+    ],
+    "apply_steps": [
+      "Verify your program is on the DHS STEM Designated Degree Program List (AAUW's stated criterion)",
+      "Secure admission (or enrollment) in your first master's/doctoral STEM program in the U.S. before applying",
+      "Calculate your funding gap and document confirmed/pending support from the university or other funders",
+      "Create an account in the AAUW application portal and submit: application form, transcripts of highest degree with GPA >=3.5, two letters of recommendation, study plan and timeline, career objectives, evidence of service to women and girls",
+      "Confirm you are not a U.S. citizen/permanent-resident applicant and not an AAUW award repeat recipient before submitting"
+    ],
+    "how_to_win": [
+      "The page states criteria explicitly: academic excellence, commitment to applying expertise in your home country/community, and support for other women and girls - build each essay around one of these",
+      "Show a clear, actionable study plan with a funding timeline; AAUW funds the demonstrable gap",
+      "AAUW encourages applicants \"pursuing their studies at R2 institutions or at institutions with limited research resources\" - frame institutional context positively",
+      "Doctorate applicants should foreground original research design with potential field contribution",
+      "Submit well before the September 17 5:00pm ET close: AAUW \"strongly encourages applicants to access the application portal and start their applications well in advance of the deadline\""
+    ],
+    "work_authorization_notes": "Award is on top of F-1 study; no work component. Fellows remain on their university's F-1 (or J-1) sponsorship.",
+    "state": null,
+    "notes": "quoted: \"AAUW's International Fellowships promotes education and equity for women by investing in international applicants who will be pursuing graduate studies in the U.S. in STEM (science, technology, engineering, and mathematics) disciplines.\" One of the few U.S. fellowships that is STEM-mandated AND international-women-specific.",
+    "sources": [
+      "https://www.aauw.org/resources/programs/fellowships-grants/aauw-international-fellowships/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.95
+  },
+  {
+    "program_id": "joint-japan-world-bank-graduate-scholarship",
+    "name": "Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) - 2027 application rounds",
+    "provider": "Government of Japan and the World Bank Group",
+    "official_url": "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp",
+    "apply_url": "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp",
+    "kind": "scholarship",
+    "levels": ["graduate"],
+    "citizenship": ["international"],
+    "needs": ["fully_funded_degree", "tuition_waiver", "visa_and_eligibility_info"],
+    "coverage_text": "\"A JJ/WBGSP scholarship provides tuition, a monthly living stipend, round-trip airfare, health insurance, and travel allowance.\"",
+    "stipend_text": "Monthly living stipend (amount set per award; not published on the program page).",
+    "stem_eligible": null,
+    "amount_text": "Full package: tuition + monthly stipend + airfare + health insurance + travel allowance, for one master's year at a Participating Program (renewable per program length, subject to satisfactory progress).",
+    "renewable": null,
+    "eligibility": [
+      "National of a World Bank member developing country on the JJ/WBGSP eligible-country list",
+      "Not hold dual citizenship of any developed country",
+      "Applying to a master's degree in a development-related topic at one of the 44 Participating Master's Programs in 24 universities in the U.S., Europe, Africa, Oceania and Japan (e.g., U.S. Window-1 hosts include Brandeis-Heller, Columbia SIPA, Johns Hopkins Bloomberg School of Public Health, UC Berkeley Goldman School, Williams College Center for Development Economics, Yale School of Management)",
+      "Hold a bachelor's (or equivalent) degree earned at least 3 years prior to the application deadline",
+      "At time of applying, be employed full-time in development-related work, with at least 3 years of paid development-related employment acquired within the past 6 years",
+      "Be in good health; not a World Bank Group staff/Executive Director or close relative; prior JJ/WBGSP offers that were declined (or awards received) bar reapplication",
+      "Commitment to return home after the degree"
+    ],
+    "deadlines": [
+      {
+        "label": "2027 Application Window #1 (scholarship form window for admitted candidates)",
+        "date": "2027-02-26",
+        "deadline_text": "\"Window 1 will open from January 18 to February 26, 2027.\" The scholarship form link is sent only to candidates admitted unconditionally (except for finance) to a Participating Master's Program and shortlisted as eligible by that university.",
+        "recurring_annual": true,
+        "source_url": "https://www.worldbank.org/en/programs/scholarships/brief/jjwbgsp-participating-programs-2022-2024-application-window-1"
+      },
+      {
+        "label": "Participating master's program admission deadline",
+        "date": null,
+        "deadline_text": "Set by each of the 44 Participating Programs (many U.S. programs have December-February admission deadlines); you must be admitted first - \"if you are not admitted to one of these 44 Participating Master's Programs, you are not eligible to apply for a JJ/WBGSP Scholarship in 2027.\"",
+        "recurring_annual": true,
+        "source_url": "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp"
+      }
+    ],
+    "apply_steps": [
+      "Check the JJ/WBGSP eligible-country list and the list of 44 Participating Master's Programs (several in the U.S.)",
+      "Verify you meet the 3-year post-bachelor's work experience requirement and are currently employed full-time in development-related work",
+      "Apply for admission to a Participating Master's Program by its own deadline (unconditional admission except for finance)",
+      "Ask the program office whether you have been shortlisted as an eligible JJ/WBGSP candidate; they communicate the application form link",
+      "Submit the JJ/WBGSP online application within Window 1 (Jan 18-Feb 26, 2027) or Window 2, with transcripts, employment verification and passport/degree documents"
+    ],
+    "how_to_win": [
+      "Get admitted unconditionally first - the scholarship application opens only for candidates already admitted and shortlisted",
+      "Frame your development-related work experience with concrete numbers: the 3-years-within-6 rule and current full-time employment are strict, 'no exceptions' criteria per the guidelines",
+      "Choose a Participating Program matching your work sector (economic policy management, tax policy, infrastructure management, public health policy, development practice)",
+      "Confirm eligibility as early as possible with the target university's JJ/WBGSP contact - the World Bank page tells candidates to 'reach out to the university offering the JJ/WBGSP participating master program they are targeting'"
+    ],
+    "work_authorization_notes": "Students enter on F-1; scholarships are funding, not employment. No OPT from the scholarship itself.",
+    "state": null,
+    "notes": "STEM: programs are development-focused; several are quant/technical (public health, infrastructure, policy economics, systemic risk) but the program itself is not a STEM-designated funder - verify your program against the DHS STEM list if STEM OPT matters. 2027 round dates and participating-program list verified on the Window-1 page dated August 31, 2026.",
+    "sources": [
+      "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp",
+      "https://www.worldbank.org/en/programs/scholarships/brief/jjwbgsp-participating-programs-2022-2024-application-window-1"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "mastercard-foundation-scholars-uc-berkeley",
+    "name": "Mastercard Foundation Scholars Program at UC Berkeley (master's, students from African countries)",
+    "provider": "Mastercard Foundation, implemented at the University of California, Berkeley (Center for African Studies)",
+    "official_url": "https://mcfscholarsprogram.berkeley.edu/graduate-application-process",
+    "apply_url": "https://mcfscholarsprogram.berkeley.edu/apply-be-mastercard-foundation-scholar-uc-berkeley",
+    "kind": "scholarship",
+    "levels": ["graduate"],
+    "citizenship": ["international"],
+    "needs": ["fully_funded_degree", "tuition_waiver", "research_or_internship"],
+    "coverage_text": "Scholarship support for master's study plus leadership/entrepreneurship training; the Foundation states partner institutions set their own processes - exact benefit components per award are defined by the Berkeley Scholars Program (not enumerated on the pages fetched). Doctoral students are not eligible. MBA students need additional Haas School funding.",
+    "stipend_text": null,
+    "stem_eligible": true,
+    "amount_text": null,
+    "renewable": null,
+    "eligibility": [
+      "Students from African countries; the program supports master's-degree students who are academically talented and committed to transformative change on the continent",
+      "Encourages applications from women, people with disabilities, and refugees or displaced persons",
+      "Must first be admitted to an eligible two-year-or-less UC Berkeley master's program (e.g., MPP, MCD, journalism, information, public health and others listed on the site); doctoral and dual/concurrent degrees are NOT eligible",
+      "If your program has staggered rounds, only first-round (typically December) admission applications are considered for the Scholars Program",
+      "The Foundation states: apply directly through the partner institution; partner institutions manage their own application processes and deadlines",
+      "Program recruits Mastercard Foundation Scholars through the fall of 2028 (through 2030 cohort, 201+ master's students)"
+    ],
+    "deadlines": [
+      {
+        "label": "UC Berkeley graduate admission (program-specific first round)",
+        "date": null,
+        "deadline_text": "\"September through early January: Master's degree program prospective applicants must first apply to the University of California, Berkeley through the regular admissions process. Admission application deadlines vary from September to early January with most in December.\"",
+        "recurring_annual": true,
+        "source_url": "https://mcfscholarsprogram.berkeley.edu/graduate-application-process"
+      },
+      {
+        "label": "Graduate admission application fee-waiver invitation list",
+        "date": null,
+        "deadline_text": "\"November 15: ...Applicants from African countries who complete the basic demographic information and provide the names of at least two recommenders in the UC Berkeley graduate admission online application by November 15 will receive an invitation by email to apply for admission application fee waivers.\"",
+        "recurring_annual": true,
+        "source_url": "https://mcfscholarsprogram.berkeley.edu/graduate-application-process"
+      }
+    ],
+    "apply_steps": [
+      "Pick an eligible Berkeley master's program (must be two years or less; dual degrees excluded)",
+      "Submit the UC Berkeley Graduate Division online admission application in the FIRST round (most December deadlines) for your program, with transcripts and recommended English proficiency scores per campus policy",
+      "Enter at least two recommenders' names and basic demographics by November 15 to receive the fee-waiver invitation (African-country applicants)",
+      "Complete the Mastercard Foundation Scholars Program supplemental application/nomination as instructed by the Berkeley program after admission review",
+      "If awarded and intending to enroll, the campus issues the Form I-20 for F-1 status; scholarship documentation can be used as proof of funding for the I-20"
+    ],
+    "how_to_win": [
+      "Round timing is decisive: only first-round (before January) admissions applications are considered for the Scholars Program",
+      "Show the Foundation's stated criteria - academic talent plus a concrete plan for 'socio-economic transformation in Africa' (Young Africa Works alignment)",
+      "Use the program's published tip resources (informational webinar and 'Mastercard Foundation Application Tip Series' linked from the graduate process page)",
+      "MBA hopefuls: you must meet Haas Round One and secure additional Haas funding - contact the program before applying",
+      "Women, applicants with disabilities, and refugees/displaced persons are explicitly encouraged in the program description"
+    ],
+    "work_authorization_notes": "F-1 student; UC Berkeley is SEVP-certified, so Scholars may access CPT/OPT like other students.",
+    "state": "CA",
+    "notes": "quoted: \"Through 2030, the Program at UC Berkeley will provide support to over 200 master's degree students\" and \"To be considered for the Mastercard Foundation Scholars Program, master's degree seekers must first apply to the University of California, Berkeley through the regular admissions process.\" Several other U.S. universities (e.g., Arizona State: mcfscholars.asu.edu) host Mastercard Foundation Scholars Programs - always apply through the institution.",
+    "sources": [
+      "https://mcfscholarsprogram.berkeley.edu/graduate-application-process",
+      "https://mcfscholarsprogram.berkeley.edu/apply-be-mastercard-foundation-scholar-uc-berkeley",
+      "https://mcfscholarsprogram.berkeley.edu/",
+      "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/",
+      "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/uc-berkeley/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.75
+  },
+  {
+    "program_id": "oas-academic-scholarship-program",
+    "name": "OAS Academic Scholarship Program (Graduate Studies and Research, 2026 call)",
+    "provider": "Organization of American States (OAS), Hemispheric Department of Human Development / SEDI",
+    "official_url": "https://www.oas.org/en/scholarships/default.asp",
+    "apply_url": "https://www.oas.org/en/scholarships/default.asp",
+    "kind": "grant",
+    "levels": ["graduate", "undergraduate"],
+    "citizenship": ["international"],
+    "needs": ["tuition_waiver", "fully_funded_degree"],
+    "coverage_text": "Scholarships of up to US $10,000 per academic year toward tuition at participating 'OAS Consortium of Universities' institutions for onsite, online or hybrid study (including institutions in the United States); does not by itself cover full cost of study.",
+    "stipend_text": null,
+    "stem_eligible": true,
+    "amount_text": "Up to US $10,000 per academic year (master's, doctoral degrees and graduate research). Undergraduate awards under the ASP are limited to the last two years of undergraduate studies, solely for citizens/residents of the English-speaking Caribbean and Suriname.",
+    "renewable": null,
+    "eligibility": [
+      "Citizen or permanent resident of an OAS Member State",
+      "Applying to master's degree, doctoral degree, or graduate research leading to a graduate degree at a participating consortium institution (onsite options include United States institutions)",
+      "Undergraduate-level ASP awards only for citizens and residents of the English-speaking Caribbean and Suriname",
+      "Apply in the annual call; the 2026 call lists 'Onsite, Online or Hybrid (United States) - OAS Consortium of Universities' with instructions to consult the office/notice in your country"
+    ],
+    "deadlines": [
+      {
+        "label": "2026 Call for Applications - Graduate Studies and Research",
+        "date": null,
+        "deadline_text": "Program table: \"OAS Academic Scholarship Program (2026 Call for Applications for Graduate Studies and Research) ... [deadline] Consult the ONE in your country\" - deadlines are announced per country notice (page shows the wording with a typo 'Conwult'). Separate PAEC partner-university calls carry their own dates (e.g., American University Washington College of Law LL.M: admission and scholarship application November 1, 2026 onsite / November 30, 2026 hybrid).",
+        "recurring_annual": true,
+        "source_url": "https://www.oas.org/en/scholarships/default.asp"
+      }
+    ],
+    "apply_steps": [
+      "Confirm you are a citizen/permanent resident of an OAS Member State",
+      "Check the OAS Scholarship and Training Programs table on the OAS scholarships page for the current call for your country (national ministry of education or OAS representative publishes the notice)",
+      "Secure admission (or enrollment) at an OAS consortium/participating university, or a participating institution under a specific PAEC partner call",
+      "Submit the OAS scholarship application with admission proof, transcripts, recommendation and financial documentation as specified in the call",
+      "If awarded, present the award letter as part of your I-20/financial documentation for F-1 visa purposes"
+    ],
+    "how_to_win": [
+      "The ASP funds study at consortium universities - choose a program already in the OAS network (U.S. consortium members are listed per call), which removes a paperwork layer",
+      "For English-speaking Caribbean and Suriname applicants, note the last-two-years-of-undergraduate route exists under ASP",
+      "Read the exact call PDF for your country - the OAS page is a hub and each notice defines required documents and dates",
+      "Treat it as gap funding (up to $10,000/year): stack with university assistantships or in-state-tuition arrangements"
+    ],
+    "work_authorization_notes": "None; funding only. Students remain F-1 with standard on-campus/CPT/OPT eligibility.",
+    "state": null,
+    "notes": "quoted: \"The OAS Academic Scholarship Program (ASP) which offers scholarships of up to US $10,000 per academic year for the pursuit of master's Degrees, Doctoral Degrees, and Graduate Research leading to a graduate degree; and for the last two years of undergraduate studies solely to citizens and residents of the English-speaking Caribbean and Suriname.\"",
+    "sources": [
+      "https://www.oas.org/en/scholarships/default.asp"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.7
+  },
+  {
+    "program_id": "bowdoin-need-blind-all-citizens",
+    "name": "Bowdoin College need-blind + full-need aid for international students (member of the 'seven institutions' group)",
+    "provider": "Bowdoin College",
+    "official_url": "https://www.bowdoin.edu/news/2022/07/bowdoin-college-expands-need-blind-admissions-policy-to-include-international-students.html",
+    "apply_url": "https://www.bowdoin.edu/student-aid/apply-for-aid/international-students.html",
+    "kind": "need_based_aid",
+    "levels": ["undergraduate"],
+    "citizenship": ["international"],
+    "needs": ["fully_funded_degree", "tuition_waiver", "visa_and_eligibility_info"],
+    "coverage_text": "Need-blind admission for all applicants regardless of citizenship; full demonstrated need met with scholarships (no loans) plus a small on-campus work expectation.",
+    "stipend_text": null,
+    "stem_eligible": true,
+    "amount_text": "Meets 100% of demonstrated financial need for admitted international students; 22% of all Bowdoin students receive full aid ($0 student and $0 parent contribution), per the college.",
+    "renewable": true,
+    "eligibility": [
+      "Any citizenship applying for first-year admission to Bowdoin College",
+      "Financial aid is need-based only (no merit scholarships); international applicants need submit aid materials only if admitted",
+      "Per Bowdoin's own announcement, it is 'one of just seven institutions nationally with comprehensive need-blind aid policies for all students, regardless of citizenship', joining Harvard, Princeton, MIT, Yale, Dartmouth and Amherst"
+    ],
+    "deadlines": [
+      {
+        "label": "Aid materials",
+        "date": null,
+        "deadline_text": "\"If you are an international applicant (excluding Canadians), you only need to submit student aid application materials if you are admitted to Bowdoin.\" Admission deadlines follow the standard first-year application timeline.",
+        "recurring_annual": true,
+        "source_url": "https://www.bowdoin.edu/student-aid/apply-for-aid/international-students.html"
+      }
+    ],
+    "apply_steps": [
+      "Apply for admission (Common Application) - ability to pay is not considered in the admission decision",
+      "If admitted and you need aid, complete Bowdoin's international student aid materials after admission (Canadians may need materials at application)",
+      "Provide family income documentation (parent employer letters or tax returns, translated to English where needed)",
+      "Receive the aid award; meet the small on-campus work expectation included in the package",
+      "Use the admitted-award letter as proof of funding for the I-20 and visa interview"
+    ],
+    "how_to_win": [
+      "There is no penalty for needing aid: admission is need-blind, so apply for aid without hesitation",
+      "Prepare clean, translated family financial documents early - the aid calculation happens post-admission and moves fast",
+      "The package includes scholarships not loans - compare net price, not sticker",
+      "This seven-school list is the entire universe of need-blind + full-need options for international first-year students; treat everything else as need-aware or partial aid"
+    ],
+    "work_authorization_notes": "On-campus work expectation is part of the aid package (F-1 on-campus employment rules apply: <=20 hrs/week in term).",
+    "state": "ME",
+    "notes": "quoted: \"Bowdoin College announced on July 7, 2022, that it has expanded its need-blind admissions policy to include international citizens\" and \"Bowdoin meets all admitted international students' full demonstrated need with a small on-campus work expectation and scholarships\" (student-aid page) and \"Bowdoin meets your full calculated need using scholarships, not loans, which never have to be paid back.\"",
+    "sources": [
+      "https://www.bowdoin.edu/news/2022/07/bowdoin-college-expands-need-blind-admissions-policy-to-include-international-students.html",
+      "https://www.bowdoin.edu/student-aid/apply-for-aid/international-students.html"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "harvard-college-international-aid",
+    "name": "Harvard College need-blind, 100% need-based aid (same rules for international students)",
+    "provider": "Harvard College (undergraduate)",
+    "official_url": "https://college.harvard.edu/financial-aid/how-aid-works",
+    "apply_url": "https://college.harvard.edu/financial-aid/apply-financial-aid",
+    "kind": "need_based_aid",
+    "levels": ["undergraduate"],
+    "citizenship": ["international"],
+    "needs": ["fully_funded_degree", "tuition_waiver", "visa_and_eligibility_info"],
+    "coverage_text": "Meets 100% of demonstrated financial need for every admitted student, all aid need-based (no merit scholarships); international students eligible for exactly the same aid as U.S. students; admitted aid students may receive an additional allowance for travel and personal expenses.",
+    "stipend_text": null,
+    "stem_eligible": true,
+    "amount_text": "Grant covering the full gap between Harvard's cost of attendance and the family expected contribution; net price calculable via Harvard's Net Price Calculator.",
+    "renewable": true,
+    "eligibility": [
+      "All applicants, any nationality/citizenship; no citizenship quotas",
+      "Admission decisions made without regard to whether you applied for aid, 'even if the applicant is a foreign citizen'",
+      "Aid based on family income, assets and circumstances; apply for aid at the same time as admission",
+      "Harvard graduate/professional schools (GSAS etc.) run separate aid systems; this record is Harvard College undergraduate"
+    ],
+    "deadlines": [
+      {
+        "label": "Aid application",
+        "date": null,
+        "deadline_text": "\"We encourage you to apply for financial aid at the same time as you apply for admission\" - i.e., with the Common Application/UCA deadline for your round.",
+        "recurring_annual": true,
+        "source_url": "https://college.harvard.edu/financial-aid/apply-financial-aid"
+      }
+    ],
+    "apply_steps": [
+      "Submit the Harvard College admission application and the financial aid application together",
+      "Provide family income and asset information, outside awards, and unusual/changed circumstances",
+      "Complete additional financial aid forms if required: \"business/farm supplement, the cash flow statement, or the federal tax non-filer statement\"",
+      "If admitted with aid, Harvard determines demonstrated need and emails the award; reapply each year for subsequent years",
+      "Use the award to document resources for the Form I-20 and F-1 visa interview"
+    ],
+    "how_to_win": [
+      "Aspiring economists, engineers and scientists can apply for aid with zero admission penalty - the need-blind promise is stated twice on the pages",
+      "Document changed circumstances carefully (currency moves, job loss, multiple siblings in school) - awards are built from family-specific detail, not income alone",
+      "Non-U.S. families without tax filings should use the federal tax non-filer statement route named in the forms list",
+      "Run Harvard's Net Price Calculator before ruling the school out"
+    ],
+    "work_authorization_notes": "No work requirement in the aid model described on these pages; normal F-1 on-campus employment applies.",
+    "state": "MA",
+    "notes": "quoted: \"1. Need-blind admissions. Your financial need and your aid application will never affect your chance of being admitted to Harvard. 2. 100% need-based aid. We base aid awards on need, not on merit... we meet 100 percent of our students' demonstrated financial need.\" and \"International students are eligible for exactly the same aid as American students.\" and \"admissions decisions are made without regard to whether an applicant has applied for financial aid, even if the applicant is a foreign citizen.\"",
+    "sources": [
+      "https://college.harvard.edu/financial-aid/how-aid-works",
+      "https://college.harvard.edu/admissions/apply/international-applicants",
+      "https://college.harvard.edu/financial-aid/apply-financial-aid"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.95
+  },
+  {
+    "program_id": "amherst-college-international-aid",
+    "name": "Amherst College need-blind admission and full-need aid for international students",
+    "provider": "Amherst College",
+    "official_url": "https://www.amherst.edu/offices/financialaid/international_students",
+    "apply_url": "https://www.amherst.edu/admission/apply/international",
+    "kind": "need_based_aid",
+    "levels": ["undergraduate"],
+    "citizenship": ["international"],
+    "needs": ["fully_funded_degree", "tuition_waiver", "visa_and_eligibility_info"],
+    "coverage_text": "Need-blind for international applicants; aid awarded on the same need basis as domestic students; full calculated need met; initially packaged offers contain no loans.",
+    "stipend_text": null,
+    "stem_eligible": true,
+    "amount_text": "Meets 100% of calculated financial need with scholarships/grants (plus work/loans only beyond the initial package); 82% of Amherst international students receive aid per the admission page.",
+    "renewable": true,
+    "eligibility": [
+      "First-year and transfer international applicants, any country",
+      "English proficiency demonstration is the only additional admission requirement for international applicants (TOEFL iBT/IELTS/Duolingo accepted, with documented waiver rules for English-medium schooling)",
+      "Aid is need-based; no merit scholarships are mentioned for international students"
+    ],
+    "deadlines": [
+      {
+        "label": "Aid application",
+        "date": null,
+        "deadline_text": "Aid materials follow the first-year/transfer admission deadlines; the admission page states international applicants follow \"the same first-year or transfer application process that other students follow.\"",
+        "recurring_annual": true,
+        "source_url": "https://www.amherst.edu/admission/apply/international"
+      }
+    ],
+    "apply_steps": [
+      "Apply through the standard first-year/transfer application (Common App) and the financial aid application for international students",
+      "Submit English proficiency test scores unless you meet the two-years-English-instruction waiver",
+      "Provide parent/guardian income documentation and school/secondary school reports",
+      "If admitted, review the aid offer (no initially packaged loans) and use it for I-20 financial certification",
+      "Reapply for aid annually as a current student"
+    ],
+    "how_to_win": [
+      "Amherst's own wording invites applications regardless of ability to pay - need-blind is stated in bold on the international students aid page",
+      "Meeting the strong-recommended English score minimums keeps the file complete without waivers (waiver requires two most recent years of English-medium instruction)",
+      "Transfer applicants face the same policy; ~13% of Amherst students are non-U.S. citizens, so the pipeline is established"
+    ],
+    "work_authorization_notes": "Aid program includes student employment as one component; F-1 on-campus limits apply.",
+    "state": "MA",
+    "notes": "quoted: \"is 'need blind' with respect to admission - Amherst will not take into account whether you have applied or intend to apply for financial aid in the admission process\" / \"will meet 100% of your calculated financial need\" / \"your financial aid offer will not contain any initially packaged student loans\" and \"Amherst meets the full calculated financial need of all admitted students.\" Admission page: \"a college that follows a need-blind policy in admission for international students and awards financial aid to international students on the same need-basis as domestic students.\"",
+    "sources": [
+      "https://www.amherst.edu/offices/financialaid/international_students",
+      "https://www.amherst.edu/admission/apply/international"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.95
+  },
+  {
+    "program_id": "mit-undergraduate-aid-international",
+    "name": "MIT undergraduate aid for international students (same-process need-based aid)",
+    "provider": "MIT Student Financial Services (undergraduate)",
+    "official_url": "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/",
+    "apply_url": "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/",
+    "kind": "need_based_aid",
+    "levels": ["undergraduate"],
+    "citizenship": ["international"],
+    "needs": ["fully_funded_degree", "tuition_waiver", "visa_and_eligibility_info"],
+    "coverage_text": "Need-based scholarships; international students are processed through the same aid system as all MIT applicants (MIT is one of the institutions named in the seven-school need-blind group on Bowdoin's announcement).",
+    "stipend_text": null,
+    "stem_eligible": true,
+    "amount_text": null,
+    "renewable": true,
+    "eligibility": [
+      "You are classified as 'international' at MIT \"if you are not eligible for federal student financial aid as determined by the Free Application for Federal Student Aid (FAFSA)\" - regardless of where you live (includes U.S. high-school attendees without eligible status)",
+      "U.S. citizens and permanent residents file FAFSA instead and are handled in the domestic workflow"
+    ],
+    "deadlines": [
+      {
+        "label": "Aid application",
+        "date": null,
+        "deadline_text": "International aid application follows MIT's admission/aid instructions in the MIT Application Portal; the page states allow \"10 business days\" for submitted documents to appear in the aid system.",
+        "recurring_annual": true,
+        "source_url": "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/"
+      }
+    ],
+    "apply_steps": [
+      "Determine your classification: no FAFSA eligibility = apply as international, wherever you attend school",
+      "Complete MIT's admission application and the international financial aid application (parent documentation steps are itemized in the portal)",
+      "Upload parental tax/income documentation (translated where not in English) through the MIT Online Financial Aid System",
+      "Track documents via 'Documents & Messages' in the portal and respond to supplemental requests",
+      "If admitted with aid, use the award for I-20 issuance"
+    ],
+    "how_to_win": [
+      "Do not misclassify: living in the U.S. does not make you domestic - FAFSA eligibility is the test MIT applies",
+      "Submit parental documentation early: the 10-business-day processing note means last-minute uploads can break round deadlines",
+      "MIT explicitly tells international families \"International students are considered for aid using the same process\" - no separate quota pool exists"
+    ],
+    "work_authorization_notes": "No work requirement stated for international aid packages on this page.",
+    "state": "MA",
+    "notes": "quoted: \"you are classified as 'international' if you are not eligible for federal student financial aid as determined by the Free Application for Federal Student Aid (FAFSA)\" and \"International students are considered for aid using the same process that we use for all applicants.\" Need-blind status per Bowdoin's cross-check list which names MIT among the seven need-blind institutions.",
+    "sources": [
+      "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/",
+      "https://www.bowdoin.edu/news/2022/07/bowdoin-college-expands-need-blind-admissions-policy-to-include-international-students.html"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.8
+  },
+  {
+    "program_id": "duke-international-need-aware-reality",
+    "name": "Duke University: need-AWARE aid for international students (contrast record - how most well-endowed schools that DO fund internationals treat aid in decisions)",
+    "provider": "Duke University (Undergraduate Admissions + Karsh Office of Undergraduate Financial Support)",
+    "official_url": "https://admissions.duke.edu/financial-support/",
+    "apply_url": "https://admissions.duke.edu/financial-support/",
+    "kind": "need_based_aid",
+    "levels": ["undergraduate"],
+    "citizenship": ["international"],
+    "needs": ["visa_and_eligibility_info", "tuition_waiver"],
+    "coverage_text": "Need-based institutional aid exists for international students who declare aid interest at application, but declaring aid moves you into a separate, need-aware admission pool; no aid is available later if you did not declare, and international transfers get nothing.",
+    "stipend_text": null,
+    "stem_eligible": true,
+    "amount_text": null,
+    "renewable": null,
+    "eligibility": [
+      "International applicants must check the 'financial aid interest' box on the admission application to be considered at all",
+      "\"International applicants who indicate interest in financial aid are considered in a separate admission pool, and those admitted with 'no financial aid interest' are ineligible to apply for financial aid for any year of undergraduate study\"",
+      "\"there are no need-based or merit scholarships available for international transfer students\"",
+      "Current international students receiving aid are automatically renewed but must have declared aid interest at admission; federal loans are not available to international students",
+      "Whether Duke meets full need for internationals is not stated explicitly as of 2026-09-15 on the pages fetched"
+    ],
+    "deadlines": [
+      {
+        "label": "CSS Profile for institutional aid (2026-27 cycle)",
+        "date": null,
+        "deadline_text": "\"To be considered for institutional aid, submit your 2026-27 CSS Profile Application online by February 1st.\"",
+        "recurring_annual": true,
+        "source_url": "https://admissions.duke.edu/financial-support/"
+      }
+    ],
+    "apply_steps": [
+      "Decide up front whether you need aid - checking the box changes which admission pool reviews you",
+      "If yes: submit the admission application with financial aid interest checked, then the CSS Profile by February 1",
+      "Provide family tax forms (current-year or most recent, foreign returns accepted), English income statements from both parents' employers, or a non-filer form; officially translated documents required",
+      "If admitted with aid: receive auto-renewal each year (no reapplication per Karsh FAQ) and enrollment in Duke Student Medical Insurance covered by grant aid",
+      "Use the award letter + remaining family funds for I-20 certification"
+    ],
+    "how_to_win": [
+      "Declare aid only if you truly need it: the separate pool is competitive and the no-declare-never-aid rule is absolute",
+      "Prepare the Duke-specific documents named on the page (parent employer income statements are explicitly required)",
+      "Transfers should budget assuming zero aid - the page states this directly",
+      "Compare against the seven need-blind schools (see Bowdoin/Harvard/Amherst/MIT records) before accepting need-aware risk at Duke-level price"
+    ],
+    "work_authorization_notes": "International students ineligible for federal loans; normal F-1 employment rules apply.",
+    "state": "NC",
+    "notes": "quoted: \"International applicants who indicate interest in financial aid are considered in a separate admission pool\" and \"there are no need-based or merit scholarships available for international transfer students\" and \"International students currently receiving aid will have their financial aid automatically renewed, and you do not need to reapply.\" policy not stated explicitly as of 2026-09-15 for whether Duke meets 100% of international need (not found on fetched pages; some Karsh page sections did not render).",
+    "sources": [
+      "https://admissions.duke.edu/financial-support/",
+      "https://financialaid.duke.edu/international-students/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.4
+  },
+  {
+    "program_id": "alabama-automatic-merit-international",
+    "name": "University of Alabama automatic merit scholarships for international freshmen (typical flagship merit model)",
+    "provider": "The University of Alabama",
+    "official_url": "https://afford.ua.edu/scholarships/oos-international-freshman/",
+    "apply_url": "https://afford.ua.edu/scholarships/oos-international-freshman/",
+    "kind": "merit_scholarship",
+    "levels": ["undergraduate"],
+    "citizenship": ["international"],
+    "needs": ["tuition_waiver"],
+    "coverage_text": "Automatic merit scholarships based on GPA + standardized test scores, awarded with the admission application (no separate application); additional competitive awards can add tuition value, housing and research/study allowances.",
+    "stipend_text": null,
+    "stem_eligible": true,
+    "amount_text": "2027 out-of-state & international automatic merit table (yearly value): Crimson Legends $6,000 (ACT 25-26/SAT 1200-1250, GPA 3.50+); Capstone $8,000; Collegiate $10,000; Foundation in Excellence $15,000; UA Scholar $24,000; Presidential $28,000; Presidential Elite (ACT 36/SAT 1600, GPA 4.0+) = Tuition+ ... Competitive awards may include 'Value of tuition for up to four years or eight semesters', first-year on-campus housing, $1,500/yr supplemental scholarship for four years, and a $2,000 one-time research/international-study allowance.",
+    "renewable": null,
+    "eligibility": [
+      "First-time international freshmen admitted to UA",
+      "Automatic awards require GPA 3.50+ and published ACT/SAT thresholds; \"Scholarship values and names are identical for out-of-state and international students\"",
+      "Competitive scholarships are holistic-review based (leadership, service, work experience and accomplishments)",
+      "STEM majors eligible - awards are by academic profile, not field"
+    ],
+    "deadlines": [
+      {
+        "label": "Admission application (scholarships included)",
+        "date": null,
+        "deadline_text": "Automatic merit scholarships \"are included in the UA Undergraduate App and do not require an additional application\" - scholarship consideration follows the priority admission date on the admissions calendar.",
+        "recurring_annual": true,
+        "source_url": "https://afford.ua.edu/scholarships/oos-international-freshman/"
+      }
+    ],
+    "apply_steps": [
+      "Take the SAT/ACT - these automatic awards are score+GPA driven",
+      "Submit the UA Undergraduate admission application (scholarship selection is automatic within it)",
+      "Send official transcripts (with certified English translations for non-English records)",
+      "Meet published SAT/ACT/GPA thresholds for the award tier you target",
+      "After award, the university issues the I-20 using award + family funds as certification"
+    ],
+    "how_to_win": [
+      "Score strategy is explicit on the page: each $ increment is tied to ACT/SAT bands (e.g., 1420-1600 SAT for the $28,000 Presidential)",
+      "GPA floor is 3.50 on ALL automatic awards - protect senior-year grades",
+      "Apply for admission early: the awards are automatic at admission review, so earlier files get earlier decisions",
+      "Also list on competitive scholarships (Presidential-type) which bundle tuition, housing and a $2,000 research allowance - a rare international-accessible research fund"
+    ],
+    "work_authorization_notes": "None; standard F-1 rules apply after enrollment.",
+    "state": "AL",
+    "notes": "Represents the broad middle of U.S. undergraduate funding for internationals: substantial but partial merit aid at large public flagships - rarely full need coverage. quoted: \"Automatic merit scholarships are awarded based on standardized test scores and GPA. These scholarships are included in the UA Undergraduate App and do not require an additional application.\"",
+    "sources": [
+      "https://afford.ua.edu/scholarships/oos-international-freshman/",
+      "https://afford.ua.edu/scholarships/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  },
+  {
+    "program_id": "educationusa-finance-your-studies",
+    "name": "EducationUSA 'Finance Your Studies' guidance + Special Opportunities and Financial Aid database (the unaided-reality baseline)",
+    "provider": "U.S. Department of State - EducationUSA network",
+    "official_url": "https://educationusa.state.gov/your-5-steps-us-study/finance-your-studies",
+    "apply_url": "https://educationusa.state.gov/find-financial-aid",
+    "kind": "scholarship",
+    "levels": ["undergraduate", "graduate"],
+    "citizenship": ["international"],
+    "needs": ["visa_and_eligibility_info", "tuition_waiver", "fully_funded_degree"],
+    "coverage_text": "Guidance and a searchable database of scholarships, in-state tuition benefits, and application-fee waivers offered to international students by U.S. institutions (e.g., Roger Williams University International Scholarship, Johnson & Wales Global Full Tuition Scholarship, Carnegie Mellon METALS merit, Wesleyan African Scholars - as listed in the tool).",
+    "stipend_text": null,
+    "stem_eligible": null,
+    "amount_text": null,
+    "renewable": null,
+    "eligibility": [
+      "Any prospective international student planning U.S. study",
+      "Individual database listings carry their own country/level/major rules"
+    ],
+    "deadlines": [
+      {
+        "label": "Per listed opportunity",
+        "date": null,
+        "deadline_text": "The database shows per-award deadlines (examples displayed: 'January 4, 2026', 'January 15, but priority consideration for those who apply by December 1', 'every spring', 'every fall').",
+        "recurring_annual": true,
+        "source_url": "https://educationusa.state.gov/find-financial-aid"
+      }
+    ],
+    "apply_steps": [
+      "Read Step 3/4 of 'Your 5 Steps' - Finance Your Studies - before choosing schools",
+      "Filter the Special Opportunities and Financial Aid database by country, level and institution",
+      "Match results against each university's own aid page to confirm current terms",
+      "Apply for aid and admission together (EducationUSA: \"Applications for financial aid go together with applications for admission\")",
+      "Track government-sponsored scholarships from your home country, also indexed on the same page"
+    ],
+    "how_to_win": [
+      "Budget for the reality the State Department states: \"competition is high\" and costs vary widely by region - the page recommends Southern/Midwestern rural campuses for lower living costs",
+      "Use country filters: some home-government scholarships (e.g., country bureaus) only appear there",
+      "Cross-check any award found in the database on the school's own scholarship page before relying on it for I-20 figures"
+    ],
+    "work_authorization_notes": "On-campus employment and practical training are covered separately by DHS Study in the States; on-campus aid is not 'free money' - 20 hrs/week in-term cap applies.",
+    "state": null,
+    "notes": "quoted: \"Each year international students receive significant amounts of financial assistance for their studies. However, competition is high.\" and \"Find information about special opportunities and financial aid provisions that U.S. higher education institutions offer international students, such as scholarships, in-state tuition benefits, waived application fees and deadlines.\" Context: MOST U.S. institutions offer international students no need-based aid at all, or only partial merit - full-need schools are the seven in the Bowdoin record.",
+    "sources": [
+      "https://educationusa.state.gov/your-5-steps-us-study/finance-your-studies",
+      "https://educationusa.state.gov/find-financial-aid"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  },
+  {
+    "program_id": "fafsa-eligible-noncitizen-rule",
+    "name": "FAFSA eligibility for non-U.S. citizens (eligible noncitizen categories; what F-1 students do instead)",
+    "provider": "U.S. Department of Education, Federal Student Aid",
+    "official_url": "https://studentaid.gov/understand-aid/eligibility/requirements/non-us-citizens",
+    "apply_url": "https://studentaid.gov/understand-aid/eligibility/requirements/non-us-citizens",
+    "kind": "federal_aid_rule",
+    "levels": ["undergraduate", "graduate"],
+    "citizenship": ["international", "permanent_resident", "daca"],
+    "needs": ["visa_and_eligibility_info"],
+    "coverage_text": "Defines who can receive federal student aid (grants, work-study, federal loans). F-1 student visa holders are not among the eligible noncitizen categories, so international students on F visas cannot receive federal student aid.",
+    "stipend_text": null,
+    "stem_eligible": null,
+    "amount_text": null,
+    "renewable": null,
+    "eligibility": [
+      "\"Non-U.S. citizens that qualify for federal student aid are known as 'eligible noncitizens'\" - categories include: U.S. nationals/permanent residents (I-151/I-551/I-551C); refugees, asylum-grantees and certain parolees (parolees: paroled at least one year AND with USCIS evidence of non-temporary intent)",
+      "T-visa holders (or T-1 parents); 'battered immigrant-qualified aliens' under VAWA",
+      "Citizens of the Federated States of Micronesia, Marshall Islands, and Palau (Pell, FSEOG, Work-Study)",
+      "Certain Native American students born in Canada under the Jay Treaty of 1794",
+      "\"Undocumented students, including Deferred Action for Childhood Arrivals (DACA) recipients, are not eligible for federal student aid\" - though they may still get state, school or private aid",
+      "StudentAid.gov account + e-signature for the online FAFSA requires a Social Security number: \"your Social Security number is needed to create a StudentAid.gov account\"",
+      "F-1 (and J/M/Q) student visas do NOT appear in any eligible category - international students on study visas instead rely on institutional aid (CSS Profile etc.), home-government and external scholarships"
+    ],
+    "deadlines": [
+      {
+        "label": "FAFSA annual cycle",
+        "date": null,
+        "deadline_text": "FAFSA follows the annual aid-year cycle with state/school priority deadlines; international students generally cannot use it (see categories above).",
+        "recurring_annual": true,
+        "source_url": "https://studentaid.gov/understand-aid/eligibility/requirements/non-us-citizens"
+      }
+    ],
+    "apply_steps": [
+      "Check your immigration category against the eligible-noncitizen list before spending time on FAFSA",
+      "If you are an eligible noncitizen, use your SSN to create a StudentAid.gov account and sign the FAFSA electronically",
+      "If you are on an F-1 visa, skip FAFSA and ask each university's financial aid office which form they require (typically the CSS Profile - see related record)",
+      "If you are undocumented/DACA, still ask the college aid office: 'completing the FAFSA form' may or may not be the route to state and school aid per that page's guidance"
+    ],
+    "how_to_win": [
+      "Permanent residents: file the FAFSA - your green card alone makes you eligible ('U.S. national or permanent resident' is category 1)",
+      "Refugees/asylees: keep your I-766/I-94 documentation ready for the aid office",
+      "DACA students: build a state-and-institutional plan instead - the federal door is closed but the page itself says state/school/private aid may remain"
+    ],
+    "work_authorization_notes": "Federal Work-Study is only for eligible noncitizens; F-1 students work on-campus under DHS rules instead.",
+    "state": null,
+    "notes": "quoted as above from the Federal Student Aid page. This is the central reason CSS Profile / institutional forms exist for international applicants.",
+    "sources": [
+      "https://studentaid.gov/understand-aid/eligibility/requirements/non-us-citizens"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.95
+  },
+  {
+    "program_id": "css-profile-international-applicants",
+    "name": "CSS Profile - the institutional-aid application international students use instead of FAFSA",
+    "provider": "College Board (CSS Profile service)",
+    "official_url": "https://cssprofile.collegeboard.org/international-applicants",
+    "apply_url": "https://cssprofile.collegeboard.org",
+    "kind": "need_based_aid",
+    "levels": ["undergraduate", "graduate"],
+    "citizenship": ["international"],
+    "needs": ["visa_and_eligibility_info", "fully_funded_degree"],
+    "coverage_text": "CSS Profile is the nonfederal (institutional) aid application used by colleges and scholarship programs; College Board states \"Each year CSS Profile unlocks access to more than $14 billion in nonfederal aid\" (not all of it available to international students - participating schools and programs decide).",
+    "stipend_text": null,
+    "stem_eligible": null,
+    "amount_text": null,
+    "renewable": true,
+    "eligibility": [
+      "International students applying to U.S. colleges that use the CSS Profile for their own need-based aid (Duke, e.g., requires it: 'submit your 2026-27 CSS Profile Application online by February 1st')",
+      "\"Many colleges provide institutional financial aid to international students. These colleges need to understand your financial situation in the context of your local economy.\"",
+      "Home-currency entry supported: \"You or your parents will be able to enter the information in your home currency - we'll do the currency conversion for you\"",
+      "Data is transferred to and hosted on a U.S. service platform (stated on the international applicants page)"
+    ],
+    "deadlines": [
+      {
+        "label": "CSS Profile 2026-27 cycle",
+        "date": null,
+        "deadline_text": "Portal currently open for \"Fall 2026/Spring 2027\"; each college sets its own CSS deadline (e.g., Duke's February 1). Check the participating-school list for each deadline.",
+        "recurring_annual": true,
+        "source_url": "https://cssprofile.collegeboard.org"
+      }
+    ],
+    "apply_steps": [
+      "Use the CSS Profile 'participating schools and scholarships' search to confirm each target school uses it for international aid",
+      "Create the CSS account and complete the student + parent applications in your home currency, attaching non-custodial parent information if the school requires it",
+      "Gather translated parent tax returns / income statements as required by schools (Duke's list: current-year or most recent foreign tax forms plus employer income letters, officially translated)",
+      "Submit by each school's deadline and monitor the College Board document-upload tool for school-specific supplemental forms",
+      "Refile annually if the school requires year 2+ renewal documentation"
+    ],
+    "how_to_win": [
+      "File the CSS Profile and the admission app together - institutions process aid with admissions",
+      "Have foreign documents translated once, officially - both original and translation are repeatedly required",
+      "Self-employed parents: prepare non-filer/affidavit-of-income packs early, the most common CSS stall for international families"
+    ],
+    "work_authorization_notes": null,
+    "state": null,
+    "notes": "Some universities use their own international aid forms in place of CSS Profile; always follow the school's financial-aid office instructions. quoted from cssprofile.collegeboard.org/international-applicants: \"Many colleges provide institutional financial aid to international students... The CSS Profile application will collect information about your family's income, assets, and expenses.\"",
+    "sources": [
+      "https://cssprofile.collegeboard.org/international-applicants",
+      "https://cssprofile.collegeboard.org",
+      "https://admissions.duke.edu/financial-support/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "irs-f1-student-tax-status",
+    "name": "IRS rules for F-1 students: exempt individual, Form 8843, and nonresident alien filing",
+    "provider": "Internal Revenue Service (U.S. Department of the Treasury)",
+    "official_url": "https://www.irs.gov/individuals/international-taxpayers/exempt-individual-who-is-a-student",
+    "apply_url": null,
+    "kind": "federal_aid_rule",
+    "levels": ["undergraduate", "graduate"],
+    "citizenship": ["international"],
+    "needs": ["visa_and_eligibility_info"],
+    "coverage_text": "Not aid, but decisive money rules: F-1 students are 'exempt individuals' for the substantial presence test (usually nonresident aliens for 5 years), which keeps them in NRA tax status - lower taxable base for on-campus wages and scholarships but no standard deduction, and 1098-T/education credits generally unavailable.",
+    "stipend_text": null,
+    "stem_eligible": null,
+    "amount_text": null,
+    "renewable": null,
+    "eligibility": [
+      "Applies to all F (and J, M, Q) students, and their F-2/J-2 spouse and unmarried children under 21 living in the household",
+      "\"You will not be an exempt individual as a student if you have been exempt as a teacher, trainee, student, Exchange Visitor, or Cultural Exchange Visitor on an 'F,' 'J,' 'M,' or 'Q' visa for any part of more than 5 calendar years\" unless you prove no intent to reside permanently",
+      "\"If you qualify to exclude days of presence as a student, you must file a fully-completed Form 8843... with the IRS. If you are already filing an income tax return, attach Form 8843\""
+    ],
+    "deadlines": [
+      {
+        "label": "Form 8843 / NRA return (Form 1040-NR)",
+        "date": null,
+        "deadline_text": "Filed with the annual individual return (or standalone 8843 if no return is due); IRS: \"There is no minimum dollar amount of income that triggers a filing requirement for a nonresident alien, including a foreign student or a foreign scholar\" - nonresident students with U.S.-source income must file regardless of amount.",
+        "recurring_annual": true,
+        "source_url": "https://www.irs.gov/individuals/international-taxpayers/foreign-students-scholars-teachers-researchers-and-exchange-visitors"
+      }
+    ],
+    "apply_steps": [
+      "Track days present in the U.S. as an F-1 student (first 5 calendar years generally excluded from the substantial presence test)",
+      "File Form 8843 every year, even with zero income",
+      "If you have U.S.-source income (on-campus job, taxable scholarship portion), file Form 1040-NR and claim any applicable tax treaty benefits",
+      "Check your home country's U.S. tax treaty for scholarship/exemption provisions before your first award is paid",
+      "Keep F-1 compliance records - 'You have been exempt... on an F/J/M/Q visa for more than 5 calendar years' changes your status to resident alien for tax purposes"
+    ],
+    "how_to_win": [
+      "Family members on F-2 derive exempt status only while your status does, and only for spouse + unmarried children under 21 - file 8843 for each of them",
+      "If you take steps toward a green card while on F-1, you can lose exempt-individual status mid-program (the IRS page links this to the 'closer connection' rules)",
+      "Do not count on education tax credits as an NRA - use the Publication 519 workflow / a university ISO workshop before filing"
+    ],
+    "work_authorization_notes": "Your nonresident status also affects FICA: see the IRS 'Foreign student liability for Social Security and Medicare taxes' link on the same hub page.",
+    "state": null,
+    "notes": "quoted: \"Aliens temporarily present in the United States as students, trainees, scholars, teachers, researchers, exchange visitors, and cultural exchange visitors are subject to special rules with respect to the taxation of their income.\"",
+    "sources": [
+      "https://www.irs.gov/individuals/international-taxpayers/exempt-individual-who-is-a-student",
+      "https://www.irs.gov/individuals/international-taxpayers/foreign-students-scholars-teachers-researchers-and-exchange-visitors"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  },
+  {
+    "program_id": "irs-scholarship-withholding-nra",
+    "name": "IRS 14%/30% withholding on scholarships and fellowships paid to F-1 nonresident aliens (+ treaty exemption route)",
+    "provider": "Internal Revenue Service",
+    "official_url": "https://www.irs.gov/individuals/international-taxpayers/withholding-federal-income-tax-on-scholarships-fellowships-and-grants-paid-to-nonresident-aliens",
+    "apply_url": null,
+    "kind": "federal_aid_rule",
+    "levels": ["undergraduate", "graduate"],
+    "citizenship": ["international"],
+    "needs": ["visa_and_eligibility_info"],
+    "coverage_text": "Explains how much of a scholarship/fellowship an international student actually keeps: amounts for tuition/required fees are generally not taxable, but taxable portions paid to nonresident aliens are withheld at 30% (14% with no treaty) - budget for this when comparing award letters.",
+    "stipend_text": null,
+    "stem_eligible": null,
+    "amount_text": "30% default on taxable scholarship amounts; 14% for F/J/M/Q students/researchers/grantees from treaty countries; any service-based portion (assistantship pay) taxed at graduated rates.",
+    "renewable": null,
+    "eligibility": [
+      "Nonresident alien students, researchers or grantees temporarily present in the U.S. under an 'F,' 'J,' 'M,' or 'Q' visa receiving U.S.-source scholarships, fellowships, or grants",
+      "Treaty benefits require residence in a treaty country immediately before arrival in the U.S."
+    ],
+    "deadlines": [
+      {
+        "label": "Treaty exemption paperwork",
+        "date": null,
+        "deadline_text": "Claimed when the paying institution withholds - typically via Form W-7 (ITIN if no SSN) and the university's required treaty statement before payment; see 'Claiming treaty exemption for a scholarship or fellowship grant' (IRS).",
+        "recurring_annual": true,
+        "source_url": "https://www.irs.gov/individuals/international-taxpayers/withholding-federal-income-tax-on-scholarships-fellowships-and-grants-paid-to-nonresident-aliens"
+      }
+    ],
+    "apply_steps": [
+      "On each award letter, separate tuition/fees from stipend/living components",
+      "Determine your tax status (F-1 first five years = nonresident alien - see related record)",
+      "If your country has a U.S. tax treaty, give the payer the treaty-exemption paperwork up front",
+      "Accept 14% (treaty countries) or 30% (others) withholding on taxable, non-service scholarship amounts",
+      "For assistantships (service income): expect graduated withholding and the FICA rules linked from the same hub page",
+      "File Form 1040-NR annually; treaty amounts cannot be claimed retroactively without the paperwork"
+    ],
+    "how_to_win": [
+      "Choose award structures that weight tuition remission over cash stipends - remission of qualified tuition is the tax-protected component",
+      "Confirm your university's international tax office can process a treaty claim BEFORE the first payment cycle",
+      "When comparing two master's offers, compare post-withholding stipends: a $30k stipend at 30% withholding is $21k, at 14% it is $25.8k"
+    ],
+    "work_authorization_notes": "Service portions of scholarships (TA/RA work) are wage income and require valid F-1 employment authorization.",
+    "state": null,
+    "notes": "quoted: \"The general withholding tax rate is 30%. However, the withholding tax rate may be reduced to 14% or a lower treaty rate, if the nonresident alien (NRA) is a student, researcher, or grantee who is temporarily present in the U.S. under an 'F,' 'J,' 'M,' or 'Q' visa\" and \"Any part of a scholarship, fellowship, or grant that represents compensation for services performed in the U.S. is subject to graduated withholding.\"",
+    "sources": [
+      "https://www.irs.gov/individuals/international-taxpayers/withholding-federal-income-tax-on-scholarships-fellowships-and-grants-paid-to-nonresident-aliens",
+      "https://www.irs.gov/individuals/international-taxpayers/claiming-treaty-exemption-for-a-scholarship-or-fellowship-grant"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "f1-student-visa-requirements",
+    "name": "F-1 student visa: SEVP school -> I-20 -> SEVIS fee -> embassy interview (official process and timing)",
+    "provider": "U.S. Department of State (travel.state.gov)",
+    "official_url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+    "apply_url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+    "kind": "visa_guidance",
+    "levels": ["undergraduate", "graduate"],
+    "citizenship": ["international"],
+    "needs": ["visa_and_eligibility_info"],
+    "coverage_text": "Defines the legal path: you may not study on entry as a visitor; degree study requires an F (or M) visa issued after SEVP approval, SEVIS registration, I-901 fee payment and a consular interview showing ties, funding and intent.",
+    "stipend_text": null,
+    "stem_eligible": null,
+    "amount_text": "Visa application (MRV) fee shown on the page: $185; SEVIS I-901 fee separate (see related record); possible post-interview visa issuance fee by nationality.",
+    "renewable": null,
+    "eligibility": [
+      "Acceptance and enrollment at a SEVP-approved school; school issues Form I-20 and registers you in SEVIS",
+      "Must pay the SEVIS I-901 fee before the visa is issued and present Form I-20 to the consular officer",
+      "Must establish nonimmigrant intent and meet visa requirements under U.S. law; consular officer may request additional evidence documents",
+      "Dependents (F-2) need individual I-20s and visas but do not pay the SEVIS fee",
+      "\"Students cannot travel on the Visa Waiver Program or with Visitor Visas\""
+    ],
+    "deadlines": [
+      {
+        "label": "Earliest visa issuance / entry",
+        "date": null,
+        "deadline_text": "\"New Students - Student (F and M) visas for new students can be issued up to 365 days before the start date of a course of study. However, you will not be allowed to enter the United States on your student visa more than 30 days before the start date.\"",
+        "recurring_annual": true,
+        "source_url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html"
+      },
+      {
+        "label": "Departure after program",
+        "date": null,
+        "deadline_text": "\"Foreign students in the United States with F visas must depart the United States within 60 days after the program end date listed on Form I-20, including any authorized practical training.\"",
+        "recurring_annual": false,
+        "source_url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html"
+      }
+    ],
+    "apply_steps": [
+      "Apply to and be accepted by a SEVP-approved school; obtain the signed Form I-20 (under-18 applicants also need parental signature)",
+      "Pay the I-901 SEVIS fee at FMJfee.com and keep the receipt",
+      "Complete the online nonimmigrant visa application (DS-160) and pay the $185 MRV fee",
+      "Schedule the embassy/consulate interview; bring passport, I-20, SEVIS receipt, financial evidence for the first year of study, and academic records (many posts accept TOEFL/Duolingo results; translated documents as required)",
+      "Expect fingerprints at interview; if administrative processing applies, the officer informs you",
+      "At the port of entry, CBP inspects passport + visa + I-20 and sets the admission period; enter no more than 30 days before start"
+    ],
+    "how_to_win": [
+      "Start visa booking the moment the I-20 arrives - issuance up to 365 days ahead is permitted, so peak-summer queues are avoidable",
+      "Carry proof you can pay first-year costs (award letters + family funds) - the interview document list flags financial evidence as the routine request",
+      "A visa is not entry: CBP at the airport decides admission, so keep I-20/SEVIS info consistent between embassy and border",
+      "Plan the 60-day post-program exit clock around OPT start dates rather than assuming summer ends the period"
+    ],
+    "work_authorization_notes": "The visa itself authorizes study, not employment - see on-campus/CPT/OPT records.",
+    "state": null,
+    "notes": "quoted: \"The first step to studying in the United States is apply to a SEVP-approved school in the United States. If the SEVP-approved school accepts your enrollment, you will be registered for the Student and Exchange Visitor Information System (SEVIS) and must pay the SEVIS I-901 fee. The SEVP-approved school will issue you a Form I-20.\"",
+    "sources": [
+      "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "i-901-sevis-fee",
+    "name": "I-901 SEVIS fee: $350 for F-1/M-1 students, paid before visa issuance",
+    "provider": "U.S. Department of Homeland Security - Study in the States (SEVP)",
+    "official_url": "https://studyinthestates.dhs.gov/students/prepare/paying-the-i-901-sevis-fee",
+    "apply_url": "https://studyinthestates.dhs.gov/students/prepare/paying-the-i-901-sevis-fee",
+    "kind": "visa_guidance",
+    "levels": ["undergraduate", "graduate"],
+    "citizenship": ["international"],
+    "needs": ["visa_and_eligibility_info"],
+    "coverage_text": "One-time mandatory registration fee for the SEVIS system; not tuition and not refundable if the visa is denied (one exception described for re-application timing).",
+    "stipend_text": null,
+    "stem_eligible": null,
+    "amount_text": "US$350 for F and M students (raised from $200 effective June 24, 2019, per the DHS SEVP Fee Rule announcement - still the amount referenced in current guidance); J exchange visitors: $220.",
+    "renewable": false,
+    "eligibility": [
+      "All prospective F and M students (visa-required and visa-waiver countries alike) before visa issuance or admission",
+      "Anyone in the U.S. applying for a change of status to F-1/M-1 pays before filing",
+      "Students out of status applying for reinstatement must pay a new fee",
+      "F-2/M-2/J-2 dependents do NOT pay; exception possible for students completing study in authorized overseas study (ask your DSO)"
+    ],
+    "deadlines": [
+      {
+        "label": "Payment timing",
+        "date": null,
+        "deadline_text": "\"Regulation requires all prospective F and M students to pay the I-901 Student and Exchange Visitor Information System (SEVIS) Fee before the Department of State issues you a visa\" and it \"must be paid before you enter the United States.\"",
+        "recurring_annual": false,
+        "source_url": "https://studyinthestates.dhs.gov/students/prepare/students-and-the-form-i-20"
+      }
+    ],
+    "apply_steps": [
+      "Receive Form I-20 first - payment requires the I-20 School Code and SEVIS ID number",
+      "Pay only at FMJfee.com (\"FMJFee.com is the only federal website certified to collect I-901 SEVIS Fee payments\")",
+      "Enter name, address, date of birth, email, country of birth/citizenship, school code, SEVIS ID exactly as on the I-20",
+      "Print/save the I-901 receipt and bring it to the visa interview",
+      "If you apply for reinstatement or change status later, expect to pay again"
+    ],
+    "how_to_win": [
+      "Pay the same week the I-20 arrives; receipts are checked at the consular window",
+      "Double-check the SEVIS ID letter 'N' prefix on transfer between schools before paying, so the fee attaches to the correct record",
+      "Never pay through third-party 'expedite' sites - the only authorized collector is FMJfee.com"
+    ],
+    "work_authorization_notes": null,
+    "state": null,
+    "notes": "quoted (2019 rule page): \"The I-901 Student and Exchange Visitor Information System (SEVIS) Fee for F and M international students will increase from $200 to $350\" effective June 24, 2019. No later DHS amount change was found on the fetched pages as of 2026-09-15.",
+    "sources": [
+      "https://studyinthestates.dhs.gov/students/prepare/paying-the-i-901-sevis-fee",
+      "https://studyinthestates.dhs.gov/2019/06/sevp-fee-rule-what-students-should-know",
+      "https://studyinthestates.dhs.gov/students/prepare/students-and-the-form-i-20"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  },
+  {
+    "program_id": "i20-proof-of-funds-certification",
+    "name": "Proof-of-funds financial certification for the Form I-20 (how universities certify first-year costs)",
+    "provider": "Example institution: USC Graduate Admission (pattern applies at most SEVP-certified schools; amounts vary)",
+    "official_url": "https://gradadm.usc.edu/overview-of-student-visas/financial-documentation-requirements/usc-guidelines-for-acceptable-financial-support/",
+    "apply_url": "https://gradadm.usc.edu/overview-of-student-visas/financial-documentation-requirements/",
+    "kind": "visa_guidance",
+    "levels": ["undergraduate", "graduate"],
+    "citizenship": ["international"],
+    "needs": ["visa_and_eligibility_info"],
+    "coverage_text": "Before an I-20 can be issued, the school must certify you can pay first-year tuition + fees + living expenses; funding can come from family, approved loans, sponsorships/scholarships (e.g., a Fulbright or Mastercard Foundation award letter counts), or university aid.",
+    "stipend_text": null,
+    "stem_eligible": null,
+    "amount_text": "Per-program first-year cost tables published by the school's financial aid office (e.g., USC fall/summer 2026 tables); \"the required amounts cannot be negotiated\" - living with relatives does not lower them.",
+    "renewable": null,
+    "eligibility": [
+      "\"Per U.S. immigration regulations, all international students intending to study on F-1 or J-1 visa status are required to demonstrate proof of their ability to pay for their education and living expenses in the United States.\"",
+      "At USC, graduate applicants need not submit proof for admission itself - only before I-20 issuance after committing; undergraduates prove it at admission",
+      "Dependents' costs must also be certified if F-2/J-2 family will accompany you"
+    ],
+    "deadlines": [
+      {
+        "label": "Document submission",
+        "date": null,
+        "deadline_text": "After admission and acceptance, before I-20 issuance; banks letters should be recent per each school's instructions.",
+        "recurring_annual": false,
+        "source_url": "https://gradadm.usc.edu/overview-of-student-visas/financial-documentation-requirements/"
+      }
+    ],
+    "apply_steps": [
+      "Look up your program's total first-year cost in the school's I-20 cost table",
+      "Assemble acceptable proof: savings/checking statements, \"approved/sanctioned education loans (in-principle sanctioned loans will not be accepted)\", bank solvency letters, withdrawable term deposits/government bonds, employer/government/NGO sponsorship letters, university awards (PhD funding counts)",
+      "Submit the financial statement to the admission/international office; request the I-20 once certified",
+      "For sponsors, use the school's sample sponsorship-letter format when provided",
+      "Remember conditional/pre-approved private U.S. loans do NOT count - only fully approved ones"
+    ],
+    "how_to_win": [
+      "External scholarships double as visa proof: keep award letters from Fulbright/AAUW/University assistantships in the certification packet",
+      "Graduate assistantship offers: get the stipend + tuition waiver quantified in the offer letter so the school can count it toward certification",
+      "Avoid the classic rejection: bank letters without stamp, old statements, or 'in-principle' loan approvals - USC's page lists exactly what fails"
+    ],
+    "work_authorization_notes": null,
+    "state": "CA",
+    "notes": "quoted: \"Before an I-20 or DS-2019 can be issued, USC requires a financial statement demonstrating proof of funding\" and \"a student's financial statement must demonstrate sufficient funds to cover their first year expenses only.\"",
+    "sources": [
+      "https://gradadm.usc.edu/overview-of-student-visas/financial-documentation-requirements/",
+      "https://gradadm.usc.edu/overview-of-student-visas/financial-documentation-requirements/usc-guidelines-for-acceptable-financial-support/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  },
+  {
+    "program_id": "f1-on-campus-employment-20hrs",
+    "name": "F-1 on-campus employment: no more than 20 hours/week during term, DSO approval, SSN required",
+    "provider": "U.S. Department of Homeland Security - Study in the States",
+    "official_url": "https://studyinthestates.dhs.gov/students/work/working-in-the-united-states",
+    "apply_url": null,
+    "kind": "employment_rule",
+    "levels": ["undergraduate", "graduate"],
+    "citizenship": ["international"],
+    "needs": ["visa_and_eligibility_info", "research_or_internship"],
+    "coverage_text": "The default, employer-free job for every F-1 student: on-campus work does not need USCIS authorization, but must respect the 20-hour term limit and can fund living costs.",
+    "stipend_text": null,
+    "stem_eligible": null,
+    "amount_text": "Wage-dependent; graduate assistantships (see UW-Madison record) are on-campus work with tuition-remission packages.",
+    "renewable": null,
+    "eligibility": [
+      "Active SEVIS F-1 students; \"Active F-1 students may apply for on-campus employment up to 30 days before the start of classes\"",
+      "Work may be on campus or at an \"off-campus location that is educationally affiliated with the school\" (bookstore, cafeteria examples given)",
+      "Unauthorized work is a status violation: \"your SEVIS record will be terminated... you will have to leave the United States immediately\""
+    ],
+    "deadlines": [
+      {
+        "label": "Start date",
+        "date": null,
+        "deadline_text": "From 30 days before classes start; hourly limit while school is in session: 20 hours.",
+        "recurring_annual": false,
+        "source_url": "https://studyinthestates.dhs.gov/students/work/working-in-the-united-states"
+      }
+    ],
+    "apply_steps": [
+      "Get your DSO's approval letter (take an employer letter with it); DSO approval substitutes for an EAD on campus",
+      "Apply for a Social Security Number: \"All students who wish to work must apply for a Social Security Number\"",
+      "Track weekly hours - never exceed 20 during term (breaks generally allow more, per school guidance)",
+      "Keep your SEVIS record current (address changes etc.) so employment eligibility persists"
+    ],
+    "how_to_win": [
+      "Reserve the on-campus job before arriving where possible: the 30-day pre-start window is the first legitimate income window you have",
+      "STEM students: prioritize research/teaching assistant roles - they map to your field, and 50%-appointment GA packages carry tuition remission",
+      "Stacking: on-campus aid counts toward 'confirmed support' on applications like AAUW's funding-gap test"
+    ],
+    "work_authorization_notes": "On-campus only; off-campus requires CPT/OPT/economic hardship authorization.",
+    "state": null,
+    "notes": "quoted: \"If you participate in on-campus employment, you may not work more than 20 hours per week when school is in session.\"",
+    "sources": [
+      "https://studyinthestates.dhs.gov/students/work/working-in-the-united-states"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.95
+  },
+  {
+    "program_id": "f1-practical-training-cpt-opt",
+    "name": "CPT and post-completion OPT: field-related work before/after the degree",
+    "provider": "U.S. Department of Homeland Security - Study in the States / SEVP",
+    "official_url": "https://studyinthestates.dhs.gov/students/training-opportunities-in-the-united-states",
+    "apply_url": null,
+    "kind": "employment_rule",
+    "levels": ["undergraduate", "graduate"],
+    "citizenship": ["international"],
+    "needs": ["research_or_internship", "visa_and_eligibility_info"],
+    "coverage_text": "Two legal routes to paid off-campus/internship work tied to your major: CPT (during the program, integral to curriculum, authorized by the DSO on an updated I-20) and OPT (12 months per degree level, USCIS EAD required).",
+    "stipend_text": null,
+    "stem_eligible": null,
+    "amount_text": null,
+    "renewable": null,
+    "eligibility": [
+      "CPT: \"you must have completed one full academic year of study at an SEVP-certified school, unless you are a graduate student whose program requires immediate CPT\"; training must be directly related to your major and an integral part of an established curriculum; \"CPT can be full time and is not restricted by a weekly 20-hour work limit\" (unlike pre-completion OPT)",
+      "OPT: \"A student is eligible for OPT if: The student has been a full-time student for one academic year in an SEVP-certified...\" school; 12 months of Regular OPT per higher degree level (12 for a bachelor's, another 12 for a master's); pre-completion OPT capped at 20 hrs/week during term; post-completion \"must be at least 20 hours per week or full-time\"",
+      "English-language-training students are not eligible for OPT"
+    ],
+    "deadlines": [
+      {
+        "label": "OPT application sequencing",
+        "date": null,
+        "deadline_text": "DSO must recommend OPT in SEVIS before the student files Form I-765: \"If a student submits the Form I-765... before you recommend the OPT or after the 30-day post-DSO recommendation period: USCIS will deny the application... The student will lose the application fee.\" Student must not work before the EAD start date.",
+        "recurring_annual": false,
+        "source_url": "https://studyinthestates.dhs.gov/sevis-help-hub/student-records/fm-student-employment/f-1-optional-practical-training-opt"
+      }
+    ],
+    "apply_steps": [
+      "For CPT: make an official request to your DSO with the offer/internship details so the school can verify it is integral to the curriculum; receive an I-20 endorsed for CPT BEFORE starting",
+      "For post-completion OPT: request the DSO SEVIS recommendation, then file Form I-765 with USCIS within the 30-day window",
+      "Await the EAD card; work only from the start date printed on it",
+      "Report any paid work address/employer changes to the DSO to keep SEVIS records current",
+      "Apply for an SSN after you have the job/EAD (same rule as on-campus)"
+    ],
+    "how_to_win": [
+      "12 months of OPT exists per degree level - a master's gets its own fresh year even after bachelor's-level OPT",
+      "Sequence is the whole game for OPT: DSO recommendation first, I-765 within 30 days; wrong order costs a full fee",
+      "Choose CPT-eligible co-op/internship programs deliberately: CPT has no 20-hour ceiling and no USCIS EAD wait",
+      "Never start an internship 'pending paperwork' - the DHS page warns working without permission ends the SEVIS record"
+    ],
+    "work_authorization_notes": "Both routes require major-related employment; unpaid work is still 'training' requiring authorization.",
+    "state": null,
+    "notes": "DHS page updated August 24, 2026; note SEVP's 2026 broadcast messages on tightened DSO scrutiny of CPT authorization (guidance page 'Curricular Practical Training Guidance' states further clarification is planned).",
+    "sources": [
+      "https://studyinthestates.dhs.gov/students/training-opportunities-in-the-united-states",
+      "https://studyinthestates.dhs.gov/sevis-help-hub/student-records/fm-student-employment/f-1-optional-practical-training-opt",
+      "https://studyinthestates.dhs.gov/sevis-help-hub/student-records/fm-student-employment/f-1-curricular-practical-training-cpt",
+      "https://studyinthestates.dhs.gov/trends-and-improvements/policy/curricular-practical-training-guidance"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "stem-opt-24-month-extension",
+    "name": "24-month STEM OPT extension (the core reason to pick a DHS-designated STEM degree)",
+    "provider": "U.S. Department of Homeland Security - Study in the States (STEM OPT Hub)",
+    "official_url": "https://studyinthestates.dhs.gov/stem-opt-hub",
+    "apply_url": null,
+    "kind": "employment_rule",
+    "levels": ["undergraduate", "graduate"],
+    "citizenship": ["international"],
+    "needs": ["research_or_internship", "visa_and_eligibility_info"],
+    "coverage_text": "Doubles post-graduation U.S. work authorization to 3 years total for graduates of STEM degree programs on the DHS STEM Designated Degree Program List (covers most CS/engineering/lab-science master's and bachelor's programs).",
+    "stipend_text": null,
+    "stem_eligible": true,
+    "amount_text": null,
+    "renewable": null,
+    "eligibility": [
+      "\"Eligible F-1 nonimmigrant students with STEM degrees from Student and Exchange Visitor Program (SEVP)-certified and accredited U.S. colleges and universities may apply for a 24-month STEM OPT extension.\"",
+      "The student \"must apply for and receive an Employment Authorization Document (EAD) from U.S. Citizenship and Immigration Services (USCIS)\"",
+      "Degree must appear on the DHS STEM Designated Degree Program List (CIP-code based; the hub links the list and the CIP nomination process)",
+      "DSO must recommend STEM OPT and register the employer's Form I-983 training plan; E-Verify employer required (per hub resources)"
+    ],
+    "deadlines": [
+      {
+        "label": "Application timing",
+        "date": null,
+        "deadline_text": "Hub does not state the filing window on this page; standard USCIS process is a timely I-765 filing after DSO recommendation during your initial OPT period.",
+        "recurring_annual": false,
+        "source_url": "https://studyinthestates.dhs.gov/stem-opt-hub"
+      }
+    ],
+    "apply_steps": [
+      "Before enrolling: verify your intended major's CIP code is on the DHS STEM Designated Degree Program List",
+      "During OPT, secure an E-Verify employer and complete Form I-983 training plan with your DSO",
+      "Have the DSO recommend STEM OPT and issue the supporting I-20 endorsement, then file Form I-765 for the EAD",
+      "Keep reporting current (6-month address checks, employer validation via SEVIS) during the extension"
+    ],
+    "how_to_win": [
+      "Degree choice = work authorization: the extension is only for listed STEM CIP codes, so confirm code + degree level before you enroll (AAUW uses the same list - a STEM-designated master's satisfies both)",
+      "Start I-983 paperwork with the DSO early in the first OPT year; employer E-Verify enrollment takes time",
+      "The 24-month extension can later support H-1B cap-gap and is a decisive factor for employers hiring international grads"
+    ],
+    "work_authorization_notes": "Unemployment and reporting rules during OPT/STEM OPT are strict; hub links the reporting-requirements pages for students.",
+    "state": null,
+    "notes": "quoted: \"Eligible F-1 nonimmigrant students with STEM degrees from Student and Exchange Visitor Program (SEVP)-certified and accredited U.S. colleges and universities may apply for a 24-month STEM OPT extension. Interested F-1 students must apply for and receive an Employment Authorization Document (EAD) from U.S. Citizenship and Immigration Services (USCIS).\" OPT help-hub table: \"24-month (STEM) OPT Extension - For students who majored in designated Science, Technology, Engineering, and Math (STEM) degrees approved by...\".",
+    "sources": [
+      "https://studyinthestates.dhs.gov/stem-opt-hub",
+      "https://studyinthestates.dhs.gov/sevis-help-hub/student-records/fm-student-employment/f-1-optional-practical-training-opt"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "uw-madison-graduate-assistantship-package",
+    "name": "How a fully funded grad degree is built: UW-Madison graduate assistantship = stipend + tuition remission + insurance",
+    "provider": "University of Wisconsin-Madison Graduate School",
+    "official_url": "https://grad.wisc.edu/funding/graduate-assistantships/",
+    "apply_url": "https://grad.wisc.edu/funding/",
+    "kind": "assistantship",
+    "levels": ["graduate"],
+    "citizenship": ["international"],
+    "needs": ["fully_funded_degree", "tuition_waiver", "research_or_internship"],
+    "coverage_text": "Template of a 'fully funded' offer at a major research university: assistantships at 33%+ appointment include a monthly stipend, remission of BOTH resident and non-resident tuition, and health insurance eligibility; segregated fees (~$726/semester) remain the student's share.",
+    "stipend_text": "University minimum for a 50% TA/RA/PA appointment: $35,636 annualized (2025-26; up from $32,396), with many departments paying above minimum. 99.7% of doctoral students hold appointments qualifying for tuition remission.",
+    "stem_eligible": true,
+    "amount_text": "50% appointment: ~$35.6k minimum stipend + full tuition remission (resident AND non-resident tuition) + insurance; a 25-30% TA is proportionally less. International doctoral students benefit especially because NON-RESIDENT tuition - which they would otherwise owe - is remitted.",
+    "renewable": true,
+    "eligibility": [
+      "Graduate students appointed as teaching assistants (TA), research assistants (RA), project assistants (PA), or lecturer student assistants at 33% time or higher (or >13 hrs/week)",
+      "Service-based-pricing programs (online/accelerated) are ineligible for remission; hourly student employees are outside the benefits package",
+      "Open to graduate students generally - international students are appointed to TAs/RAs at U.S. public research universities under F-1 rules (on-campus <=20 hrs/week during term)"
+    ],
+    "deadlines": [
+      {
+        "label": "Assistantship appointment cycle",
+        "date": null,
+        "deadline_text": "Assistantships are offered by departments/PIs with admission or during study; no single public deadline. Minimum stipend rates are set annually by the Graduate School (4-year forecast published).",
+        "recurring_annual": true,
+        "source_url": "https://grad.wisc.edu/funding/graduate-assistantships/"
+      }
+    ],
+    "apply_steps": [
+      "Apply to the graduate program (PhD and thesis master's are where GA funding lives) - funding offers arrive with admission",
+      "Ask programs about TA/RA distribution: which departments guarantee appointments, and for how many semesters",
+      "On acceptance of an appointment, complete the campus payroll/onboarding (requires SSN once on campus, see DHS rule for student workers)",
+      "Confirm the appointment level (>=33%) on the offer letter so the remission + insurance package attaches",
+      "Budget for segregated fees (~$726/semester) and non-remitted costs"
+    ],
+    "how_to_win": [
+      "Target PhD/thesis programs that guarantee multi-year funding - UW-Madison advertises 'four years' of assistantship minimum support planning",
+      "Email PIs before applying: RAs are paid from faculty research grants, so a fit with an active grant is the single biggest lever",
+      "The remission covers non-resident tuition: at research universities this is a ~$20k/yr hidden value for internationals - quantify it when comparing offers",
+      "Watch service-based pricing: online/professional master's programs are excluded from remission"
+    ],
+    "work_authorization_notes": "TA/RA/PAs are on-campus employment: F-1 students capped at 20 hrs/week in term; a 50% appointment (~20 hrs/wk) fits exactly.",
+    "state": "WI",
+    "notes": "quoted: \"Graduate assistantships appointed at 33% or higher... provide multiple benefits: monthly stipend; remission of both resident and non-resident tuition (students will still need to pay segregated fees, roughly $726/semester); and eligibility for health insurance\" and \"Minimum annualized stipends for 50% graduate student teaching, research, and project assistantship appointments will be $35,636 for 2025-26.\"",
+    "sources": [
+      "https://grad.wisc.edu/funding/graduate-assistantships/",
+      "https://grad.wisc.edu/2024/12/13/uw-madison-minimum-graduate-assistant-stipends-will-increase-consistent-with-multi-year-commitment-to-stipend-growth/"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.9
+  },
+  {
+    "program_id": "nih-grants-citizenship-rules",
+    "name": "Federal research money and international grad students: NIH research grants are citizenship-open, T32 training grants are not",
+    "provider": "U.S. National Institutes of Health (NIH Grants Policy Statement)",
+    "official_url": "https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.4_determining_eligibility_of_individuals.htm",
+    "apply_url": null,
+    "kind": "federal_aid_rule",
+    "levels": ["graduate"],
+    "citizenship": ["international", "us_citizen", "permanent_resident"],
+    "needs": ["fully_funded_degree", "research_or_internship", "visa_and_eligibility_info"],
+    "coverage_text": "Why PhD/RAstem funding offers open to F-1 students work: NIH research-grant personnel (RAs on R01-type awards) need no U.S. citizenship. BUT the named institutional TRAINING grants that fund stipends (Kirschstein-NRSA T32 traineeships) are restricted to citizens/permanent residents, and stipend taxation/withholding follows the NRA scholarship rule.",
+    "stipend_text": null,
+    "stem_eligible": true,
+    "amount_text": null,
+    "renewable": null,
+    "eligibility": [
+      "Research-grant personnel: \"Generally, PD/PIs and other personnel supported by NIH research grants are not required to hold any particular educational degree, and are not required to be U.S. citizens. However, some NIH programs/mechanisms have a citizenship requirement. Any citizenship requirement will be stated in the NOFO.\"",
+      "T32 institutional research-training grants: \"The individual to be trained must be a citizen or a noncitizen national of the United States or have been lawfully admitted for permanent residence at the time of appointment.\"",
+      "Predoctoral training requires enrollment in a Ph.D./research doctorate or combined research degree program; M.D./D.D.S./D.V.M. clinical training generally excluded"
+    ],
+    "deadlines": [
+      {
+        "label": "Program-specific",
+        "date": null,
+        "deadline_text": "Eligibility rules are standing policy; appointments/funding dates are set by each grantee institution and NOFO.",
+        "recurring_annual": false,
+        "source_url": "https://grants.nih.gov/grants/policy/nihgps/html5/section_11/11.3.2_eligibility.htm"
+      }
+    ],
+    "apply_steps": [
+      "When evaluating a funded offer, ask which mechanism pays you: R01/other project grant (citizenship-neutral) vs T32 training grant (citizens/PRs only for stipends)",
+      "If you are F-1 and the offer is an RA, confirm with the university's payroll/oracle office that they can hire non-citizens on that grant (standard practice at biomedical PhD programs)",
+      "Do not rely on NRSA individual fellowships (F31/F32) or T32 traineeships as an international applicant unless the notice says otherwise",
+      "Expect NRA tax treatment on stipends (see IRS scholarship-withholding record)"
+    ],
+    "how_to_win": [
+      "Biomedical/biotech PhD applicants: your RA is funded from federal research grants you are legally allowed to hold - write fit statements citing the PI's active NIH grants",
+      "If a program's brochure advertises 'T32-funded training', know that stipend support routes citizens/PRs first; ask how internationals are funded instead (most schools use RAs - fine for you)",
+      "Check each NOFO's citizenship section yourself - NIH policy says the NOFO is the source of truth for exceptions"
+    ],
+    "work_authorization_notes": "RA/TA work requires F-1 on-campus authorization (<=20 hrs/wk term); T32-style trainee roles on F-1 may instead require J-1 - universities coordinate.",
+    "state": null,
+    "notes": "Both citizenship statements verified from the NIH Grants Policy Statement on 2026-09-15; this is why 'fully funded PhD' offers to international students generally consist of tuition remission + GA/RA stipends from research grants rather than training-grant fellowships.",
+    "sources": [
+      "https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.5.4_determining_eligibility_of_individuals.htm",
+      "https://grants.nih.gov/grants/policy/nihgps/html5/section_11/11.3.2_eligibility.htm"
+    ],
+    "verified_at": "2026-09-15",
+    "confidence": 0.85
+  }
+]

@@ -1,0 +1,47 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sra-schools"
+version = "0.1.0"
+description = "US college/university discovery + financial-aid intelligence module: official links, deadlines, aid programs and profile-aware search (first-generation, disability, international STEM) over a refreshable cache."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Alish-0x" }]
+keywords = ["financial-aid", "college", "scholarship", "ipeds", "fafsa", "rds"]
+
+# The core is deliberately dependency-free (stdlib only) so it can be vendored
+# into any Python backend without resolving a transitive tree.
+dependencies = []
+
+[project.optional-dependencies]
+# Async/concurrent live fetching niceties. The module works without them by
+# falling back to urllib + a thread pool.
+live = ["httpx>=0.27"]
+dev = ["pytest>=8", "ruff>=0.6"]
+server = ["fastapi>=0.115", "uvicorn>=0.30"]
+
+[project.scripts]
+sra-schools = "sra_schools.cli:main"
+sras = "sra_schools.cli:main"
+sra-server = "sra_schools.server:run"
+
+[project.urls]
+Repository = "https://github.com/wraithen0/SRA"
+
+[tool.hatch.build.targets.wheel]
+packages = ["sra_schools"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"sra_schools/db/schema.sql" = "sra_schools/db/schema.sql"
+"sra_schools/data" = "sra_schools/data"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
