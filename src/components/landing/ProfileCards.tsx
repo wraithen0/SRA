@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { Accessibility, Building2, Globe } from "lucide-react";
 import { useVocabulary } from "../../api/VocabularyContext";
+import { profileLabel } from "../../lib/url";
 import type { ProfileKey } from "../../api/types";
 
 const ICONS: Record<ProfileKey, typeof Building2> = {
@@ -26,8 +27,7 @@ const KEYS: ProfileKey[] = [
 
 export function ProfileCards() {
   const { profiles } = useVocabulary();
-  const label = (key: ProfileKey) =>
-    profiles.find((profile) => profile.key === key)?.label ?? key;
+  const label = (key: ProfileKey) => profileLabel(key, profiles);
 
   return (
     <ul className="profile-cards">

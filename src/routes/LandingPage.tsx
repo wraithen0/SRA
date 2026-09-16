@@ -28,7 +28,7 @@ export function LandingPage() {
             Start your search
             <ArrowRight size={18} aria-hidden="true" />
           </Link>
-          <Link className="button button--ghost" to="/search#school-record-archive">
+          <Link className="button button--ghost" to="/search">
             See it in action
           </Link>
         </div>
