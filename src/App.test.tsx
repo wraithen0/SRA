@@ -10,16 +10,17 @@ afterEach(() => {
   resetMockState();
 });
 
-it("renders the app shell with a header, brand link, footer, and mock banner", () => {
+it("renders the app shell with a header, brand link, footer, and a search nav link", () => {
   vi.stubEnv("VITE_SRA_MOCK", "1");
   render(
     <VocabularyProvider>
-      <MemoryRouter>
+      <MemoryRouter initialEntries={["/"]}>
         <App />
       </MemoryRouter>
     </VocabularyProvider>
   );
   expect(screen.getByRole("banner")).toBeInTheDocument();
   expect(screen.getByRole("link", { name: /SRA/ })).toBeInTheDocument();
+  expect(screen.getByRole("link", { name: /Search/ })).toHaveAttribute("href", "/search");
   expect(screen.getByRole("contentinfo")).toBeInTheDocument();
 });

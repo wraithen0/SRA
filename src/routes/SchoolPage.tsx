@@ -22,7 +22,7 @@ export function SchoolPage() {
 
   const { data, error, loading } = useApi(() => school(key, query.profile), [key, query.profile]);
 
-  const backTo = `/?${params.toString()}`;
+  const backTo = `/search?${params.toString()}`;
 
   if (loading) {
     return (

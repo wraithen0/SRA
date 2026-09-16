@@ -21,9 +21,7 @@ export function Header() {
           <span>SRA</span>
         </NavLink>
         <nav className="site-nav" aria-label="Main">
-          <NavLink to="/" end>
-            Search
-          </NavLink>
+          <NavLink to="/search">Search</NavLink>
         </nav>
         <StatusBadge />
       </div>
