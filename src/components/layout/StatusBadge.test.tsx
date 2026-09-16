@@ -9,10 +9,10 @@ afterEach(() => {
 });
 
 describe("StatusBadge", () => {
-  it("shows cache-health counts from /status", async () => {
+  it("reads institutions from /status and labels them as schools", async () => {
     vi.stubEnv("VITE_SRA_MOCK", "1");
     render(<StatusBadge />);
-    await waitFor(() => expect(screen.getByText(/6,243/)).toBeInTheDocument());
+    await waitFor(() => expect(screen.getByText(/6,243 schools/)).toBeInTheDocument());
     expect(screen.getByText(/75 programmes/)).toBeInTheDocument();
   });
 });

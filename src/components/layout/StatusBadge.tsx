@@ -11,7 +11,7 @@ export function StatusBadge() {
 
   return (
     <span className="status-badge" title="Backend cache health">
-      {COUNT.format(data.schools ?? 0)} schools
+      {COUNT.format(data.institutions ?? 0)} schools
       <span className="status-badge__sep" aria-hidden="true">
         ·
       </span>

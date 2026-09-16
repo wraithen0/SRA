@@ -104,9 +104,17 @@ export interface SearchQuery {
 
 export interface StatusResponse {
   ok?: boolean;
-  schools?: number;
+  institutions?: number;
+  institutions_seeded?: number;
+  institutions_with_graduate_programs?: number;
+  facts?: number;
+  facts_stale?: number;
   programs?: number;
-  stale?: number;
+  dataset_version?: string | null;
+  last_crawl?: unknown;
+  coverage?: { universe?: number; by_topic?: Record<string, number> };
+  cache?: Record<string, unknown>;
+  profiles?: string[];
   [key: string]: unknown;
 }
 
@@ -120,10 +128,31 @@ export interface TopicOption {
   label: string;
 }
 
+export interface ApiProfile {
+  key: string;
+  title: string;
+  logline: string;
+  needs: string[];
+  required_topics: string[];
+  example_needs: string[];
+  default_filters: Record<string, string | number | boolean>;
+}
+
+export interface ApiTopic {
+  key: string;
+  label: string;
+  need: string;
+  freshness: string;
+  critical: boolean;
+  value_type: string;
+}
+
 export interface ProfilesResponse {
-  profiles: ProfileOption[];
+  count: number;
+  results: ApiProfile[];
 }
 
 export interface TopicsResponse {
-  topics: TopicOption[];
+  count: number;
+  results: ApiTopic[];
 }

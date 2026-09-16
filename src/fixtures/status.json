@@ -1,6 +1,48 @@
 {
-  "ok": true,
-  "schools": 6243,
+  "institutions": 6243,
+  "institutions_seeded": 6243,
+  "institutions_with_graduate_programs": 1720,
+  "facts": 18234,
+  "facts_stale": 41,
+  "links": 9120,
+  "deadlines": 264,
   "programs": 75,
-  "stale": 41
+  "institution_program_links": 31,
+  "dataset_version": "2026-09-01",
+  "scorecard_source": "https://collegescorecard.ed.gov/data/",
+  "sources_version": null,
+  "last_crawl": null,
+  "coverage": {
+    "universe": 6243,
+    "by_topic": {
+      "net_price_calculator": 4021,
+      "financial_aid_office": 5430,
+      "institutional_grant": 3110,
+      "first_gen_program": 1480
+    }
+  },
+  "cache": {
+    "pages_total": 9210,
+    "pages_fresh": 8970,
+    "pages_stale": 240,
+    "pages_failed": 3,
+    "body_chars": 2314000,
+    "stored_bytes": 610000
+  },
+  "query_cache": {
+    "entries": 18,
+    "fresh": 16,
+    "hits": 1204
+  },
+  "settings": {
+    "home": "~/.sra",
+    "db_path": "~/.sra/cache.db",
+    "live": false,
+    "offline": true,
+    "tinyfish_key": false,
+    "llm": false,
+    "max_pages_per_run": 200,
+    "search_cache_ttl_s": 900
+  },
+  "profiles": ["first_generation", "student_with_disability", "international_stem"]
 }

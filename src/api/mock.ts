@@ -39,13 +39,13 @@ export function mockRequest<T>(path: string, params: Record<string, unknown> = {
   }
 
   if (rawPath === "/api/v1/programs") {
-    return Promise.resolve({ programs: [] } as unknown as T);
+    return Promise.resolve({ count: 0, results: [] } as unknown as T);
   }
 
   if (rawPath === "/api/v1/deadlines") {
     const unitid = String(params.unitid ?? "243744");
     const found = schools[unitid] as { deadlines?: unknown[] } | undefined;
-    return Promise.resolve({ deadlines: found?.deadlines ?? [] } as unknown as T);
+    return Promise.resolve({ count: found?.deadlines?.length ?? 0, results: found?.deadlines ?? [] } as unknown as T);
   }
 
   if (rawPath === "/api/v1/status") {

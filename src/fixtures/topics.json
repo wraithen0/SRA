@@ -1,13 +1,37 @@
 {
-  "topics": [
-    { "key": "home", "label": "Homepage" },
-    { "key": "financial_aid", "label": "Financial aid office" },
-    { "key": "net_price_calculator", "label": "Net price calculator" },
-    { "key": "institutional_grant", "label": "Institutional grant" },
-    { "key": "first_gen_program", "label": "First-generation program" },
-    { "key": "aid_generosity", "label": "Grants and net-price generosity" },
-    { "key": "need_coverage", "label": "Share of need met" },
-    { "key": "first_gen_support", "label": "First-generation support programs" },
-    { "key": "net_price_affordability", "label": "Affordability after aid" }
+  "count": 4,
+  "results": [
+    {
+      "key": "net_price_calculator",
+      "label": "Net price calculator",
+      "need": "net_price_estimate",
+      "freshness": "structural",
+      "critical": true,
+      "value_type": "url"
+    },
+    {
+      "key": "financial_aid_office",
+      "label": "Financial aid office",
+      "need": "financial_aid",
+      "freshness": "static",
+      "critical": true,
+      "value_type": "url"
+    },
+    {
+      "key": "institutional_grant",
+      "label": "Institutional grant aid",
+      "need": "financial_aid",
+      "freshness": "policy",
+      "critical": false,
+      "value_type": "text"
+    },
+    {
+      "key": "first_gen_program",
+      "label": "First-generation program or center",
+      "need": "mentorship",
+      "freshness": "policy",
+      "critical": true,
+      "value_type": "url"
+    }
   ]
 }

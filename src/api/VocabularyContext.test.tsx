@@ -8,6 +8,9 @@ function Probe() {
   return (
     <div>
       <span data-testid="count">{profiles.length}</span>
+      <span data-testid="first-label">
+        {profiles.find((profile) => profile.key === "first_generation")?.label ?? "missing"}
+      </span>
       <span data-testid="known">{topicLabel("net_price_calculator")}</span>
       <span data-testid="unknown">{topicLabel("not_a_topic")}</span>
     </div>
@@ -28,6 +31,7 @@ describe("VocabularyProvider", () => {
       </VocabularyProvider>
     );
     await waitFor(() => expect(screen.getByTestId("count")).toHaveTextContent("3"));
+    expect(screen.getByTestId("first-label")).toHaveTextContent("First-generation student");
     expect(screen.getByTestId("known")).toHaveTextContent("Net price calculator");
     expect(screen.getByTestId("unknown")).toHaveTextContent("not_a_topic");
   });

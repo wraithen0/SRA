@@ -26,8 +26,14 @@ export function VocabularyProvider({ children }: { children: ReactNode }) {
   const topicsState = useApi(() => fetchTopics(), []);
 
   const value = useMemo<VocabularyValue>(() => {
-    const profiles = profilesState.data?.profiles ?? [];
-    const topics = topicsState.data?.topics ?? [];
+    const profiles = (profilesState.data?.results ?? []).map((profile) => ({
+      key: profile.key,
+      label: profile.title
+    }));
+    const topics = (topicsState.data?.results ?? []).map((topic) => ({
+      key: topic.key,
+      label: topic.label
+    }));
     return {
       profiles,
       topics,
