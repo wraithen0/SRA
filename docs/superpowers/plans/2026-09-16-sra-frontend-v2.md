@@ -231,7 +231,8 @@ Append these tests to `src/routes/SearchPage.test.tsx` (inside `describe("Search
       expect(screen.getByText("Example State University")).toBeInTheDocument()
     );
     expect(screen.getByText(/6,243 schools searched/)).toBeInTheDocument();
-    expect(screen.getByText(/cache hit · 7f8b9c3/)).toBeInTheDocument();
+    expect(screen.getByText(/cache hit/, { selector: ".results-meta__cache" })).toBeInTheDocument();
+    expect(screen.getByText("7f8b9c3")).toBeInTheDocument();
     expect(screen.getByRole("heading", { name: "National programmes" })).toBeInTheDocument();
     expect(screen.getByRole("heading", { name: "National deadlines" })).toBeInTheDocument();
     expect(screen.getByText("Federal Pell Grant")).toBeInTheDocument();
@@ -428,15 +429,8 @@ function renderPage(initial = "/") {
     <VocabularyProvider>
       <MemoryRouter initialEntries={[initial]}>
         <Routes>
-          <Route
-            path="/"
-            element={
-              <>
-                <LandingPage />
-                <LocationProbe />
-              </>
-            }
-          />
+          <Route path="/" element={<LandingPage />} />
+          <Route path="/search" element={<LocationProbe />} />
         </Routes>
       </MemoryRouter>
     </VocabularyProvider>
@@ -1106,7 +1100,7 @@ test("landing to search to school detail, with GET-only traffic", async ({ page 
   await expect(page).toHaveURL(/state=CA/);
   await expect(page.getByText("Stanford University")).toBeVisible();
   await expect(page.getByText("42/100")).toBeVisible();
-  await expect(page.getByText(/cache hit/)).toBeVisible();
+  await expect(page.locator(".results-meta")).toContainText(/cache hit/);
 
   await page.getByRole("link", { name: "Stanford University" }).click();
   await expect(page).toHaveURL(/\/schools\/243744/);
