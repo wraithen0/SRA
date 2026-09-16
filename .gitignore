@@ -18,6 +18,7 @@ venv/
 # secrets
 .env
 .env.*
+!.env.example
 
 # research scratch that has not been promoted into data/programs yet
 .sra_research/
