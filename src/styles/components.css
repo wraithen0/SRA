@@ -640,6 +640,79 @@
   font-weight: 500;
 }
 
+.site-footer {
+  border-top: 1px solid var(--border);
+  background: var(--bg-subtle);
+  padding: var(--s4) var(--s3) var(--s3);
+}
+
+.site-footer__inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  width: 100%;
+}
+
+.site-footer__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) 1fr 1fr;
+  gap: var(--s4);
+}
+
+.site-footer__brand p {
+  margin: var(--s2) 0 0;
+  max-width: 340px;
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.site-footer__col {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s1);
+}
+
+.site-footer__heading {
+  margin: 0 0 var(--s1);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.site-footer__col a {
+  width: fit-content;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.site-footer__col a:hover {
+  color: var(--text-primary);
+}
+
+.site-footer__bar {
+  margin-top: var(--s4);
+  padding-top: var(--s2);
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--s1) var(--s3);
+}
+
+.site-footer__bar p {
+  margin: 0;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.site-footer__motto {
+  max-width: 520px;
+}
+
 @media (max-width: 640px) {
   .app-main {
     padding: var(--s4) var(--s2) var(--s6);
@@ -657,6 +730,14 @@
 
   .school-header__facts {
     gap: var(--s4);
+  }
+
+  .site-footer__grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .site-footer__brand {
+    grid-column: 1 / -1;
   }
 }
 

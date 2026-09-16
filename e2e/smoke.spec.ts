@@ -7,6 +7,7 @@ test("landing to search to school detail, with GET-only traffic", async ({ page 
   await page.goto("/");
 
   await expect(page.getByRole("heading", { name: /Ranked by what actually pays/i })).toBeVisible();
+  await expect(page.getByRole("contentinfo")).toBeVisible();
   await page.getByRole("link", { name: /Start your search/i }).click();
   await expect(page).toHaveURL(/\/search/);
 

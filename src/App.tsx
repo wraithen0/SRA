@@ -1,5 +1,6 @@
 import { Outlet } from "react-router-dom";
 import { Header } from "./components/layout/Header";
+import { Footer } from "./components/layout/Footer";
 import { MockBanner } from "./components/common/MockBanner";
 
 export default function App() {
@@ -10,9 +11,7 @@ export default function App() {
       <main className="app-main">
         <Outlet />
       </main>
-      <footer className="site-footer">
-        <p>Provenance is the product. Gaps and stale evidence are always shown.</p>
-      </footer>
+      <Footer />
     </div>
   );
 }

@@ -14,7 +14,7 @@ export function LandingPage() {
   return (
     <div className="landing">
       <section className="hero" aria-labelledby="hero-heading">
-        <p className="eyebrow">SRA — Student Resource Architecture</p>
+        <p className="eyebrow">SRA - Student Resource Archive</p>
         <h1 className="hero__title" id="hero-heading">
           Ranked by what actually pays.
         </h1>

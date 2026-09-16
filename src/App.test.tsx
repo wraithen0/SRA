@@ -20,7 +20,11 @@ it("renders the app shell with a header, brand link, footer, and a search nav li
     </VocabularyProvider>
   );
   expect(screen.getByRole("banner")).toBeInTheDocument();
-  expect(screen.getByRole("link", { name: /SRA/ })).toBeInTheDocument();
-  expect(screen.getByRole("link", { name: /Search/ })).toHaveAttribute("href", "/search");
+  const brandLinks = screen.getAllByRole("link", { name: /SRA/ });
+  expect(brandLinks).toHaveLength(2);
+  brandLinks.forEach((link) => expect(link).toHaveAttribute("href", "/"));
+  const searchLinks = screen.getAllByRole("link", { name: "Search" });
+  expect(searchLinks).toHaveLength(2);
+  searchLinks.forEach((link) => expect(link).toHaveAttribute("href", "/search"));
   expect(screen.getByRole("contentinfo")).toBeInTheDocument();
 });

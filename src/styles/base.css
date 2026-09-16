@@ -119,19 +119,6 @@ button {
   font-weight: 500;
 }
 
-.site-footer {
-  border-top: 1px solid var(--border);
-  background: var(--bg-subtle);
-  padding: var(--s3);
-}
-
-.site-footer p {
-  max-width: var(--max-w);
-  margin: 0 auto;
-  font-size: 13px;
-  color: var(--text-muted);
-}
-
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
