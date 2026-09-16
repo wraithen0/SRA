@@ -73,4 +73,18 @@ describe("SearchPage", () => {
     );
     expect(screen.getByRole("button", { name: /Clear filters/i })).toBeInTheDocument();
   });
+
+  it("shows cache provenance and the national layer", async () => {
+    vi.stubEnv("VITE_SRA_MOCK", "1");
+    renderPage();
+    await waitFor(() =>
+      expect(screen.getByText("Example State University")).toBeInTheDocument()
+    );
+    expect(screen.getByText(/6,243 schools searched/)).toBeInTheDocument();
+    expect(screen.getByText(/cache hit/, { selector: ".results-meta__cache" })).toBeInTheDocument();
+    expect(screen.getByText("7f8b9c3")).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: "National programmes" })).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: "National deadlines" })).toBeInTheDocument();
+    expect(screen.getByText("Federal Pell Grant")).toBeInTheDocument();
+  });
 });

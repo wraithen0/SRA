@@ -2,6 +2,8 @@ import { useCallback } from "react";
 import { useSearchParams } from "react-router-dom";
 import { search } from "../api/endpoints";
 import { ErrorBox } from "../components/common/ErrorBox";
+import { DeadlineList } from "../components/school/DeadlineList";
+import { ProgramList } from "../components/school/ProgramList";
 import { FilterBar, type FilterValues } from "../components/search/FilterBar";
 import { Pagination } from "../components/search/Pagination";
 import { ResultList } from "../components/search/ResultList";
@@ -51,6 +53,9 @@ export function SearchPage() {
   };
 
   const results = data?.results ?? [];
+  const count = data?.count ?? results.length;
+  const universeSize = data?.universe_size;
+  const cache = data?.cache;
 
   return (
     <div className="page">
@@ -68,11 +73,21 @@ export function SearchPage() {
       <ErrorBox error={error} />
 
       <h2 className="section__title">
-        {loading
-          ? "Ranking schools…"
-          : `${results.length} ranked match${results.length === 1 ? "" : "es"}`}
-        {data?.total !== undefined ? ` of ${data.total}` : ""}
+        {loading ? "Ranking schools…" : `${count} ranked match${count === 1 ? "" : "es"}`}
       </h2>
+
+      {!loading && (universeSize !== undefined || cache) ? (
+        <p className="results-meta">
+          {universeSize !== undefined ? `${universeSize.toLocaleString("en-US")} schools searched` : null}
+          {universeSize !== undefined && cache ? " · " : null}
+          {cache ? (
+            <span className="results-meta__cache">
+              cache {cache.hit ? "hit" : "miss"} ·{" "}
+              <code>{cache.fingerprint.slice(0, 8)}</code>
+            </span>
+          ) : null}
+        </p>
+      ) : null}
 
       {!loading && !error && results.length === 0 ? (
         <div className="empty-state">
@@ -94,6 +109,9 @@ export function SearchPage() {
         total={data?.total}
         onChange={(offset) => update({ offset })}
       />
+
+      <ProgramList programs={data?.national_programs ?? []} title="National programmes" />
+      <DeadlineList deadlines={data?.national_deadlines ?? []} title="National deadlines" />
     </div>
   );
 }

@@ -1,13 +1,14 @@
 import type { Program } from "../../api/types";
 import { DeadlineList } from "./DeadlineList";
 
-export function ProgramList({ programs }: { programs: Program[] }) {
+export function ProgramList({ programs, title = "Programmes" }: { programs: Program[]; title?: string }) {
   if (programs.length === 0) return null;
+  const headingId = `programs-${title.replace(/[^a-z0-9]+/gi, "-").toLowerCase()}`;
 
   return (
-    <section className="section" aria-labelledby="programs-heading">
-      <h2 className="section__title" id="programs-heading">
-        Programmes
+    <section className="section" aria-labelledby={headingId}>
+      <h2 className="section__title" id={headingId}>
+        {title}
       </h2>
       <ul className="program-list">
         {programs.map((program) => (
