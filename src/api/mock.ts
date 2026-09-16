@@ -21,7 +21,14 @@ export function mockRequest<T>(path: string, params: Record<string, unknown> = {
     if (state === "CA" && profile === "first_generation") {
       return Promise.resolve(searchCa as unknown as T);
     }
-    return Promise.resolve({ results: [], total: 0, limit: 10, offset: 0 } as unknown as T);
+    return Promise.resolve({
+      results: [],
+      total: 0,
+      count: 0,
+      universe_size: 6243,
+      limit: 10,
+      offset: 0
+    } as unknown as T);
   }
 
   if (rawPath.startsWith("/api/v1/schools/")) {

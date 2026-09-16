@@ -85,4 +85,21 @@ describe("request", () => {
     vi.stubGlobal("fetch", vi.fn().mockRejectedValue(new TypeError("network down")));
     await expect(request("/api/v1/status")).rejects.toBeInstanceOf(TypeError);
   });
+
+  it("returns the national layer and cache provenance from the search fixture", async () => {
+    vi.stubEnv("VITE_SRA_MOCK", "1");
+    const data = (await request("/api/v1/search", {
+      profile: "first_generation",
+      state: "CA"
+    })) as {
+      universe_size?: number;
+      cache?: { hit: boolean; fingerprint: string };
+      national_programs?: unknown[];
+      national_deadlines?: unknown[];
+    };
+    expect(data.universe_size).toBe(6243);
+    expect(data.cache).toEqual({ hit: true, fingerprint: "7f8b9c3" });
+    expect(data.national_programs?.length).toBeGreaterThanOrEqual(2);
+    expect(data.national_deadlines?.length).toBeGreaterThanOrEqual(2);
+  });
 });

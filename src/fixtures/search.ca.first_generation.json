@@ -55,6 +55,31 @@
     }
   ],
   "total": 2,
+  "count": 2,
+  "universe_size": 6243,
+  "cache": { "hit": true, "fingerprint": "7f8b9c3" },
   "limit": 10,
-  "offset": 0
+  "offset": 0,
+  "national_programs": [
+    {
+      "program_id": "pell-grant",
+      "name": "Federal Pell Grant",
+      "official_url": "https://studentaid.gov/understand-aid/types/grants/pell",
+      "amount_text": "Up to $7,395 for the 2024-25 award year",
+      "deadlines": [
+        { "label": "FAFSA filing opens", "date_iso": "2026-10-01", "category": "financial_aid", "url": "https://studentaid.gov/h/apply-for-aid/fafsa", "is_past": false, "days_left": 15 }
+      ]
+    },
+    {
+      "program_id": "seog",
+      "name": "Federal Supplemental Educational Opportunity Grant",
+      "official_url": "https://studentaid.gov/understand-aid/types/grants",
+      "amount_text": "Between $100 and $4,000 per year",
+      "deadlines": []
+    }
+  ],
+  "national_deadlines": [
+    { "label": "FAFSA for 2027-28 opens", "date_iso": "2026-10-01", "category": "financial_aid", "url": "https://studentaid.gov/h/apply-for-aid/fafsa", "is_past": false, "days_left": 15 },
+    { "label": "FAFSA priority deadline (most states)", "date_iso": "2027-03-01", "category": "financial_aid", "url": "https://studentaid.gov/h/apply-for-aid/fafsa", "is_past": false, "days_left": 167 }
+  ]
 }

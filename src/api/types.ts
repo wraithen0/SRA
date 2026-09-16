@@ -82,6 +82,11 @@ export interface SearchResponse {
   total?: number;
   limit?: number;
   offset?: number;
+  count?: number;
+  universe_size?: number;
+  cache?: { hit: boolean; fingerprint: string };
+  national_programs?: Program[];
+  national_deadlines?: Deadline[];
 }
 
 export interface SearchQuery {
