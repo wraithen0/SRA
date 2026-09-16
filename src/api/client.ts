@@ -101,6 +101,8 @@ export async function request<T>(
     throw err;
   }
 
+  mockActive = false;
+
   if (!res.ok) {
     const detail = await readDetail(res);
     if (res.status === 404 && path.startsWith("/api/v1/schools/")) {

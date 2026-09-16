@@ -1,13 +1,7 @@
-import { useEffect, useState } from "react";
-import { isMockActive } from "../../api/client";
+import { useMockActive } from "../../hooks/useMockActive";
 
 export function MockBanner() {
-  const [active, setActive] = useState(isMockActive());
-
-  useEffect(() => {
-    const id = setInterval(() => setActive(isMockActive()), 500);
-    return () => clearInterval(id);
-  }, []);
+  const active = useMockActive();
 
   if (!active) return null;
   return (
