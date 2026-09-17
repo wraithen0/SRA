@@ -8,7 +8,7 @@ export function OfficialLinks({ links }: { links: Record<string, string> }) {
   if (entries.length === 0) return null;
 
   return (
-    <section className="section" aria-labelledby="links-heading">
+    <section className="section reveal" aria-labelledby="links-heading">
       <h2 className="section__title" id="links-heading">
         Official links
       </h2>

@@ -2,7 +2,7 @@ import { AlertTriangle } from "lucide-react";
 
 export function GapsPanel({ gaps }: { gaps: string[] }) {
   return (
-    <section className="section section--pattern gaps-panel" aria-labelledby="gaps-heading">
+    <section className="section section--pattern gaps-panel reveal" aria-labelledby="gaps-heading">
       <h2 className="section__title" id="gaps-heading">
         Not verified yet
       </h2>

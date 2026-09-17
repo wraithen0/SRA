@@ -30,7 +30,7 @@ export function ProfileCards() {
   const label = (key: ProfileKey) => profileLabel(key, profiles);
 
   return (
-    <ul className="profile-cards">
+    <ul className="profile-cards reveal">
       {KEYS.map((key) => {
         const Icon = ICONS[key];
         return (

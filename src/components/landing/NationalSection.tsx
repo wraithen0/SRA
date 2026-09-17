@@ -11,7 +11,7 @@ export function NationalSection() {
   if (!data) return null;
 
   return (
-    <section className="section section--pattern" aria-labelledby="national-heading">
+    <section className="section section--pattern reveal" aria-labelledby="national-heading">
       <div className="national-head">
         <div>
           <p className="eyebrow">Federal</p>

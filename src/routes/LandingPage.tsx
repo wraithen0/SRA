@@ -3,16 +3,19 @@ import { ArrowRight } from "lucide-react";
 import { ProfileCards } from "../components/landing/ProfileCards";
 import { HowItWorks } from "../components/landing/HowItWorks";
 import { NationalSection } from "../components/landing/NationalSection";
+import { useRevealOnScroll } from "../hooks/useRevealOnScroll";
 
 export function LandingPage() {
   const [params] = useSearchParams();
+  const pageRef = useRevealOnScroll();
+
   const search = params.toString();
   if (search !== "") {
     return <Navigate to={`/search?${search}`} replace />;
   }
 
   return (
-    <div className="landing">
+    <div className="landing" ref={pageRef}>
       <section className="hero" aria-labelledby="hero-heading">
         <p className="eyebrow">SRA - Student Resource Archive</p>
         <h1 className="hero__title" id="hero-heading">

@@ -22,7 +22,7 @@ const TRUST = ["Cache-first, from verified sources", "Official links only", "Gap
 
 export function HowItWorks() {
   return (
-    <section className="section how-it-works" aria-labelledby="how-heading">
+    <section className="section how-it-works reveal" aria-labelledby="how-heading">
       <h2 className="section__title" id="how-heading">
         How it works
       </h2>

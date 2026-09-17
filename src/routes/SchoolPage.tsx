@@ -4,6 +4,7 @@ import { UnknownSchoolError } from "../api/client";
 import { useVocabulary } from "../api/VocabularyContext";
 import { ErrorBox } from "../components/common/ErrorBox";
 import { useApi } from "../hooks/useApi";
+import { useRevealOnScroll } from "../hooks/useRevealOnScroll";
 import { parseSearchQuery, profileLabel } from "../lib/url";
 import { SchoolHeader } from "../components/school/SchoolHeader";
 import { ScorePanel } from "../components/school/ScorePanel";
@@ -17,6 +18,7 @@ import { ProgramList } from "../components/school/ProgramList";
 export function SchoolPage() {
   const { key = "" } = useParams();
   const [params] = useSearchParams();
+  const pageRef = useRevealOnScroll();
   const query = parseSearchQuery(params);
   const { profiles } = useVocabulary();
 
@@ -54,7 +56,7 @@ export function SchoolPage() {
   }
 
   return (
-    <div className="page page--school">
+    <div className="page page--school" ref={pageRef}>
       <Link className="back-link" to={backTo}>
         Back to search
       </Link>

@@ -7,7 +7,7 @@ export function DeadlineList({ deadlines, title = "Deadlines" }: { deadlines: De
   const headingId = `deadlines-${title.replace(/[^a-z0-9]+/gi, "-").toLowerCase()}`;
 
   return (
-    <section className="section section--pattern" aria-labelledby={headingId}>
+    <section className="section section--pattern reveal" aria-labelledby={headingId}>
       <h2 className="section__title" id={headingId}>
         {title}
       </h2>

@@ -7,7 +7,7 @@ export function FactsEvidence({ facts }: { facts: Fact[] }) {
   if (facts.length === 0) return null;
 
   return (
-    <section className="section" aria-labelledby="facts-heading">
+    <section className="section reveal" aria-labelledby="facts-heading">
       <h2 className="section__title" id="facts-heading">
         Evidence
       </h2>

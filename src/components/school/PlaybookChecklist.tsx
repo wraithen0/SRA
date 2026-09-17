@@ -7,7 +7,7 @@ export function PlaybookChecklist({ steps }: { steps: PlaybookStep[] }) {
   const ordered = [...steps].sort((a, b) => a.order - b.order);
 
   return (
-    <section className="section" aria-labelledby="playbook-heading">
+    <section className="section reveal" aria-labelledby="playbook-heading">
       <h2 className="section__title" id="playbook-heading">
         Playbook
       </h2>

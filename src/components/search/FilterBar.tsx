@@ -10,8 +10,19 @@ export interface FilterValues {
   maxNetPrice: string;
 }
 
-const CONTROLS = ["", "public", "private_nonprofit", "private_forprofit"];
-const LEVELS = ["", "2-year", "4-year"];
+export const CONTROL_LABELS: Record<string, string> = {
+  public: "Public",
+  private_nonprofit: "Private nonprofit",
+  private_forprofit: "Private for-profit"
+};
+
+export const LEVEL_LABELS: Record<string, string> = {
+  "2-year": "2-year",
+  "4-year": "4-year"
+};
+
+const CONTROLS = ["", ...Object.keys(CONTROL_LABELS)];
+const LEVELS = ["", ...Object.keys(LEVEL_LABELS)];
 
 export function FilterBar({
   values,
@@ -46,7 +57,7 @@ export function FilterBar({
         >
           {CONTROLS.map((value) => (
             <option key={value || "any"} value={value}>
-              {value ? value.replace(/_/g, " ") : "Any"}
+              {value ? CONTROL_LABELS[value] ?? value.replace(/_/g, " ") : "Any"}
             </option>
           ))}
         </select>
@@ -62,7 +73,7 @@ export function FilterBar({
         >
           {LEVELS.map((value) => (
             <option key={value || "any"} value={value}>
-              {value || "Any"}
+              {value ? LEVEL_LABELS[value] ?? value : "Any"}
             </option>
           ))}
         </select>
@@ -70,14 +81,19 @@ export function FilterBar({
 
       <label className="field" htmlFor="max_net_price">
         <span className="field__label">Max net price</span>
-        <input
-          id="max_net_price"
-          className="field__input"
-          inputMode="numeric"
-          value={values.maxNetPrice}
-          placeholder="15000"
-          onChange={(event) => onChange({ maxNetPrice: event.target.value.replace(/[^0-9]/g, "") })}
-        />
+        <span className="field__prefix-wrap">
+          <span className="field__prefix" aria-hidden="true">
+            $
+          </span>
+          <input
+            id="max_net_price"
+            className="field__input field__input--prefixed"
+            inputMode="numeric"
+            value={values.maxNetPrice}
+            placeholder="15000"
+            onChange={(event) => onChange({ maxNetPrice: event.target.value.replace(/[^0-9]/g, "") })}
+          />
+        </span>
       </label>
 
       <label className="field field--check" htmlFor="stem_only">
