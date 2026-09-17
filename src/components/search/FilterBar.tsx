@@ -1,3 +1,4 @@
+import type { ReactNode } from "react";
 import type { ProfileKey } from "../../api/types";
 import { ProfileSelect } from "../layout/ProfileSelect";
 
@@ -26,16 +27,20 @@ const LEVELS = ["", ...Object.keys(LEVEL_LABELS)];
 
 export function FilterBar({
   values,
-  onChange
+  onChange,
+  actions
 }: {
   values: FilterValues;
   onChange: (next: Partial<FilterValues>) => void;
+  actions?: ReactNode;
 }) {
   return (
     <div className="filter-bar">
-      <ProfileSelect value={values.profile} onChange={(profile) => onChange({ profile })} />
+      <div className="filter-field filter-field--profile">
+        <ProfileSelect value={values.profile} onChange={(profile) => onChange({ profile })} />
+      </div>
 
-      <label className="field" htmlFor="state">
+      <label className="field filter-field filter-field--state" htmlFor="state">
         <span className="field__label">State</span>
         <input
           id="state"
@@ -47,7 +52,7 @@ export function FilterBar({
         />
       </label>
 
-      <label className="field" htmlFor="control">
+      <label className="field filter-field filter-field--control" htmlFor="control">
         <span className="field__label">Control</span>
         <select
           id="control"
@@ -63,7 +68,7 @@ export function FilterBar({
         </select>
       </label>
 
-      <label className="field" htmlFor="level">
+      <label className="field filter-field filter-field--level" htmlFor="level">
         <span className="field__label">Level</span>
         <select
           id="level"
@@ -79,7 +84,7 @@ export function FilterBar({
         </select>
       </label>
 
-      <label className="field" htmlFor="max_net_price">
+      <label className="field filter-field filter-field--price" htmlFor="max_net_price">
         <span className="field__label">Max net price</span>
         <span className="field__prefix-wrap">
           <span className="field__prefix" aria-hidden="true">
@@ -96,15 +101,21 @@ export function FilterBar({
         </span>
       </label>
 
-      <label className="field field--check" htmlFor="stem_only">
+      <label className="filter-field filter-field--stem toggle" htmlFor="stem_only">
         <input
           id="stem_only"
           type="checkbox"
+          className="toggle__input"
           checked={values.stemOnly}
           onChange={(event) => onChange({ stemOnly: event.target.checked })}
         />
-        <span className="field__label">STEM only</span>
+        <span className="toggle__track" aria-hidden="true">
+          <span className="toggle__thumb" />
+        </span>
+        <span className="toggle__label">STEM only</span>
       </label>
+
+      {actions ? <div className="filter-bar__actions">{actions}</div> : null}
     </div>
   );
 }

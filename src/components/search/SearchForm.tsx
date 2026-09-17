@@ -1,27 +1,16 @@
-import { useEffect, useState } from "react";
 import { Search, X } from "lucide-react";
-import { useDebouncedValue } from "../../hooks/useDebouncedValue";
 
-export function SearchForm({ value, onChange }: { value: string; onChange: (value: string) => void }) {
-  const [draft, setDraft] = useState(value);
-  const debounced = useDebouncedValue(draft, 300);
-
-  useEffect(() => {
-    setDraft(value);
-  }, [value]);
-
-  useEffect(() => {
-    if (debounced !== value) onChange(debounced);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [debounced]);
-
-  const clear = () => {
-    setDraft("");
-    onChange("");
-  };
-
+export function SearchForm({
+  value,
+  onChange,
+  onClear
+}: {
+  value: string;
+  onChange: (value: string) => void;
+  onClear: () => void;
+}) {
   return (
-    <form className="search-form" role="search" onSubmit={(event) => event.preventDefault()}>
+    <div className="search-form">
       <label className="field field--grow" htmlFor="q">
         <span className="field__label">School name or keyword</span>
         <span className="field__with-icon">
@@ -30,22 +19,22 @@ export function SearchForm({ value, onChange }: { value: string; onChange: (valu
             id="q"
             className="field__input search-form__input"
             type="search"
-            value={draft}
+            value={value}
             placeholder="Stanford"
-            onChange={(event) => setDraft(event.target.value)}
+            onChange={(event) => onChange(event.target.value)}
           />
-          {draft ? (
+          {value ? (
             <button
               type="button"
               className="search-form__clear"
               aria-label="Clear search"
-              onClick={clear}
+              onClick={onClear}
             >
               <X size={16} aria-hidden="true" />
             </button>
           ) : null}
         </span>
       </label>
-    </form>
+    </div>
   );
 }

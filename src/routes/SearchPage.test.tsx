@@ -53,13 +53,17 @@ describe("SearchPage", () => {
     await waitFor(() => expect(screen.getByText(/3 not verified/)).toBeInTheDocument());
   });
 
-  it("writes filter changes into the URL", async () => {
+  it("writes filter changes into the URL on Update ranking", async () => {
     vi.stubEnv("VITE_SRA_MOCK", "1");
     renderPage("/?profile=first_generation&state=");
     await waitFor(() =>
       expect(screen.getByText("Example State University")).toBeInTheDocument()
     );
+    const updateButton = screen.getByRole("button", { name: "Update ranking" });
+    expect(updateButton).toBeInTheDocument();
     await userEvent.type(screen.getByLabelText("State"), "CA");
+    expect(updateButton).toBeEnabled();
+    await userEvent.click(updateButton);
     await waitFor(() =>
       expect(screen.getByTestId("location").textContent).toContain("state=CA")
     );
@@ -83,8 +87,11 @@ describe("SearchPage", () => {
     expect(screen.getByText(/6,243 schools searched/)).toBeInTheDocument();
     expect(screen.getByText(/cache hit/, { selector: ".results-meta__cache" })).toBeInTheDocument();
     expect(screen.getByText("7f8b9c3")).toBeInTheDocument();
-    expect(screen.getByRole("heading", { name: "National programmes" })).toBeInTheDocument();
-    expect(screen.getByRole("heading", { name: "National deadlines" })).toBeInTheDocument();
+    expect(
+      screen.getByRole("heading", { name: "National aid programs & deadlines" })
+    ).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: "PROGRAMMES" })).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: "UPCOMING DEADLINES" })).toBeInTheDocument();
     expect(screen.getByText("Federal Pell Grant")).toBeInTheDocument();
   });
 

@@ -12,6 +12,7 @@ test("landing to search to school detail, with GET-only traffic", async ({ page 
   await expect(page).toHaveURL(/\/search/);
 
   await page.getByLabel("State").fill("CA");
+  await page.getByRole("button", { name: "Update ranking" }).click();
   await expect(page).toHaveURL(/state=CA/);
   await expect(page.getByText("Stanford University")).toBeVisible();
   await expect(page.getByText("42/100")).toBeVisible();

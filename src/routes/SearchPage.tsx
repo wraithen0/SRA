@@ -4,14 +4,11 @@ import { SearchX } from "lucide-react";
 import { search } from "../api/endpoints";
 import { useVocabulary } from "../api/VocabularyContext";
 import { ErrorBox } from "../components/common/ErrorBox";
-import { DeadlineList } from "../components/school/DeadlineList";
-import { ProgramList } from "../components/school/ProgramList";
-import { ActiveFilters } from "../components/search/ActiveFilters";
-import { FilterBar, type FilterValues } from "../components/search/FilterBar";
+import { NationalLayer } from "../components/search/NationalLayer";
 import { Pagination } from "../components/search/Pagination";
 import { ResultList } from "../components/search/ResultList";
 import { ResultSkeleton } from "../components/search/ResultSkeleton";
-import { SearchForm } from "../components/search/SearchForm";
+import { SearchConsole } from "../components/search/SearchConsole";
 import { useApi } from "../hooks/useApi";
 import { useRevealOnScroll } from "../hooks/useRevealOnScroll";
 import { DEFAULT_QUERY, parseSearchQuery, profileLabel, serializeSearchQuery } from "../lib/url";
@@ -37,29 +34,6 @@ export function SearchPage() {
     [params, setParams]
   );
 
-  const filterValues: FilterValues = {
-    profile: query.profile,
-    state: query.state ?? "",
-    control: query.control ?? "",
-    level: query.level ?? "",
-    stemOnly: query.stem_only === true,
-    maxNetPrice: query.max_net_price !== undefined ? String(query.max_net_price) : ""
-  };
-
-  const onConsoleChange = (next: Partial<FilterValues> & { q?: string }) => {
-    const patch: Partial<SearchQuery> = {};
-    if ("q" in next) patch.q = next.q || undefined;
-    if (next.profile !== undefined) patch.profile = next.profile;
-    if (next.state !== undefined) patch.state = next.state || undefined;
-    if (next.control !== undefined) patch.control = next.control || undefined;
-    if (next.level !== undefined) patch.level = next.level || undefined;
-    if (next.stemOnly !== undefined) patch.stem_only = next.stemOnly || undefined;
-    if (next.maxNetPrice !== undefined) {
-      patch.max_net_price = next.maxNetPrice ? Number(next.maxNetPrice) : undefined;
-    }
-    update(patch);
-  };
-
   const results = data?.results ?? [];
   const count = data?.count ?? results.length;
   const universeSize = data?.universe_size;
@@ -75,11 +49,7 @@ export function SearchPage() {
         </p>
       </div>
 
-      <div className="search-console">
-        <SearchForm value={query.q ?? ""} onChange={(q) => update({ q: q || undefined })} />
-        <FilterBar values={filterValues} onChange={onConsoleChange} />
-        <ActiveFilters q={query.q} values={filterValues} onChange={onConsoleChange} />
-      </div>
+      <SearchConsole query={query} loading={loading} onCommit={update} />
 
       <ErrorBox error={error} />
 
@@ -134,17 +104,10 @@ export function SearchPage() {
         </p>
       ) : null}
 
-      <div className="national-footer">
-        <div className="national-footer__intro">
-          <p className="eyebrow">Reference</p>
-          <h2 className="national-footer__title">National layer</h2>
-          <p className="page-sub">
-            Federal help that applies no matter which school you pick.
-          </p>
-        </div>
-        <ProgramList programs={data?.national_programs ?? []} title="National programmes" />
-        <DeadlineList deadlines={data?.national_deadlines ?? []} title="National deadlines" />
-      </div>
+      <NationalLayer
+        programs={data?.national_programs ?? []}
+        deadlines={data?.national_deadlines ?? []}
+      />
     </div>
   );
 }

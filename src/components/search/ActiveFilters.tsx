@@ -1,5 +1,6 @@
 import { X } from "lucide-react";
 import { formatNetPrice } from "../../lib/format";
+import { DEFAULT_QUERY } from "../../lib/url";
 import { CONTROL_LABELS, LEVEL_LABELS, type FilterValues } from "./FilterBar";
 
 interface Chip {
@@ -11,13 +12,21 @@ interface Chip {
 export function ActiveFilters({
   q,
   values,
+  profileLabel,
   onChange
 }: {
   q?: string;
   values: FilterValues;
+  profileLabel: string;
   onChange: (patch: Partial<FilterValues> & { q?: string }) => void;
 }) {
   const chips: Chip[] = [];
+
+  chips.push({
+    key: "profile",
+    label: profileLabel,
+    clear: { profile: DEFAULT_QUERY.profile }
+  });
 
   if (q) chips.push({ key: "q", label: `"${q}"`, clear: { q: undefined } });
   if (values.state) {
@@ -58,7 +67,17 @@ export function ActiveFilters({
         <button
           type="button"
           className="active-filters__clear"
-          onClick={() => onChange({ q: undefined, state: "", control: "", level: "", stemOnly: false, maxNetPrice: "" })}
+          onClick={() =>
+            onChange({
+              q: undefined,
+              profile: DEFAULT_QUERY.profile,
+              state: "",
+              control: "",
+              level: "",
+              stemOnly: false,
+              maxNetPrice: ""
+            })
+          }
         >
           Clear all
         </button>
@@ -74,7 +93,7 @@ export function ActiveFilters({
               title={`Remove ${chip.label}`}
               onClick={() => onChange(chip.clear)}
             >
-              <X size={14} aria-hidden="true" />
+              <X size={16} aria-hidden="true" />
             </button>
           </li>
         ))}
